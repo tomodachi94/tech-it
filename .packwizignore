@@ -1,0 +1,6 @@
+.git
+.jj
+.direnv
+flake.nix
+flake.lock
+.envrc

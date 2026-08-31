@@ -1,0 +1,13 @@
+name = "Tech It"
+author = "Tomodachi94"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "95bba0b20c53fbb692b44b434e409028c556397df3e709e83fa364941f7109a6"
+
+[versions]
+forge = "9.11.1.965"
+minecraft = "1.6.4"
