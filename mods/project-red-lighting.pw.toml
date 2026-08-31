@@ -1,0 +1,8 @@
+name = "Project Red Lighting"
+filename = "ProjectRedLighting-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedLighting-1.6.4-4.3.7.32.jar"
+hash-format = "sha256"
+hash = "98358474c0be818b925d28d282b81a3f2307f372f1dd71eab968c0c35fdee335"

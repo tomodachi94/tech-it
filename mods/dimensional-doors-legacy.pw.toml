@@ -1,0 +1,13 @@
+name = "Dimensional Doors Legacy"
+filename = "DimensionalDoors-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ab54dd932f9e26c8a7bad2c1c2b3056eceaf0bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3040779
+project-id = 404239

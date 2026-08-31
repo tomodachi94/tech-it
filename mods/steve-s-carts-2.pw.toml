@@ -1,0 +1,8 @@
+name = "Steve's Carts 2"
+filename = "StevesCarts2.0.0.b10.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/S/steve's%20carts%202/1.6.4/StevesCarts2.0.0.b10.zip"
+hash-format = "sha256"
+hash = "d482e6003c392677d44f8603d733352eb9dff4ed1082ad80b4b34a7c64c41d91"

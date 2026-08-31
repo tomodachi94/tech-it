@@ -1,0 +1,8 @@
+name = "Additional Buildcraft Objects"
+filename = "buildcraft-Z-additional-buildcraft-objects-1.0.7.560.jar"
+side = "both"
+
+[download]
+url = "https://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.2/buildcraft-Z-additional-buildcraft-objects-1.0.7.560.jar"
+hash-format = "sha256"
+hash = "af3b55d4ac2ac51579d12ba68db1a87c05ed9e818418821e8ce18bd2d54f157d"

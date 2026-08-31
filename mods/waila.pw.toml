@@ -1,0 +1,13 @@
+name = "Waila"
+filename = "Waila_1.5.2a.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bba30697afe3f428f72d08ad990ee21492c0ac8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 786719
+project-id = 73488

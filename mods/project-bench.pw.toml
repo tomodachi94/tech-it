@@ -1,0 +1,8 @@
+name = "Project Bench"
+filename = "ProjectBench-1.6.2-v1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20bench/1.6.2/ProjectBench-1.6.2-v1.8.0.jar"
+hash-format = "sha256"
+hash = "9c3bf112c7a6006d004ac046b464c63d38fb1f2400e301c626c107a868cadd95"

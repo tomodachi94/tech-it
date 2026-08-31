@@ -1,0 +1,8 @@
+name = "Modular Powersuits"
+filename = "ModularPowersuits-1.6.4-0.10.0-91.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/modular%20powersuits/1.6.4/ModularPowersuits-1.6.4-0.10.0-91.jar"
+hash-format = "sha256"
+hash = "63cce472bee5e3835c43852e2aecb3a7f38fd188297eda9c413d3a5303241087"

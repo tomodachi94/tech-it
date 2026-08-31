@@ -1,0 +1,8 @@
+name = "Galacticraft Planets"
+filename = "Galacticraft-Planets-1.6.4-2.0.12.1026.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/G/galacticraft%20planets/1.6.4/Galacticraft-Planets-1.6.4-2.0.12.1026.jar"
+hash-format = "sha256"
+hash = "9a23b0dbe9a3b58cb796c462171302ba7668310643e6c27b6052568259eaf218"

@@ -1,0 +1,8 @@
+name = "Calclavia Core"
+filename = "Calclavia Core-1.2.0.299-main.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/calclavia%20core/Calclavia%20Core-1.2.0.299-main.jar"
+hash-format = "sha256"
+hash = "2ad44b95fba991a42b967241ea3f1a95cedfa6ceedd69b325e7cb650497f5245"

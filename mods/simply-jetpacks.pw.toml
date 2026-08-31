@@ -1,0 +1,13 @@
+name = "Simply Jetpacks"
+filename = "SimplyJetpacks-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "352db47413aead57a085c9878f27d833a1833e72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 788783
+project-id = 79325

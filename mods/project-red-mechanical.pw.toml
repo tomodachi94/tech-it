@@ -1,0 +1,8 @@
+name = "Project Red Mechanical"
+filename = "ProjectRedMechanical-BETA-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedMechanical-BETA-1.6.4-4.3.7.32.jar"
+hash-format = "sha256"
+hash = "f3db6941c95f5c456a0391f0006d28c2e342230bd8aa55a05ccbf1792bfbaaf0"

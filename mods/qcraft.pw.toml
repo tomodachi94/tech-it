@@ -1,0 +1,8 @@
+name = "qCraft"
+filename = "qCraft1.1.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/Q/qcraft/1.6.4/qCraft1.1.jar"
+hash-format = "sha256"
+hash = "4ed1a53f3c35ff31c4f454e4e1d03c27d008dce658c67ce05bfeb49182c7ae0d"

@@ -1,0 +1,8 @@
+name = "Redstone In Motion"
+filename = "RedstoneInMotion_2.3.0.0_mc1.6.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/R/redstone%20in%20motion/1.6.x/RedstoneInMotion_2.3.0.0_mc1.6.zip"
+hash-format = "sha256"
+hash = "1ab4c2759d931483d88f2b51301fb3757a1c9556a2700068a98fa1961b5b972d"

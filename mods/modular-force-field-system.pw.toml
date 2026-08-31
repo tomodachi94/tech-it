@@ -1,0 +1,8 @@
+name = "Modular Force Field System (Calclavia)"
+filename = "Modular-Force-Field-System-3.6.2.56-core.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/modular%20force%20field%20system%20calclavia%20edition/Unsorted/Modular-Force-Field-System-3.6.2.56-core.jar"
+hash-format = "sha256"
+hash = "afc5219182f2e413fcc75b6e1ef27b6adff74f861be363422eb28e6d46c85fb3"

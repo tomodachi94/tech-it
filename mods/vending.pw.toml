@@ -1,0 +1,8 @@
+name = "Vending"
+filename = "vending-1.6.4-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://download854.mediafire.com/lgwb1iqcppng81RmitVYsqPdURk0UuJbH76fbg-MMLFK0R5fsL3RDLYv9hvh5URB7216u8pjj9QmT2zVHh8ySdPtBlglE7AJAjo4KePzOEuZKWiErIguHEVMobH8_VeAUQ1UKsGYFX21RNLcKtKpKnlGgT5OtQMSZiZoEG3BfvA/jgv7ji99wxsuogg/vending-1.6.4-1.1.1.jar"
+hash-format = "sha256"
+hash = "597d1912e18c88f27fd6e8ea6cbb4fb69cccc2861a0b0cdc37a07d1ad65740f6"

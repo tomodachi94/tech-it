@@ -1,0 +1,8 @@
+name = "bspkrscore"
+filename = "[1.6.4]bspkrsCorev5.3.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/B/bspkrscore/1.6.4/%5B1.6.4%5DbspkrsCorev5.3.zip"
+hash-format = "sha256"
+hash = "408c950662408cdd08e0fab37a90b67eff4fa7ee01c7877f03cb4b2c49d065dc"

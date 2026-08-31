@@ -1,0 +1,8 @@
+name = "Autoutils"
+filename = "autoutils-1.6.4-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://download1326.mediafire.com/ofds4tm63dogddDzRQqXN_2Z3yOiXgKruBqgKXV2XqQagl1owYq_kDC6mdIv0uINhQIKKGIzic1A1imK8FL5UoDRBVzxnCGzXiWGPj9vl_yny5QtqoUFqC-WT5xzPfRFy8nIkjAaId-rYlCalAkwbIXIcig53PQZO885NAhRfzs/4p8rgfcyds6204q/autoutils-1.6.4-1.0.1.jar"
+hash-format = "sha256"
+hash = "059e23df8d0c50c6a59802120f6f18272b8e1116e5deab6c02bae7e23bb75fec"

@@ -1,0 +1,8 @@
+name = "Inventory Tweaks"
+filename = "InventoryTweaks-MC1.6.2-1.56-b77.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/inventory%20tweaks/1.6.2/InventoryTweaks-MC1.6.2-1.56-b77.jar"
+hash-format = "sha256"
+hash = "b1aee12ee1558c238d40fbcf16d5e88a808ba0d50d7d920e1f2fe0b8c3a3f40f"

@@ -1,0 +1,8 @@
+name = "Dimensional Anchors"
+filename = "dimensional-anchor-57.1.95.jar"
+side = "both"
+
+[download]
+url = "https://www.immibis.com/minecraft/series1/i-understand-the-license-has-probably-changed/files/dimensional-anchor-57.1.95.jar"
+hash-format = "sha256"
+hash = "e8bd6488be17810e13415ccf3c0aeacd70e1e3823a2c53f3a869457cc95ef3ce"

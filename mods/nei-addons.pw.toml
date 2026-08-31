@@ -1,0 +1,8 @@
+name = "NEI Addons"
+filename = "NEIPlugins-1.1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/N/nei%20-%20plugins/1.6.4/NEIPlugins-1.1.0.6.jar"
+hash-format = "sha256"
+hash = "8c1bf2eed7aeafc78be9709b79179a41a5b1d6e453ca1e74ea406ff9407f80b7"

@@ -1,0 +1,8 @@
+name = "Galacticraft"
+filename = "Galacticraft-1.6.4-2.0.12.1026.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/G/galacticraft/1.6.4/Galacticraft-1.6.4-2.0.12.1026.jar"
+hash-format = "sha256"
+hash = "1d2808da663b451fd46d2183b45c3323a06cea545da877877e92487fe6910c36"

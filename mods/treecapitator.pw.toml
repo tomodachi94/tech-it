@@ -1,0 +1,8 @@
+name = "Treecapitator"
+filename = "[1.6.4]TreeCapitator.Forge.1.6.4.r09.Universal.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/tree%20capitator/1.6.4/%5B1.6.4%5DTreeCapitator.Forge.1.6.4.r09.Universal.zip"
+hash-format = "sha256"
+hash = "2a0c68050069985586670d1da5597f9c7ba5d688db7242bc72041e8c171ff164"

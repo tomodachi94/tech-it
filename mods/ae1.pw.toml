@@ -1,0 +1,13 @@
+name = "Applied Energistics"
+filename = "appeng-rv14-finale3-mc16x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AlDk2AVa/versions/patE6mCG/appeng-rv14-finale3-mc16x.jar"
+hash-format = "sha512"
+hash = "74d49efeba6379ec9a1c682cf3d11e6f63013db89f587a9d0581575eacc29ecf9133bc70ad2db4c03861b0625d0635e21af3064a7947cc880d457d60fdce4a13"
+
+[update]
+[update.modrinth]
+mod-id = "AlDk2AVa"
+version = "patE6mCG"

@@ -1,0 +1,8 @@
+name = "Project Red Integration"
+filename = "ProjectRedIntegration-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedIntegration-1.6.4-4.3.7.32.jar"
+hash-format = "sha256"
+hash = "db3ef73baef73b1f9d6a46a582dcd5a208be0b16542a42736782fbc4fc9aaaa9"

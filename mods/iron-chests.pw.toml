@@ -1,0 +1,8 @@
+name = "Iron Chests"
+filename = "ironchest-universal-1.6.4-5.4.1.697.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/iron%20chests/1.6.4/ironchest-universal-1.6.4-5.4.1.697.zip"
+hash-format = "sha256"
+hash = "58d7759ac51f8d59731b490d5fa62a51806771543cf7c71c8ca7f3e9b1d8c34b"
