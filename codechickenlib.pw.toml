@@ -1,0 +1,8 @@
+name = "CodeChickenLib"
+filename = "1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/code%20chicken%20lib/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
+hash-format = "sha256"
+hash = "1b349f7eb14d1ce86e2d671abe01280dbc7bf9609d58ab2e469419b4486cb81e"
