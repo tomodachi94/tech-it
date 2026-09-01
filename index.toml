@@ -503,6 +503,10 @@ hash = "59754c2e4e37ec3b302d55a66d83d40a3a1d59ad4f9ae83ecfc2cb41a37f9f71"
 metafile = true
 
 [[files]]
+file = "java.security"
+hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
+
+[[files]]
 file = "mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
 hash = "1b349f7eb14d1ce86e2d671abe01280dbc7bf9609d58ab2e469419b4486cb81e"
 
