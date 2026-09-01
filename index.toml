@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/nei-addons.pw.toml"
-hash = "b1d844fb5ebd92fb9682d4450cccff43e531e15911c18f456bc968fa7201bde0"
+hash = "5314b8c43d08a765c5ab34d59528cab3f0319ecf1f15a4e1afc7db6b57110840"
 metafile = true
 
 [[files]]
