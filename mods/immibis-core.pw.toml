@@ -1,13 +1,13 @@
 name = "Immibis Core"
-filename = "immibis-core-57.2.0.jar"
+filename = "immibis-core-57.1.94.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iwfxqPXL/versions/JKjPFFOF/immibis-core-57.2.0.jar"
+url = "https://cdn.modrinth.com/data/iwfxqPXL/versions/svgOI2vn/immibis-core-57.1.94.jar"
 hash-format = "sha512"
-hash = "c14b3bb56720e9bca6df94b1ccdfac4d944f72f1622863859043674bc34cc4d5451364bc22419ef82002edd741a8d13d7cd091497bdd67c580123ec7a7adfb90"
+hash = "61818108a58c5d39bbf2362acf1daf66f6e81d0ea4555bc21fac3c8c847d1c9e51e8065e6c6d40a33ba4b7486b2e28a53fce872de20ce4db722682d71d70639b"
 
 [update]
 [update.modrinth]
 mod-id = "iwfxqPXL"
-version = "JKjPFFOF"
+version = "svgOI2vn"

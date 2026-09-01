@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "codechickenlib.pw.toml"
-hash = "a055c7e52d2957dc8f7c917adfad901131202f2e11fcb5277ae2ec01a054088f"
-metafile = true
-
-[[files]]
 file = "config/APUnofficial.cfg"
 hash = "137c2d77a2878399d8c377631826bef46b4807a08137befb171b2c517421ea7b"
 
@@ -498,21 +493,36 @@ file = "config/weaponmod.properties"
 hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
-file = "forge-multi-part.pw.toml"
-hash = "59754c2e4e37ec3b302d55a66d83d40a3a1d59ad4f9ae83ecfc2cb41a37f9f71"
-metafile = true
-
-[[files]]
 file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
 
 [[files]]
-file = "mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
+file = "mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
 hash = "1b349f7eb14d1ce86e2d671abe01280dbc7bf9609d58ab2e469419b4486cb81e"
+
+[[files]]
+file = "mods/1.6.4/ForgeMultipart-universal-1.6.4-1.0.0.250.jar"
+hash = "674842f66bff1cd7ab86571dc4de4bb716acb8823b0a0f473cc78d65b3a1b018"
+
+[[files]]
+file = "mods/ChickenChunks 1.3.3.3.jar"
+hash = "785a6f8cba0e8ee2586d1c4ea2da61e11b02d26a08f285bb372a6c16fd9fda56"
+
+[[files]]
+file = "mods/EnderStorage 1.4.3.5.jar"
+hash = "ffcf7f66725aee6edcff607ccb41f2979a1c9fdb3f2a01f55ba862d11ca6e6ee"
 
 [[files]]
 file = "mods/OPENCCSENSORS-1.6.4.1B.jar"
 hash = "d74430be0283d0451a231da28b5adc7cb0a1112a2625f533621973a909457c9c"
+
+[[files]]
+file = "mods/WR-CBE 1.4.0.6.jar"
+hash = "a99409093f104bd79e6d50829832c4379ec5b2aa08e28f8541eaff462a830055"
+
+[[files]]
+file = "mods/WeaponMod.zip"
+hash = "2fb1801df02fdda20e97c92ac0d23a07c9ae18215c5270ce87099004fee8906c"
 
 [[files]]
 file = "mods/additional-buildcraft-objects.pw.toml"
@@ -529,11 +539,6 @@ file = "mods/atomic-science-1.2.0.63-core.jar"
 hash = "6033719888eb6af8a34e4768b907ad2bd2443beb0aba692ea6fce96f1954d3cb"
 
 [[files]]
-file = "mods/atomic-science.pw.toml"
-hash = "683c16785681c8946827993d2eda4ca9702399d9285f601b91eda9338277245e"
-metafile = true
-
-[[files]]
 file = "mods/autoutils.pw.toml"
 hash = "2784cde5c208c7277a1c0b10a2e51b29c1d5efbcb5ba1e22098ee4ada499c679"
 metafile = true
@@ -544,14 +549,8 @@ hash = "3f48548090a32b8f89022fd343c6cea4d5eb569f66c8a7516edc7109c93a6c12"
 metafile = true
 
 [[files]]
-file = "mods/balkons-weaponmod.pw.toml"
-hash = "6800ac72759690dd690d5f449be88ec6b6dc9766355abf629f70aa6e1f49df73"
-metafile = true
-
-[[files]]
-file = "mods/big-reactors.pw.toml"
-hash = "42dee221d3d2de8f19c806e61f19985ddd29f788738a8cfb615c17404db98746"
-metafile = true
+file = "mods/bigreactors-0.3.0A.jar"
+hash = "6f2ac2331a015463ffe4f70e54a72a0502df43e328b8ca71c7c53d01989ee0ff"
 
 [[files]]
 file = "mods/bspkrscore.pw.toml"
@@ -569,23 +568,13 @@ hash = "cc6a02568d10501aec26860e5cc10768a4035cb6236f1df7fa98841c186c4144"
 metafile = true
 
 [[files]]
-file = "mods/carpenters-blocks.pw.toml"
-hash = "0f243806facf09060c872f4898a1bad4d4b40883ebafc12e35d3b0da400d3198"
+file = "mods/carpenter-s-blocks.pw.toml"
+hash = "cf49d5887fe989a5e9161e878a92319ba48f1d0c7f0ea55203df12dc2ceb408f"
 metafile = true
 
 [[files]]
-file = "mods/chicken-chunks.pw.toml"
-hash = "4359d55be87af5cb57fd229afabff12efdf73f77c5c2c2acaef4a00876b97510"
-metafile = true
-
-[[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
-metafile = true
-
-[[files]]
-file = "mods/codechickenlib.pw.toml.bak"
-hash = "282061309ebcc8d44f047cf6f3e50b959b93198774698927fda0bca54d5c89ba"
+file = "mods/codechickencore 0.9.0.7.jar"
+hash = "a442afbddccd3eb49cc318ee7e4411711a8c95c1426061f5589dc379b164a23b"
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
@@ -608,11 +597,6 @@ hash = "e10c6a0b2a9b5ba523d8d9e890292e8dc65e923bc48e6ea89982c68432bbe862"
 metafile = true
 
 [[files]]
-file = "mods/ender-storage.pw.toml"
-hash = "0f4a5c5ee3ac6560847fcdbcf1db940536e0492e762f24203515811d5d8210bb"
-metafile = true
-
-[[files]]
 file = "mods/equivalent-exchange-3.pw.toml"
 hash = "138e87c152e53a24ce813c5683a6c5fa9cd205b622df27739787f77d48c852c9"
 metafile = true
@@ -623,14 +607,8 @@ hash = "4ceca26730bb2b6fb87e492d3aab3a396c468efecbd49a9311baf16b610b946e"
 metafile = true
 
 [[files]]
-file = "mods/extracells.pw.toml"
-hash = "fc25914ef0d53560b7e08f4f56a3625dadee570b8ae1bd1fe1c33b5b3c8c70b8"
-metafile = true
-
-[[files]]
-file = "mods/forge-multi-part.pw.toml"
-hash = "8c2d3369c8cd8d2e6b569f6298456ea3948000e5d9c6b1c26e4e452467914faf"
-metafile = true
+file = "mods/extracells-1.6.8f.jar"
+hash = "c5400d5a24bdda3d13524f249e6f872dba5ee95a8ac947b7ba974c3943694e24"
 
 [[files]]
 file = "mods/galacticraft-planets.pw.toml"
@@ -649,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/immibis-core.pw.toml"
-hash = "5c6838e5c982e09fc75b2199f88dad63a1799d171393747089713772ae717e66"
+hash = "0e38aa9dc420adf0625b7f0917ae388437a79d0b4db8f5fad69c33490d62c88c"
 metafile = true
 
 [[files]]
@@ -673,11 +651,6 @@ hash = "f40c957a3e46031c080df8720a021b717398e41479262400d0d93de62656e9d4"
 metafile = true
 
 [[files]]
-file = "mods/logistics-pipes.pw.toml"
-hash = "c7fc219f44bea41d18ec17707825555b0b25448ab2a0f318da9d22b9e2fd3ab5"
-metafile = true
-
-[[files]]
 file = "mods/logisticspipes-mc1.6.4-0.7.4.dev.205.jar"
 hash = "a798e3fc878a0f7ae4c80f96c97634d080fac19c1fc79d6471faa8df3908625b"
 
@@ -693,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/minefactory-reloaded.pw.toml"
-hash = "e41afbcf542ef664216cc50c4db41b7775757138fea5ff033a7558237a3e1982"
+hash = "87a650a62adc62643e61979896bcebae34eeca87fdb2fa9c09d443100aa2990a"
 metafile = true
 
 [[files]]
@@ -722,9 +695,8 @@ hash = "6f4dee8b812742014dcb1be9f931c47fdf6a3571978258b2f1e3e6d549c19ac4"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.pw.toml"
-hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
-metafile = true
+file = "mods/notenoughitems 1.6.1.8.jar"
+hash = "651afeb7bce6c8a44f0b53c80ffe6ea65b1ada610b0cd9e6ead1c3d7e0130f42"
 
 [[files]]
 file = "mods/numina.pw.toml"
@@ -732,23 +704,8 @@ hash = "780702bd43d8c19d4035309cbd1c4586c1dfb273dfe001fe7aaeeb140e33e77f"
 metafile = true
 
 [[files]]
-file = "mods/openccsensors.pw.toml"
-hash = "ddb6b86318f36bbe1e52e646db60f138014fbd5a2d39d3b70b3b597c42136103"
-metafile = true
-
-[[files]]
 file = "mods/openmodslib.pw.toml"
 hash = "762ed46965a76eab98ef1021f7ac163dbbb7e06e3dc7ef69df120f3a2a730a5c"
-metafile = true
-
-[[files]]
-file = "mods/openperipheral-addons.pw.toml"
-hash = "0a834bc1637023b4d2c6e1d46d7e89917084ce31c729e92ed534ddfc1648c494"
-metafile = true
-
-[[files]]
-file = "mods/openperipheral-core.pw.toml"
-hash = "998885e1754f255404f6117abbb0a7d43f19c5718f10ebf708ca7af18a81ce5a"
 metafile = true
 
 [[files]]
@@ -762,11 +719,6 @@ hash = "17fcaec09534205b7710b3ab83aa0761aeb48bb3b476713df35fd71c7ebc32f0"
 [[files]]
 file = "mods/powercrystalscore.pw.toml"
 hash = "48fa9813089dca304766c1a63c7091241590e4221608686ffa90c41805ca1d46"
-metafile = true
-
-[[files]]
-file = "mods/powersuit-addons.pw.toml"
-hash = "f2dc0f44565296e62f52a9a726f154bb8ce8c8f927471dd303dcbb2080a86e67"
 metafile = true
 
 [[files]]
@@ -835,17 +787,12 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "1ab85344c915f9c51b7904f688f49c7f17115bbb0972f10dc8c855a109aef266"
+hash = "d2fa38663c5cf330c9c14a90965628add8bcd929ee7120c4982bc2a9965a964d"
 metafile = true
 
 [[files]]
 file = "mods/tradebooth.0.6.4.2.zip"
 hash = "d5dae3ae0c7fd25856922a870555ffe46b333ce422b538f8294fdbd897821fd5"
-
-[[files]]
-file = "mods/tradebooth.pw.toml"
-hash = "f90b82d84845ddec45583efc4b5b280391289fa9bacc8d589fdb6620579fa988"
-metafile = true
 
 [[files]]
 file = "mods/treecapitator.pw.toml"
@@ -857,11 +804,6 @@ file = "mods/universal-electricity-3.1.0.66-core.jar"
 hash = "a0b171d11b4f088236f1345b01a89ce6b4b6b02183a5d9cc4a923bcdd4a6159b"
 
 [[files]]
-file = "mods/universal-electricity.pw.toml"
-hash = "d90548eaa0265f179a9df6b626a3e13350a99d68b62440a9e625c7ae5c16b190"
-metafile = true
-
-[[files]]
 file = "mods/vending-block.pw.toml"
 hash = "eee0845b15b86e78e9aead5e557f6a723f4099752af802481a69d2305ae5ea74"
 metafile = true
@@ -869,9 +811,4 @@ metafile = true
 [[files]]
 file = "mods/waila.pw.toml"
 hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
-metafile = true
-
-[[files]]
-file = "mods/wr-cbe-universal.pw.toml"
-hash = "04bc5025dec55f633658f134481b1a6af4d235e871ead3971f55bb480b389e3d"
 metafile = true

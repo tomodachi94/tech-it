@@ -1,13 +1,8 @@
 name = "Thermal Expansion"
-filename = "ThermalExpansion-3.0.0.7.jar"
+filename = "ThermalExpansion-3.0.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35715e84204d1d7d5211ed4c8c2d348c577d878b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 789826
-project-id = 69163
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/thermal%20expansion/1.6.x/ThermalExpansion-3.0.0.6.jar"
+hash-format = "sha256"
+hash = "50d1bcc1c84a375e1f586108247718873b95af6003364d09f93864c33d4deffe"

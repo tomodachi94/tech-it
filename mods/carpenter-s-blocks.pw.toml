@@ -1,0 +1,8 @@
+name = "Carpenter's Blocks"
+filename = "Carpenter's Blocks v2.0.8 - MC 1.6+.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/carpenters%20blocks/1.6.x/Carpenter's%20Blocks%20v2.0.8%20-%20MC%201.6%2B.zip"
+hash-format = "sha256"
+hash = "295941d7967aeb3fa4d4b690b0aaa7c3340f55bf7f15cb5184697e40dea8e58e"
