@@ -370,7 +370,7 @@ hash = "d171edac43a40d679719203a2bdf12cb75697e223d0c644d488f6b282e851a66"
 
 [[files]]
 file = "config/mystcraft/symbols.cfg"
-hash = "d7afe177a91679efef065edbb75a8644e34a4b36765563429ed733d4257610a2"
+hash = "3726b8cf7c41dfe88e7659d5ac90bfc0ad563b75dfdcafabd8f4d1d636c722fd"
 
 [[files]]
 file = "config/powercrystals/core/client.cfg"
@@ -773,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-in-motion.pw.toml"
 hash = "413b3a7ff13d99d49f8cbfb566ae84fe0d2dccb15e949820677c8971cb4b6330"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
 metafile = true
 
 [[files]]
