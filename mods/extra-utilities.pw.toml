@@ -1,8 +1,8 @@
 name = "Extra Utilities"
-filename = "extrautils-1.0.2.zip"
+filename = "extrautils-1.0.3c.zip"
 side = "both"
 
 [download]
-url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/E/extra%20utilities/1.6.4/extrautils-1.0.2.zip"
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/E/extra%20utilities/1.6.4/extrautils-1.0.3c.zip"
 hash-format = "sha256"
-hash = "01a94a8f50f3bde7ad282fd39a71ea3c0441b764e4bd6ce3ac8fe3a58e35817d"
+hash = "2ca6f21ec974e76ada1cccfb0efbf293de6bae42e0e08da3b20b939af0ab1c9d"

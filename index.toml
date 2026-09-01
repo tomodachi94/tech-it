@@ -526,7 +526,7 @@ hash = "2fb1801df02fdda20e97c92ac0d23a07c9ae18215c5270ce87099004fee8906c"
 
 [[files]]
 file = "mods/additional-buildcraft-objects.pw.toml"
-hash = "db9b526bb45eeb30026fe2510790b3c065e7e7643068ba604ea58a9533fab1ca"
+hash = "722aeb885106cda23291a502c1c887cbe260729de2657f85191c3d2ec9d0a6c7"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-utilities.pw.toml"
-hash = "4ceca26730bb2b6fb87e492d3aab3a396c468efecbd49a9311baf16b610b946e"
+hash = "dd2ff46a6a6d83d303a1ac4f4df0437c93257efc8e23bb6d29c70c12f37e6c0c"
 metafile = true
 
 [[files]]
