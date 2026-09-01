@@ -1,13 +1,13 @@
 name = "ComputerCraft"
-filename = "ComputerCraft1.58.zip"
+filename = "ComputerCraft1.63.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r7tyeVvQ/versions/9Ab7HWWG/ComputerCraft1.58.zip"
+url = "https://cdn.modrinth.com/data/r7tyeVvQ/versions/6QR4Hcoh/ComputerCraft1.63.jar"
 hash-format = "sha512"
-hash = "97d90aff2bda1acac077d19501faf8d7c11d1167fca3f6f2906ce3b19101b99a2cb25eb1c6c3c683b11e073dfd6012968625bbd9990b4aa5953f3f0664c859f7"
+hash = "01195614d2e44c5959593977f2888a7e9e66e21a102f99d37727787bf0fd06ca8a7f59df86f88ef47344c4480a6f8bf05f2f6d695db96e1804d0d6b06f5c68f5"
 
 [update]
 [update.modrinth]
 mod-id = "r7tyeVvQ"
-version = "9Ab7HWWG"
+version = "6QR4Hcoh"

@@ -513,8 +513,8 @@ file = "mods/EnderStorage 1.4.3.5.jar"
 hash = "ffcf7f66725aee6edcff607ccb41f2979a1c9fdb3f2a01f55ba862d11ca6e6ee"
 
 [[files]]
-file = "mods/OPENCCSENSORS-1.6.4.1B.jar"
-hash = "d74430be0283d0451a231da28b5adc7cb0a1112a2625f533621973a909457c9c"
+file = "mods/OpenCCSensors-1.6.4.5.jar"
+hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
 [[files]]
 file = "mods/WR-CBE 1.4.0.6.jar"
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/computercraft.pw.toml"
-hash = "9f838b93307de4f1545950f24eee054be8e8686cb02ea2d7ae60b0a2dfb335bf"
+hash = "95f28b11282c09950d4ad814eb2875b1e3d830c2764becfc11b13c0ed2bc8f72"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/immibis-core.pw.toml"
-hash = "0e38aa9dc420adf0625b7f0917ae388437a79d0b4db8f5fad69c33490d62c88c"
+hash = "5c6838e5c982e09fc75b2199f88dad63a1799d171393747089713772ae717e66"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/minefactory-reloaded.pw.toml"
-hash = "87a650a62adc62643e61979896bcebae34eeca87fdb2fa9c09d443100aa2990a"
+hash = "e41afbcf542ef664216cc50c4db41b7775757138fea5ff033a7558237a3e1982"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-jetpacks.pw.toml"
-hash = "4bab03087a43555e0f1aab06785cd237a521ce5faa5970ef9ee3f02ada70d6b8"
+hash = "9f99cd6c80eefa24c11699f276d9c268bccdfbe4546d828b5d581195f2af294d"
 metafile = true
 
 [[files]]
