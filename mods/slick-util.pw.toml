@@ -1,8 +1,0 @@
-name = "Slick-Util (library)"
-filename = "slick-util.jar"
-side = "both"
-
-[download]
-url = "https://web.archive.org/web/20141016204742id_/http://slick.ninjacave.com/slick-util.jar"
-hash-format = "sha256"
-hash = "c85f3d80b30487e11531df2032579c7ffa3fc3c0c045e9918f24153422fa6baf"
