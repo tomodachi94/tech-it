@@ -786,6 +786,11 @@ hash = "4bab03087a43555e0f1aab06785cd237a521ce5faa5970ef9ee3f02ada70d6b8"
 metafile = true
 
 [[files]]
+file = "mods/slick-util.pw.toml"
+hash = "9684472620d64d75dd8d5a5f3a60888ca46c260d4d38c696238b4cc81476b5a7"
+metafile = true
+
+[[files]]
 file = "mods/steve-s-carts-2.pw.toml"
 hash = "409e2a603aca9d0368403ed58f7e03de517b4a0b200746278938704b122837e4"
 metafile = true
