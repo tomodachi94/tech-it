@@ -1,0 +1,13 @@
+name = "ComputerCraft Pastebin Patch"
+filename = "computercraft-pastebin-patch.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65CVhIWm/versions/d7BKbRm0/computercraft-pastebin-patch.zip"
+hash-format = "sha512"
+hash = "c7ae7c67ca19bd4d12935e7883a294e44146f2d7812fc6f4a5ea68dc2edbc8df2b556b39874bc6305772146447993db90926fcf0c2e20bda0ad1d39d604b9910"
+
+[update]
+[update.modrinth]
+mod-id = "65CVhIWm"
+version = "d7BKbRm0"

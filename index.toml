@@ -812,3 +812,8 @@ metafile = true
 file = "mods/waila.pw.toml"
 hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
 metafile = true
+
+[[files]]
+file = "resourcepacks/computercraft-pastebin-patch.pw.toml"
+hash = "e91b79418907907c697a0c556acb165df13214755f626e443491bada302a1c00"
+metafile = true
