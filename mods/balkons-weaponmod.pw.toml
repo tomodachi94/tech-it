@@ -1,0 +1,13 @@
+name = "Balkon's WeaponMod"
+filename = "WeaponMod-v1.13.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3ed10525907c1b71c401af7572506bacf7ed0b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2203182
+project-id = 75525

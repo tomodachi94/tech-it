@@ -1,0 +1,13 @@
+name = "OpenPeripheralAddons"
+filename = "OpenPeripheralAddons-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf38e88e6a4d09e31bcd737390fcfac6c53a5e60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232526
+project-id = 228818

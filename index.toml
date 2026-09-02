@@ -497,16 +497,14 @@ file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
 
 [[files]]
-file = "mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.61.jar"
-hash = "1b349f7eb14d1ce86e2d671abe01280dbc7bf9609d58ab2e469419b4486cb81e"
+file = "mods/1.6.4/codechickencore.pw.toml"
+hash = "67cd8eb3fe5bfabaab047a194afb19fad08c94b420ac11f8acc50095402d14b3"
+metafile = true
 
 [[files]]
-file = "mods/1.6.4/ForgeMultipart-universal-1.6.4-1.0.0.250.jar"
-hash = "674842f66bff1cd7ab86571dc4de4bb716acb8823b0a0f473cc78d65b3a1b018"
-
-[[files]]
-file = "mods/ChickenChunks 1.3.3.3.jar"
-hash = "785a6f8cba0e8ee2586d1c4ea2da61e11b02d26a08f285bb372a6c16fd9fda56"
+file = "mods/1.6.4/forge-multipart.pw.toml"
+hash = "40a925248c36db49673b4db3dbe40d047255494cf9d88f4673fda7a5aee1f5b9"
+metafile = true
 
 [[files]]
 file = "mods/EnderStorage 1.4.3.5.jar"
@@ -515,14 +513,6 @@ hash = "ffcf7f66725aee6edcff607ccb41f2979a1c9fdb3f2a01f55ba862d11ca6e6ee"
 [[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
 hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
-
-[[files]]
-file = "mods/WR-CBE 1.4.0.6.jar"
-hash = "a99409093f104bd79e6d50829832c4379ec5b2aa08e28f8541eaff462a830055"
-
-[[files]]
-file = "mods/WeaponMod.zip"
-hash = "2fb1801df02fdda20e97c92ac0d23a07c9ae18215c5270ce87099004fee8906c"
 
 [[files]]
 file = "mods/additional-buildcraft-objects.pw.toml"
@@ -546,6 +536,16 @@ metafile = true
 [[files]]
 file = "mods/backpack.pw.toml"
 hash = "3f48548090a32b8f89022fd343c6cea4d5eb569f66c8a7516edc7109c93a6c12"
+metafile = true
+
+[[files]]
+file = "mods/balkons-weaponmod.pw.toml"
+hash = "56d9d8e60182aff53202c4722ae71eae837defe8bb3a8842c86c3ddb839ca9a5"
+metafile = true
+
+[[files]]
+file = "mods/big-reactors.pw.toml"
+hash = "42dee221d3d2de8f19c806e61f19985ddd29f788738a8cfb615c17404db98746"
 metafile = true
 
 [[files]]
@@ -573,8 +573,19 @@ hash = "cf49d5887fe989a5e9161e878a92319ba48f1d0c7f0ea55203df12dc2ceb408f"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore 0.9.0.7.jar"
-hash = "a442afbddccd3eb49cc318ee7e4411711a8c95c1426061f5589dc379b164a23b"
+file = "mods/chickenchunks.pw.toml"
+hash = "4bad6e82715df62ffb9c3a12c1c66bdd122bc4198be2fe0f217d84b914134598"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.pw.toml"
+hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
+metafile = true
+
+[[files]]
+file = "mods/codechickenlib.pw.toml"
+hash = "11fef77ab579f749d456b6f8534bbbd2b130ab10b89fb8fbce31492bf0ffbc08"
+metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
@@ -594,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-doors-legacy.pw.toml"
 hash = "e10c6a0b2a9b5ba523d8d9e890292e8dc65e923bc48e6ea89982c68432bbe862"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "0f4a5c5ee3ac6560847fcdbcf1db940536e0492e762f24203515811d5d8210bb"
 metafile = true
 
 [[files]]
@@ -695,8 +711,9 @@ hash = "6f4dee8b812742014dcb1be9f931c47fdf6a3571978258b2f1e3e6d549c19ac4"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems 1.6.1.8.jar"
-hash = "651afeb7bce6c8a44f0b53c80ffe6ea65b1ada610b0cd9e6ead1c3d7e0130f42"
+file = "mods/notenoughitems.pw.toml"
+hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
+metafile = true
 
 [[files]]
 file = "mods/numina.pw.toml"
@@ -705,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/openmodslib.pw.toml"
-hash = "762ed46965a76eab98ef1021f7ac163dbbb7e06e3dc7ef69df120f3a2a730a5c"
+hash = "5fa5aae870bb6a970c25ff9b7b746e9c22db3768de27136ac81c18171adfb51f"
 metafile = true
 
 [[files]]
@@ -713,8 +730,18 @@ file = "mods/openperipheraladdons-0.1.3.jar"
 hash = "da42f225234ad44dcf03292c3d9459202c2cab600817688ce862e25f4bd5a155"
 
 [[files]]
+file = "mods/openperipheraladdons.pw.toml"
+hash = "45aed6e6a31130511b5b29dbcc2b55b71b3a0f7ef615b0ed4577471abe6c9103"
+metafile = true
+
+[[files]]
 file = "mods/openperipheralcore-0.3.3.jar"
 hash = "17fcaec09534205b7710b3ab83aa0761aeb48bb3b476713df35fd71c7ebc32f0"
+
+[[files]]
+file = "mods/openperipheralcore.pw.toml"
+hash = "267b3b517fad7d3e2db08e498a7716342294c221d2c2378d89e645e272bd0e94"
+metafile = true
 
 [[files]]
 file = "mods/powercrystalscore.pw.toml"
@@ -816,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/waila.pw.toml"
 hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-universal.pw.toml"
+hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
 metafile = true
 
 [[files]]
