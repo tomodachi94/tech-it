@@ -497,20 +497,6 @@ file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
 
 [[files]]
-file = "mods/1.6.4/codechickencore.pw.toml"
-hash = "67cd8eb3fe5bfabaab047a194afb19fad08c94b420ac11f8acc50095402d14b3"
-metafile = true
-
-[[files]]
-file = "mods/1.6.4/forge-multipart.pw.toml"
-hash = "40a925248c36db49673b4db3dbe40d047255494cf9d88f4673fda7a5aee1f5b9"
-metafile = true
-
-[[files]]
-file = "mods/EnderStorage 1.4.3.5.jar"
-hash = "ffcf7f66725aee6edcff607ccb41f2979a1c9fdb3f2a01f55ba862d11ca6e6ee"
-
-[[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
 hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
@@ -627,6 +613,11 @@ file = "mods/extracells-1.6.8f.jar"
 hash = "c5400d5a24bdda3d13524f249e6f872dba5ee95a8ac947b7ba974c3943694e24"
 
 [[files]]
+file = "mods/forge-multipart.pw.toml"
+hash = "40a925248c36db49673b4db3dbe40d047255494cf9d88f4673fda7a5aee1f5b9"
+metafile = true
+
+[[files]]
 file = "mods/galacticraft-planets.pw.toml"
 hash = "fd0504e92ba74e764b2bb30beee73cae52ec5921492aa8b95418b0ac39be820d"
 metafile = true
@@ -726,17 +717,9 @@ hash = "5fa5aae870bb6a970c25ff9b7b746e9c22db3768de27136ac81c18171adfb51f"
 metafile = true
 
 [[files]]
-file = "mods/openperipheraladdons-0.1.3.jar"
-hash = "da42f225234ad44dcf03292c3d9459202c2cab600817688ce862e25f4bd5a155"
-
-[[files]]
 file = "mods/openperipheraladdons.pw.toml"
 hash = "45aed6e6a31130511b5b29dbcc2b55b71b3a0f7ef615b0ed4577471abe6c9103"
 metafile = true
-
-[[files]]
-file = "mods/openperipheralcore-0.3.3.jar"
-hash = "17fcaec09534205b7710b3ab83aa0761aeb48bb3b476713df35fd71c7ebc32f0"
 
 [[files]]
 file = "mods/openperipheralcore.pw.toml"
