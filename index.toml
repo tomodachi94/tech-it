@@ -493,6 +493,10 @@ file = "config/weaponmod.properties"
 hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
+file = "idfixminus.txt"
+hash = "beb0f56bf3a1cf4b645d990eff18fc57366eae03c935248de96bf19cf6c23db6"
+
+[[files]]
 file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
 
@@ -602,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "bfa6e7fc2b045d73e5d1a87e7824056b227aa6fe34893c431e5b141b0ab541d2"
+metafile = true
+
+[[files]]
+file = "mods/extrabiomesxl.pw.toml"
+hash = "c457ccfe7abb92772edbf59e30c162a12c640811e99909b89e5687917761e622"
 metafile = true
 
 [[files]]
