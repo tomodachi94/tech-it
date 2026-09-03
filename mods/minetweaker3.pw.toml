@@ -1,0 +1,13 @@
+name = "MineTweaker3"
+filename = "MineTweaker3-1.6.4-3.0.9C.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96f2a59fb1ece2d6b68d9f8273293e49833bd88b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233930
+project-id = 224029
