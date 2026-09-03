@@ -483,6 +483,7 @@ blocks {
     S:3401=assets.pamharvestcraft.PamHarvestCraft|pamorangeID|3971
     S:3402=assets.pamharvestcraft.PamHarvestCraft|pamorangesaplingID|3972
     S:3403=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|BlockCouchBlack|518
+    S:3751=pzyber.extraperipherals.ExtraPeriepherals|BundledConnector|3751
     S:3753=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitID|3753
     S:3754=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitsaplingID|3754
     S:3768=atomicscience.AtomicScience|radioactive|3768

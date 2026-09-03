@@ -1,0 +1,8 @@
+name = "Extra Peripherals"
+filename = "ExtraPeripherals-1.6.4-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://upload.pzyber.net/minecraft/ExtraPeripherals-1.6.4-0.3.0.jar"
+hash-format = "sha256"
+hash = "da676258d6e0bf0b3599dec4e6fac2a79cd3f2310928e2b95eea92b4f322a9d7"

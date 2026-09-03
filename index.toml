@@ -502,7 +502,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "e87bc9e590d5c7b5ab92fed24941db61e9535d1f5abe3f3bd0188e5b23830803"
+hash = "f0ece55be615d9e8a4d25702475222cead4ce49011f502792f760fdceebeaf62"
 
 [[files]]
 file = "java.security"
@@ -629,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/equivalent-exchange-3.pw.toml"
 hash = "2f20cb620f5eaba2a5a1bdb00404ec1fe066ef16da8265de296a3719117f8158"
+metafile = true
+
+[[files]]
+file = "mods/extra-peripherals.pw.toml"
+hash = "3958f2070e7ba045328c1d145f2c0e0b41dd6111e8cdb29a2a3ffad743cfaa3c"
 metafile = true
 
 [[files]]
