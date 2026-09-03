@@ -498,7 +498,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "aa7a13ec4f7c7a1a33d446454af617c9ec4c4d53f4d33355485214413e64951f"
+hash = "2dab8759916d9a8361928523ca014c50fa26c44bee0878d9d19d733f9dcbad08"
 
 [[files]]
 file = "java.security"
@@ -540,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/big-reactors.pw.toml"
 hash = "3dad7cf9d94a3457eb0af33de11f7449b63391ea974227206625616fb36b7a10"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "59dddd58909c0cc49bf8c30b5e5cf3595b3fa105f4db3edee1b9cf8dd7dce81d"
 metafile = true
 
 [[files]]

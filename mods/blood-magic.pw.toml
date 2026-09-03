@@ -1,0 +1,8 @@
+name = "Blood Magic"
+filename = "Blood Magic v1.0.1b.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/B/blood%20magic/1.6.x/Blood%20Magic%20v1.0.1b.zip"
+hash-format = "sha256"
+hash = "18a33024ed0244d7d2ad2fd4321834e42b71b03e79351a5631b62165c506e865"
