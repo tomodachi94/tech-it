@@ -221,6 +221,10 @@ file = "config/buildcraft/main.conf"
 hash = "61fad82b2724b266fdbeddead7f14534a9a0125cc828c490c332d2a99c568f49"
 
 [[files]]
+file = "config/cfm.cfg"
+hash = "f8d2b09dd8ec158471ddf49c05ce02bd668b6bc2fb2c45ad229ae3ebaffd2a06"
+
+[[files]]
 file = "config/cofh/CoFHCore.cfg"
 hash = "f131d80f7bbb8a2959cb81112df775388c8aa6f1ba00245e6d9c82d70e70c100"
 
@@ -728,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/morph.pw.toml"
 hash = "40b6a358f75e10b86ea25557c03ad13ccb8389d4ff72c6e1b2b5cbbb33bc6d20"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-s-furniture-mod.pw.toml"
+hash = "a6669d4d033c8634d1d669e322052ac73582879ca2b53cec4b9861a794c37a70"
 metafile = true
 
 [[files]]

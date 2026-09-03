@@ -1,0 +1,8 @@
+name = "MrCrayfish's Furniture Mod"
+filename = "MrCrayfishFurnitureModv3.3.4(1.6.4).jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mr%20crayfish's%20furniture%20mod/1.6.4/MrCrayfishFurnitureModv3.3.4(1.6.4).jar"
+hash-format = "sha256"
+hash = "1defb4004b8b752bf27eae96b3382d404e91d2c47f886e4939280e4d71464893"
