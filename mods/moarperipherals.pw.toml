@@ -1,0 +1,13 @@
+name = "MoarPeripherals"
+filename = "MoarPeripherals-1.6.4-1.63-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4028fd047ee15d4d91c13abfa1018b65c68796c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2241660
+project-id = 221675

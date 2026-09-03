@@ -730,6 +730,11 @@ hash = "8022223dddd7c1d8695d793e90dfdf0820a399b2f072b19372648e3b4e7c1e22"
 metafile = true
 
 [[files]]
+file = "mods/moarperipherals.pw.toml"
+hash = "36e2f16d120032f6dc98d27879ed122d7dbda0b8e0c61d9b5c38ba0f721677b8"
+metafile = true
+
+[[files]]
 file = "mods/modular-force-field-system.pw.toml"
 hash = "8e6cb1008d6d0f657e0155212291315111770b963ae025bc52a3e57a2d213e99"
 metafile = true
