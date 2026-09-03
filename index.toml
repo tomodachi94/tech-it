@@ -1220,6 +1220,11 @@ file = "mods/atomic-science-1.2.0.63-core.jar"
 hash = "6033719888eb6af8a34e4768b907ad2bd2443beb0aba692ea6fce96f1954d3cb"
 
 [[files]]
+file = "mods/atomicstrykers-battle-towers.pw.toml"
+hash = "2cb68a61bd898aa6933c2ca5676c84f5ce5d4bed0b1fa229341e0478b90474a7"
+metafile = true
+
+[[files]]
 file = "mods/autoutils.pw.toml"
 hash = "a127d2886611edc97d0ba6d41ffa1c311de5f66b3030bc328e7471c5222e5a7b"
 metafile = true

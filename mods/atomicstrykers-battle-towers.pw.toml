@@ -1,0 +1,13 @@
+name = "AtomicStryker's Battle Towers"
+filename = "BattleTowers_1.6.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9941b250d925aa0e1eef4115680947e5c4e79c9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2227588
+project-id = 227877
