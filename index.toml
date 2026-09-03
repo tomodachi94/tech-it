@@ -1610,6 +1610,11 @@ hash = "c7e9da2ba71449a4f5cb0f755a72e9f99229f4e4dbd68c387e3b1a389af99dce"
 metafile = true
 
 [[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "1a48ad92752e6b7dc76a7f4b0c0e12c4ac9a748010aca2e3a8e870a802b1f36d"
+metafile = true
+
+[[files]]
 file = "mods/waila.pw.toml"
 hash = "a945dc9731bb36e0b552bd99a77a6be0857bf86ab64c8e2541cf82e81fb8178b"
 metafile = true
