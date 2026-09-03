@@ -373,6 +373,10 @@ file = "config/mystcraft/symbols.cfg"
 hash = "3726b8cf7c41dfe88e7659d5ac90bfc0ad563b75dfdcafabd8f4d1d636c722fd"
 
 [[files]]
+file = "config/pamharvestcraft.cfg"
+hash = "247b7c53242ff644ed8b357fda5c03b742b2c6243a0870185703de4c2146a08a"
+
+[[files]]
 file = "config/powercrystals/core/client.cfg"
 hash = "70a8d031215ce520daf9868634d420b2897e28dbd7c0123149ee2b5bf325ed4d"
 
@@ -494,7 +498,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "beb0f56bf3a1cf4b645d990eff18fc57366eae03c935248de96bf19cf6c23db6"
+hash = "ea885dfca54bd0b9c3e2bac23b4e67a88c03890d53763e4b2b95392ce810dc79"
 
 [[files]]
 file = "java.security"
@@ -739,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/openperipheralcore.pw.toml"
 hash = "601aecb418e379dd6db185b422164e5adf8c75a1bcec9e3a89a5070f7aff0263"
+metafile = true
+
+[[files]]
+file = "mods/pam-s-harvestcraft.pw.toml"
+hash = "f6e187facae70169a7f5bab36bc34599148643f190faa1439c385b27363690fd"
 metafile = true
 
 [[files]]
