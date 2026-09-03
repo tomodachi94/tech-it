@@ -1,0 +1,8 @@
+name = "4-Space"
+filename = "Galacticraft-MVJSUN-1.6.4-2.1.1.zip"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/0/4%20space/1.6.4/Galacticraft-MVJSUN-1.6.4-2.1.1.zip"
+hash-format = "sha256"
+hash = "92e2f63b0206a89146fe235aff5141a2782deb7efbf459436e58be372e4aa603"

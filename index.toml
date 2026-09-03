@@ -1186,11 +1186,16 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "4ef3b8e8aa8a14a2c8f3669be103bb7f9c4dffb928f3ab227de8afc96e94df11"
+hash = "7352fafd4a8f552ad252d5d85aed35e8033b19839c845435ff24e3061bb44289"
 
 [[files]]
 file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
+
+[[files]]
+file = "mods/4-space.pw.toml"
+hash = "dd67d100a8ebf094a8501bfb6001cd43bdd3006fa57c70a95b7100ca9e66bca7"
+metafile = true
 
 [[files]]
 file = "mods/BetterDungeons2091.zip"
@@ -1410,6 +1415,11 @@ hash = "a798e3fc878a0f7ae4c80f96c97634d080fac19c1fc79d6471faa8df3908625b"
 [[files]]
 file = "mods/lumy-skin-patch.pw.toml"
 hash = "69be2ef1041e6da5139062a3f838d977d6cb270659711cdcf83fa68269c880ff"
+metafile = true
+
+[[files]]
+file = "mods/mattcore.pw.toml"
+hash = "8d78b7395ef29bbf5f9d1d27b83506cf29de54eb78a5513db7aa575fd36a772a"
 metafile = true
 
 [[files]]
