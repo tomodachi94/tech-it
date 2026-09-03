@@ -808,6 +808,11 @@ hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
 metafile = true
 
 [[files]]
+file = "mods/silverage-extra.pw.toml"
+hash = "afc7ba933b4aaabbd20ec52456ce31e3b5bd21cded53f7e056409ce818c67978"
+metafile = true
+
+[[files]]
 file = "mods/simply-jetpacks.pw.toml"
 hash = "9f99cd6c80eefa24c11699f276d9c268bccdfbe4546d828b5d581195f2af294d"
 metafile = true

@@ -1,0 +1,13 @@
+name = "SilverAge Extra"
+filename = "silverage_extra-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uMwep49G/versions/2xG0MSM5/silverage_extra-1.0.jar"
+hash-format = "sha512"
+hash = "d37d9b82c92d44ca593e8a5797e9e4638c33549e069cf058386758d31957eab519f05206d3a3b4b62517e75edc5613356dd2a2a28e46b7f044484d8a37a4c965"
+
+[update]
+[update.modrinth]
+mod-id = "uMwep49G"
+version = "2xG0MSM5"
