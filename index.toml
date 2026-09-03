@@ -683,11 +683,6 @@ hash = "8022223dddd7c1d8695d793e90dfdf0820a399b2f072b19372648e3b4e7c1e22"
 metafile = true
 
 [[files]]
-file = "mods/modtweaker.pw.toml"
-hash = "271169f9088d71ed62035fb9b68d15a6bed5bc7c5ace04f4c49606accd3b4291"
-metafile = true
-
-[[files]]
 file = "mods/modular-force-field-system.pw.toml"
 hash = "8e6cb1008d6d0f657e0155212291315111770b963ae025bc52a3e57a2d213e99"
 metafile = true
