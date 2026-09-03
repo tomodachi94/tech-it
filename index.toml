@@ -1552,6 +1552,11 @@ hash = "df7d7c7f95333a5fae6d41288ec99fede1cd879263c7b5673fe893f488b4a94c"
 metafile = true
 
 [[files]]
+file = "mods/ruins-structure-spawning-system.pw.toml"
+hash = "f481b820988d6ead0b53c534250da3661cf0cb93284928aef3d034a1d6e185fa"
+metafile = true
+
+[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
 metafile = true

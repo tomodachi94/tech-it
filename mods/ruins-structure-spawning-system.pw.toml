@@ -1,0 +1,13 @@
+name = "Ruins (Structure Spawning System)"
+filename = "Ruins_1.6.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8de68e7861ea3df11e04fee814270682ef242b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2227572
+project-id = 227873
