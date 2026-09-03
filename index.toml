@@ -1030,7 +1030,7 @@ hash = "b56afe7fc480f3781a66e583d75878a82cce0d1b00751eb2378f7b68f2ae46bb"
 
 [[files]]
 file = "config/minetweaker/main.cfg"
-hash = "9c688f0a46ff193b6411562dca749170ab305a61b3a606a35ceb5c1ffec4d384"
+hash = "9268d1231f0dd64436d6e2d35f29b45c6df1126d0c6515cb24e5e057ed1893bf"
 
 [[files]]
 file = "config/mmmPowersuits.cfg"
@@ -1608,3 +1608,7 @@ metafile = true
 file = "resourcepacks/computercraft-pastebin-patch.pw.toml"
 hash = "e91b79418907907c697a0c556acb165df13214755f626e443491bada302a1c00"
 metafile = true
+
+[[files]]
+file = "scripts/betterdungeons.zs"
+hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
