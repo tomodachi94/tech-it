@@ -1,6 +1,690 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Chocolate/Building/castles/BigTree"
+hash = "ff68354dce1bfbe5ee5093148f7a63dfe726d4df9f90c2771cd0fcec49d51833"
+
+[[files]]
+file = "Chocolate/Building/castles/Castle"
+hash = "a7cd5c472e942f9d80c278b414243f400c0e546192b890b5c2fdb1c5919f4cc0"
+
+[[files]]
+file = "Chocolate/Building/castles/CastleDragon"
+hash = "6af4915f9d41bda43900d91a9a31f5ab68761db9c6dc8f9fa4c91f99e0aae665"
+
+[[files]]
+file = "Chocolate/Building/castles/RavineCastle"
+hash = "6fcb1ca754adf607d453a1e582d8ff8c79f323cd32b506037eb13fdd286d4739"
+
+[[files]]
+file = "Chocolate/Building/castles/kamiPalace"
+hash = "ad4f65edbf67325ae206b81cbdda1c3be0c740abd79c8311336ee9ca89d974e6"
+
+[[files]]
+file = "Chocolate/Building/castles/lakeCastle"
+hash = "16ebdb8a4ee23edd625341a80c17bbc9abff4a0cc1cbe5a22ceef67465d6d241"
+
+[[files]]
+file = "Chocolate/Building/castles/neaEkkleasia.xiraxis"
+hash = "51e743ca7d0694f4e5a8986338d4386eda6fa96dad8c014c04c396fcb978fb41"
+
+[[files]]
+file = "Chocolate/Building/castles/skyCastle"
+hash = "0fcb5e487ee4f5d1290297ba25caf895cd89c3f2dc3f28e52ed6cae2505bdfc2"
+
+[[files]]
+file = "Chocolate/Building/castles/wizardscape.kanokarb"
+hash = "2c532e172219fb95a1650179a87c0b4482275c16d4cd04d99d55278458d0ae6b"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/Creeper&Zombie"
+hash = "dd6df249a134b1f61640707a4bdde00967b60c9931a0aa52aa611409dab3c5e9"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/Oasis"
+hash = "eb5df11ee8aa4dd4db8a2040db0b93466758e8cb773178cd34824f9d507ec9f3"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/OasisPalm"
+hash = "62dc59caa55b201de1116337437a91c2a72e9836355ceef9be2a41be75a8a923"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/PyramidSmall"
+hash = "c40981533bc794e1ea7ad35dd707a37a2275a69603f03aefc5d29baec0f3c4c3"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/Sphynx"
+hash = "30655fafa4131dfb42153455f357b8e76888a803921543361b4d86d1b09766c9"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/SpynxSmall"
+hash = "e1be08a316ec3400d8687aa17f06ec7771e83600b58b1a7ad59473dc1e86ed90"
+
+[[files]]
+file = "Chocolate/Building/desertStronghold/pyramid"
+hash = "ac670d9b76a06e1a5eef55f169e64e7e8fcbb00967f764171c2a0368e3c206d8"
+
+[[files]]
+file = "Chocolate/Building/dungeons/bossRoom"
+hash = "b1c38158b5512dc141dc9dd467740b781208af30496a42f95aec49d8555f1bdd"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/0/0n0"
+hash = "1d51adb72df2b27a2787cfbf52adaece35b1936da63c2848f5ff887457c97d51"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/0/0n1"
+hash = "315ab0464b7bf87a67f619438cb2520660c29e3f4f6bc5320220036466af80cc"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/0/0n2"
+hash = "0c5dd147774ccb9da3d8b8da4d0951453733f153243211ef2a93f00564a7f8a2"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/0/0n3"
+hash = "c7aeff7a44afad841c74d9eb51805a7587e837fcc12262836bf78121a587ee17"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/1/1n0"
+hash = "90002e8574fdf878cae5aafe401fadb0f00a34dcb6f855b255ae1622157629f3"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/1/1n1"
+hash = "8a443b95980985e2c44da75250f49cb8d5e814c23b63374524be618637361119"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/1/1n2"
+hash = "3845ce69ea5d4730620ef2c57f9ef2b1193efa42adf36b0a76c28d4d5debf751"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/1/1n3"
+hash = "5496cb10fe0e30f1869ff97856357bf7645fd1d42c35ebf4c8c63b8fc9e0ba24"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/1/1n4"
+hash = "e42415ed0550686d901713ff1c04e465a2cb6d9fe0a759a6421dc5e732bafe42"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/10/10n0"
+hash = "ebbca343b869bbdecd8db45bf1acbd7a2732a3c47e4a7be56f20d26138721762"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/10/10n1"
+hash = "55983d238626a4f1ca35b0f062f3c828c429b96a081d1101cc9c6506a8152e6a"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/10/10n2"
+hash = "4b18e0467e8b654d2dd4d5506c8f658590a080e4e7bcdf1ab834c80153f70c9c"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/10/10n3"
+hash = "669a27750a951169b5ac94cafb2ec56d5fe5ddbb37599ee50e59dc615314c1dc"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/11/11n0"
+hash = "c81d10369af9bcf6c01e864ef1430b854eb095b5cda580f1c3e746ed13f61a41"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/11/11n1"
+hash = "58ef58f5d54e397bfa0c31c204e57e7a0595a4cd6ef02700e0b8bc5c9ccf8a45"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/11/11n2"
+hash = "3da23f55fd24de5f2d1d3218032677c005ee9091f7b0fff0e5cab19b1a6b8364"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/11/11n3"
+hash = "ca232f5ba6ec627b6d95090a4131fb8e90f10c1f6dcf49f589a8dd68eff510c8"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/2/2n0"
+hash = "9ffe77971a5db97dbc6b26cd09116e18dc84402700db2caab283c61ce4743158"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/2/2n1"
+hash = "829f2b16fdba51c111dee0c40c606116ea42c54348d4b18e87fb7dac1766797f"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/2/2n2"
+hash = "66fe633fd971a33a6e08454d0b661285552fd6c960d7ad86696edfec79b99c09"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/2/2n3"
+hash = "8162b06a81460c681cb4ff74a9826ef537f83bf426e40da22f5a7c17aea93930"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/2/2n4"
+hash = "f45d87557a62384368f1e3d5d2d38e1a1bd8014fc526a2d1e3166a34411c2680"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/3/3n0"
+hash = "de40cdf9617b3dbd4e337fccf44da00dd7641ea3422d9874a4afa97782e9668b"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/3/3n1"
+hash = "9ebfc9d84a836a47baffe7e9b7533ee61ec9c770ab77dd5b41b15e3fcd4e559b"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/3/3n2"
+hash = "c5c75abc735337804100de1241a8dac2975595722f6b12398085c2842c928aea"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/3/3n3"
+hash = "cd5ee60cc9a5baf1baee8e47ab33d776c1b43d986418a60a036635b13126088a"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/4/4n0"
+hash = "e6a7e20c60c827c93de3625bdefe1c5eda5d342b89f969f5dcd12a69d29a722c"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/4/4n1"
+hash = "9731b7fa8df3f2a2145a3ae21bad0716457f6421b9823af2a02aab038ebcfba0"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/4/4n2"
+hash = "f94a84e290bb2a390635f37dfbe13ecc3df964a2793e3f991999c5ecbc8e63fa"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/4/4n3"
+hash = "05ac8c0961c84423c5ebc9a1c6c806b90cf2100d5e7311e7148d05396e473603"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/4/4n4"
+hash = "0c2505d43e35a5b869d179947e2776f8c2ca6abdbee165e7c753ac1bb7ff8bae"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/5/5n0"
+hash = "131d7a7b6a6514305363a804d83a9e73354290fb46e3b8b86e58ede01fd20dbd"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/5/5n1"
+hash = "9e1c2eaad6828355397ad0a0182bd30fb5520670da3f8072901f3e8ea58a31a1"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/5/5n2"
+hash = "ab296e65cd44f140f0f9335d3c1d16ceb070fdee95ff5769f38ee722e3efa263"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/5/5n3"
+hash = "006a0aed21a14841cd8e17b8f4f78cfd215a995406f78fbac937885068fb60fb"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/5/5n5"
+hash = "72b76cb98db330d6e56d876ed01840ce59c3a017833045e226baf179faab5743"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/6/6n0"
+hash = "e6fec80023bf4194c625e00fb07e2d5a23ba7b0817db59dfa1cc8d6085839fae"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/6/6n1"
+hash = "6d7213a309f6522a65ce141acc62374d25225a21fa684674aefdbdb1b11ad18e"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/6/6n2"
+hash = "9246ebb5d8120b0e8eb33af430f43ae0e06b4112f4403a9daec950cc2a0ff525"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/6/6n3"
+hash = "ddbc4e91eaf9ac4462b5b040299b02a04ecffa58f1a7cd7cf310feef305e276c"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/7/7n0"
+hash = "d72b8dfa5edca7b7f1f35793d1c099f2ba861edd07bccdbe249f819919130d84"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/7/7n1"
+hash = "15b38244ef398bbf3a3e081f0ac5f3fac5e5428c93d42fc4b90f18b7fc5202e6"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/7/7n2"
+hash = "10b8fd03aa590993aa9c2987a671af6caa404fdbdc1d6009d230755f7e7859a6"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/7/7n3"
+hash = "98884d0c887cd5b555aa0e1f81a27d5e4d7eb049cce335fd69d9ff000ba460e2"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/8/8n0"
+hash = "3b88399817701db8517686f1e7673cbaadfa4ce9c675c912a14b98160949c22a"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/8/8n1"
+hash = "1fddac546fab42d1d205d0ff81b9260896d566f1c1dbfe84989e403a04a161ab"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/8/8n2"
+hash = "2a2ab2683792e7696fe2b335fd493b0e9d84bd2811aa8ef9a1d2a2dd5ae4081e"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/8/8n3"
+hash = "cfc28941cc0754c640f4d5f89f417d3debd174574f5e2a4ad38170620e9ae796"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/9/9n0"
+hash = "82f9ddb5ed3ca311759082d2cb4464de87d984c51357ed094ec6e21405487fb3"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/9/9n1"
+hash = "d1716e2c3d49d8b1da4d9bc51ff19e87aa6379d113c004158036282f96cc9e00"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/9/9n2"
+hash = "961980aa1ed3ee18c9901847f90b0cc1db8725f7398fff787cd677917b2490b0"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/9/9n3"
+hash = "d7d4478b44e697c632003cfdf78ff7209a68bdb94218948cbeca0df031fd7ef7"
+
+[[files]]
+file = "Chocolate/Building/dungeons/dungeonRooms/9/9n4"
+hash = "fe4a93ae1556a9d129ee9eebc1b3bd70a42304edbb96b511b2a6b72d0f6f3e0a"
+
+[[files]]
+file = "Chocolate/Building/dungeons/entrance"
+hash = "cbe71965de03b1df335897097b97580599b38ac4da1cfd8ce2337a9ee3a5e02b"
+
+[[files]]
+file = "Chocolate/Building/dungeons/stairs0"
+hash = "55dbb5d38ac42b04f2da6d49dd3a0d95a2afdaef306d6a801b21ec5172115080"
+
+[[files]]
+file = "Chocolate/Building/dungeons/stairs1"
+hash = "4b21f20efca1cf58a9e2d7d1c24df96bd47d023e8b609374719da0544b7fa8ce"
+
+[[files]]
+file = "Chocolate/Building/dungeons/stairs2"
+hash = "7e11a72fb47aa9f27c9db25fa0e9cb04f3201eb33593f88827190b23538009c5"
+
+[[files]]
+file = "Chocolate/Building/dungeons/stairs3"
+hash = "270f47aec619106df4acbcc6d3cdc3f262a16e58b2fdbf7c8b463b838df7e38b"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Arena"
+hash = "af6324cfc2d093e87af2b34775e2be18f5cf5811d61738e9327d69d37ecc322d"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Bar"
+hash = "87d155f58d68b410602fcb666340079369e68d91267b0126cebd663156499486"
+
+[[files]]
+file = "Chocolate/Building/pigcity/BlackTree"
+hash = "fef5af3bdde1a11819f4c98cd1957c8a937f2f24f04c78901932c5547b7c7af9"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Chalet"
+hash = "54ed2eab595e17c2b9f61179520cf2229bf5f1b732170e624b4d3cac2afa0d36"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Fortress"
+hash = "0ed38345c1c66e0d4eb35d6936658327b2cee7d0fb671495ecf45658c2a5bc9a"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Fountain"
+hash = "5daee030aeff35584a8ceddc5f918929dfb3891979cd44d30e09d65e6556cd1c"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Gym"
+hash = "db2285dabe98d99db92e909784b094d8cc290901be9e338c3c096f53eabc9946"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Hotel"
+hash = "d4a04ded28cc0f22dc6768e875c323d084756496b6d0c38f11c3f74cf0e09686"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Mansion1"
+hash = "b3478df22b05adc3f0796bdb3e3e468a35091eb4aa171adac3073e6e2bf3037d"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Mansion2"
+hash = "1edd3a8c4a6aee73123f9de3c758c719ad01886ca551b54b503466b83809df11"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Mansion3"
+hash = "948f893955369ddbe1bfe90597623b60b86926ea55b12ebbffcf877eefcf289b"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Plaza"
+hash = "4852d4d59901e69688f60a8fa32bb97c25d31fe6e5542b3943016bf117ed5a53"
+
+[[files]]
+file = "Chocolate/Building/pigcity/PortalTemple"
+hash = "91550d8facd0ff5919d59588c1be9c124e38c123b268c9c61863dd0d60db6123"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Prison"
+hash = "166295b047f7ddf7133f6aa50eec161cc4136615904bb70cc5248c8418bd2b07"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Temple"
+hash = "d9d2e3a279920e1474b379850d57627a262f06c31deece4e763f6ea095768b47"
+
+[[files]]
+file = "Chocolate/Building/pigcity/Tower"
+hash = "b64c2d6781c6aa1c5c5f8fd4c69ddd22f8b265c60f4316360b2b5aab2249158c"
+
+[[files]]
+file = "Chocolate/Building/pigcity/bigDungeon"
+hash = "a183e22ee5824444b99ea0b00690cb5426db0a800023bb618e01c1bcf3ca132d"
+
+[[files]]
+file = "Chocolate/Building/pigcity/bigHouse"
+hash = "91edf153d6cba4cc0af55992cdcc776cacd43a5667aef9803f597aca5a75b7b5"
+
+[[files]]
+file = "Chocolate/Building/pigcity/castle"
+hash = "c9b21953233065b191e294e8948875588369bde963379e7ce8957f0e8d5eacef"
+
+[[files]]
+file = "Chocolate/Building/pigcity/coliseum"
+hash = "3738430a2d023705a8c613bacdbe316f4d69774f02aeae9441b00f276b635c5c"
+
+[[files]]
+file = "Chocolate/Building/pigcity/deagonNest"
+hash = "280627a955883ef0950ca34153111e6899f94707b47d223e3604aa17491dcf06"
+
+[[files]]
+file = "Chocolate/Building/pigcity/farm"
+hash = "880e19f74392f28d610e96140e2c9f43313718f6e1a5f7bd9af0e0884821d744"
+
+[[files]]
+file = "Chocolate/Building/pigcity/house"
+hash = "dc3c3797df8e40cb9a96dd656204813f48f51f9d403ab6059df3d2a24778bedc"
+
+[[files]]
+file = "Chocolate/Building/pigcity/house1"
+hash = "c13ea3679f232eec07a1725cf6bdcd704aad749794561abb6882af03003b0760"
+
+[[files]]
+file = "Chocolate/Building/pigcity/house2"
+hash = "8214449c4aaa460e64fa0e352328b0e6501da9647b2beccc02e8dc61c4cf3b8d"
+
+[[files]]
+file = "Chocolate/Building/pigcity/house3"
+hash = "22243e89369e0165c7697655d444feed8d1ec52c245bbc15a1c5e5d3a88a6239"
+
+[[files]]
+file = "Chocolate/Building/pigcity/mageTower"
+hash = "189e09a48ef92b328bdf504bc4c1996031d154e2cab6c0e42877622218ef6d7c"
+
+[[files]]
+file = "Chocolate/Building/pigcity/park"
+hash = "a8f1d65a9b5ef90ae1bea71e845c3fa87e264aa598e9a4ea0f6b901024327dfa"
+
+[[files]]
+file = "Chocolate/Building/pigcity/rollerCoaster"
+hash = "9ac9f35ec13aef10b809094ef500405f2aca2e1b62788e67f5deeaae4d27b10f"
+
+[[files]]
+file = "Chocolate/Building/pigcity/shop"
+hash = "f07c6e01b956193a2ac6b6d6786f8455377d2f6c19a33fa067a7a4ba6a5b78a7"
+
+[[files]]
+file = "Chocolate/Building/pigcity/walledBuilding"
+hash = "59b608302e2ef1db439cbf1c72a48c79d07d4bdd5e00b9abf7b8c99ca1e091d1"
+
+[[files]]
+file = "Chocolate/Building/ships/FishingBoat..xiraxis"
+hash = "ec321e403052bdf18d1222926acb54b50b394584a611da239dcefdfcdb9c21f6"
+
+[[files]]
+file = "Chocolate/Building/ships/Galleon"
+hash = "67a72454dc8c5c65c2af141b9387fbc6c7533ade59410eb0e0410e42c5808283"
+
+[[files]]
+file = "Chocolate/Building/ships/SmallShipPaint"
+hash = "b0939bb1ec25fcbe7355c4a7c93b7acf776dbb6bd962e02956cfe48f5a16910d"
+
+[[files]]
+file = "Chocolate/Building/ships/galleonCannons"
+hash = "a3dad9a53d684ef3ed08c0ad38ac62ad778690871ff887eb35ea6f02a4305bcf"
+
+[[files]]
+file = "Chocolate/Building/ships/netherShip"
+hash = "cdba5e41abfc7371228a11aed5254c7184df11a0a4724e0e60c8e9dbab05c1de"
+
+[[files]]
+file = "Chocolate/Building/ships/pirateIsland"
+hash = "9380bd468203c322c87630e91d3b7091c7c5e8772f1e3825dbcf4a3cdbcb7435"
+
+[[files]]
+file = "Chocolate/Building/ships/shipSkeleton"
+hash = "04f64968979eaf4e16cca42a0000fabf65c52fce88c1bdffaae17335d1df0603"
+
+[[files]]
+file = "Chocolate/Building/ships/smallGalleon"
+hash = "3d108cbbfb85e1c8a21cb4a62d82ea5a8e5556c49ce7853a26ba131d6b4ec95b"
+
+[[files]]
+file = "Chocolate/Building/ships/smallShipCreeper"
+hash = "e3b720a2481afce17232c15facaf4e69eb196cdcfd8aa2dc5fc2a60bff31bdae"
+
+[[files]]
+file = "Chocolate/Building/ships/smallShipFlag"
+hash = "625025e99c346ed3cd0624cd5a36b7414a976931b493950286e3f56164b3dbc5"
+
+[[files]]
+file = "Chocolate/Building/ships/smallShipGlass"
+hash = "65a603bc3a79827287a5ce38243797649a97b7fb539a4de1e779e6daa09df6cb"
+
+[[files]]
+file = "Chocolate/Building/ships/tradeCog.xiraxis"
+hash = "1fa670e0bee1f67e775f71cb0c84ed36331a434a245ba257474afa2a1b6435f0"
+
+[[files]]
+file = "Chocolate/Building/snowCastles/CastleWE"
+hash = "3701dbfed45778c61526ec4f35d9a3b603eb1d91621a6eb8baf2a129943f1d23"
+
+[[files]]
+file = "Chocolate/Building/snowCastles/Cathedral"
+hash = "726609deec240692328b6fe50cc5b792f590a87b282e1dc37368cbc838ec93ff"
+
+[[files]]
+file = "Chocolate/Building/snowCastles/MountainCastle"
+hash = "4eed3428f8bfdc266cb7c622dc9febd8a6c266e41a5ccb0b71bf3aa415535914"
+
+[[files]]
+file = "Chocolate/Building/snowCastles/RedstoneCastle"
+hash = "cbc796f56f0edaa20f3b693ab6ab11c5acc14530f239e871ba0bc09463453358"
+
+[[files]]
+file = "Chocolate/Building/snowCastles/SnowVillage"
+hash = "f2b4333badbe694e14713df6e06eef25cefd5b6fe3406928e0e5b9bcbbd31464"
+
+[[files]]
+file = "Chocolate/Building/stronghold/castle"
+hash = "30d3f7a99e880cead3ef31478cfb64a2c06f1271634d89dd8420d4fe5caaef35"
+
+[[files]]
+file = "Chocolate/Building/stronghold/guardTower"
+hash = "59ea89b8c08f8fc486e10b451143c1038904ddd766666ba1ce2f714f319f0c34"
+
+[[files]]
+file = "Chocolate/Building/stronghold/guardTower.xiraxus"
+hash = "3fe5e9c191f28603270f69978a14019574d4f8c4b0e165032973b72b7dd3ba08"
+
+[[files]]
+file = "Chocolate/Building/stronghold/skull"
+hash = "f2e4adb33f80f35c7cf7b845f42c9f7b9c5b2f273ede19e83773974319b3876d"
+
+[[files]]
+file = "Chocolate/Building/stronghold/tower"
+hash = "3b56efb46cfc64cc70296e42d57d364a1c81bb71daf14caaa2512609befcb9ba"
+
+[[files]]
+file = "Chocolate/Building/stronghold/tower1"
+hash = "d94111af1ffd1b720fe48f0c6b9b6c6592eccbd7d7351166caa9fb8bb00abf5e"
+
+[[files]]
+file = "Chocolate/Building/stronghold/trees"
+hash = "cede9b05f017cbe5ac15770de7836d29fb6d9ce4413e987da5eb83a67efa7234"
+
+[[files]]
+file = "Chocolate/Building/stronghold/waterfall"
+hash = "b432a79ed5fbfdba15be12815b0b54be90eaa2e08a9a4bf133adb1d542673492"
+
+[[files]]
+file = "Chocolate/Building/swampCave/ExplosiveTemple"
+hash = "5462eb0e14f9cddac8758ffcf1df72ac9362043e66bdb0c050dfba24c2c39e72"
+
+[[files]]
+file = "Chocolate/Building/swampCave/JungleRuin"
+hash = "ed2163092122c218976f1ec1818904c18860b6de529beecb9c6e30d1060da2a4"
+
+[[files]]
+file = "Chocolate/Building/swampCave/JungleTree"
+hash = "d28a8d0d09ac92b045ec62a1aed782ef33facc992c7bee0b7d4e51a7af2cdca3"
+
+[[files]]
+file = "Chocolate/Building/swampCave/Temple"
+hash = "a6b074a2f5909311673dc69697d1d7bf6a4a8517ad9a4dc0c0c8e9409168de9b"
+
+[[files]]
+file = "Chocolate/Building/swampCave/mushroomBarracks"
+hash = "fe21021417f951d14df844a1d54e4c7dab2e587f85ac864eea138eadafd0392d"
+
+[[files]]
+file = "Chocolate/Building/test/Template"
+hash = "f8c2f88e85691eae8ad265a63ee088f1010c4b7fa2a3f8f70a42812db935b31d"
+
+[[files]]
+file = "Chocolate/DungeonConfig/castles.prop"
+hash = "1b36c53e1c284ef97650563d6674f129345efcb5feae192fd686672a138997a2"
+
+[[files]]
+file = "Chocolate/DungeonConfig/iceCave.prop"
+hash = "efe169f3f81b3bf1b05c1750ee23fa9304f9b5a042568bca737c29d095031391"
+
+[[files]]
+file = "Chocolate/DungeonConfig/jungleCave.prop"
+hash = "da4675e057d245da149c859db9918656ef5be70870e9e0bb0053849f73c734b7"
+
+[[files]]
+file = "Chocolate/DungeonConfig/netherCity.prop"
+hash = "fff02e5944c227bc25d01114b2341720075a8dcdf9de028faba09f4e6ebb5535"
+
+[[files]]
+file = "Chocolate/DungeonConfig/premadeCastleSnow.prop"
+hash = "84aab298e77578ac82ffe077d95900185f4df472ab0cd9c1b6e6d0782d4042d1"
+
+[[files]]
+file = "Chocolate/DungeonConfig/premadeCastles.prop"
+hash = "fa6041290c34db099832e7df8469e3bc6a6ca3a57b4b7417b45f7102a90988ff"
+
+[[files]]
+file = "Chocolate/DungeonConfig/ship.prop"
+hash = "ea830b37b2dc58dfee3dd98670524c1207890de969311f39c8752ac7f88ad1d3"
+
+[[files]]
+file = "Chocolate/DungeonConfig/slimeCave.prop"
+hash = "77a955b6870b8aaa8e4a8e11b8b4a50e8e644a7ad72adab75168936449dd3f4c"
+
+[[files]]
+file = "Chocolate/DungeonConfig/stronghold.prop"
+hash = "91cf6cf07c8824dc80fcf951d7940b41d9ccd21869bc712ad7c9b2b49635d925"
+
+[[files]]
+file = "Chocolate/DungeonConfig/strongholdDesert.prop"
+hash = "74850de316c0259326cd25ac5ef7281ff111ce74458390336b80e5f777a25070"
+
+[[files]]
+file = "Chocolate/DungeonConfig/swampTurtleCave.prop"
+hash = "f312caf0e0e6d32316c50c61e2c632d3856da5f998a8e49ba11e849a08b06e63"
+
+[[files]]
+file = "Chocolate/DungeonConfig/undergroundDungeon.prop"
+hash = "e0462a1beda883e7b69ae1c4be9db12f02df8d0e6986471066e11653ef624d9d"
+
+[[files]]
+file = "Chocolate/DungeonConfig/underwaterCity.prop"
+hash = "8bdf37a2efafb7d983770c9bdc9c961d3399a068ecb48f47d15360dc70d6b3a8"
+
+[[files]]
+file = "Chocolate/DungeonConfig/volcano.prop"
+hash = "e818e484e7574051bedf82a587986a4d7671fd22228cb69f87945bd4431160c8"
+
+[[files]]
+file = "Chocolate/config.prop"
+hash = "90b9111572424b5cb51676b466177c14a745bba815fc213ddfe8e32cb4897b46"
+
+[[files]]
+file = "Chocolate/lang/de_DE.txt"
+hash = "78240fb44faa9f86ecc5ba265b82ce43728887ddd0b520e900c69b766dbd5057"
+
+[[files]]
+file = "Chocolate/lang/en_US.txt"
+hash = "6bd279075ea6572c2c6d777207a08f0384ce6d45e826186ade677ffa595eb97c"
+
+[[files]]
+file = "Chocolate/lang/es_ES.txt"
+hash = "38e553e7b1e23c281a75151d51848f17ec8651005910f286c04772b902336282"
+
+[[files]]
+file = "Chocolate/lang/ru_RU.txt"
+hash = "b127733170cc0be92a9ab58c4acccd3066b38d929861f8392ba0f68d828bd7a9"
+
+[[files]]
+file = "Chocolate/lang/zh_CN.txt"
+hash = "5fb4e745a55cda5fe62702db76872c452ded7d61f56034b26bbdb2bf329a2001"
+
+[[files]]
+file = "Chocolate/sounds/breathDouble.ogg"
+hash = "21331cdd70c3325a1c104fc1f9d6d90aac9ca3f4cbb5e4207fc20bd85cd1de7b"
+
+[[files]]
+file = "Chocolate/sounds/breathLoud.ogg"
+hash = "488b55ec754adf72f7c4e63ca6d30bbbf013f8724b3a31a6316e2f8ffc6de6d4"
+
+[[files]]
+file = "Chocolate/sounds/bubble.ogg"
+hash = "5f72ade58cf310c510ca384c5f0e7b27f244fc2cd69b58cbb0d43c9b9ec00e69"
+
+[[files]]
+file = "Chocolate/sounds/handgun.ogg"
+hash = "cc548a8da79475531a15834e9edfefb8f26d33f5c51e0734e3afd84fc50667be"
+
+[[files]]
+file = "Chocolate/sounds/laughtSmallMonster.ogg"
+hash = "00ff2f2c15cafd8d3745681337f79a47a12f2ad9aafa0c8223995bc91d1c8105"
+
+[[files]]
+file = "Chocolate/sounds/magic.ogg"
+hash = "b565743a7314029f9cd5967c78908aec4ba63bfd745e1c33c8952a0237f03697"
+
+[[files]]
+file = "Chocolate/sounds/manHurt.ogg"
+hash = "fea3ecb6450b58980b752b09e33858e5d449dac1fd9bb4b06acceb76ddefbeff"
+
+[[files]]
+file = "Chocolate/sounds/manHurt2.ogg"
+hash = "efaf7f90fb6712321e418a5ae80a92b43b5bab15f156b0ee705c22171b353296"
+
+[[files]]
+file = "Chocolate/sounds/manHurt3.ogg"
+hash = "69428bf577171bc2bb4dc82f96b19e9b0666e980abc465d84aa62fb691b329af"
+
+[[files]]
+file = "Chocolate/sounds/smallMonsterDead.ogg"
+hash = "ace8d88f4295205b0b7aafee13b6ec096020185ab953a1027fd9c36618a75b47"
+
+[[files]]
+file = "Chocolate/sounds/smallMonsterHurt.ogg"
+hash = "59f36d73bd4c162c9836cce84fd3efca6731a8fd54f372387e54e474186ec54b"
+
+[[files]]
+file = "Chocolate/sounds/smallMonsterLaught.ogg"
+hash = "00ff2f2c15cafd8d3745681337f79a47a12f2ad9aafa0c8223995bc91d1c8105"
+
+[[files]]
+file = "Chocolate/sounds/smallMonsterSpeak.ogg"
+hash = "8e68c3af4c86f55b009b2a83fec97988a67bc9c1cc4b3b0e5cca047a1005d063"
+
+[[files]]
+file = "Chocolate/sounds/wind.ogg"
+hash = "54453bf4e210dd1cc7ce110cafd2d7cfcd70aaf27b8861c5bba3e71a7b4f67bd"
+
+[[files]]
 file = "config/APUnofficial.cfg"
 hash = "137c2d77a2878399d8c377631826bef46b4807a08137befb171b2c517421ea7b"
 
@@ -507,6 +1191,10 @@ hash = "f0ece55be615d9e8a4d25702475222cead4ce49011f502792f760fdceebeaf62"
 [[files]]
 file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
+
+[[files]]
+file = "mods/BetterDungeons2091.zip"
+hash = "268bedf30fc73d6cffb808f416117e373425be4099fa85952fb67e85f881a76c"
 
 [[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
