@@ -270,6 +270,33 @@ blocks {
     S:2137=mrtjp.projectred.ProjectRedCore$|block_dyeSaplingID|2137
     S:2138=mrtjp.projectred.ProjectRedCore$|block_airousID|2138
     S:2139=mrtjp.projectred.ProjectRedCore$|block_machines2ID|2139
+    S:2160=twilightforest.TwilightForestMod|Critter|2160
+    S:2162=twilightforest.TwilightForestMod|Portal|2162
+    S:2163=twilightforest.TwilightForestMod|Log|2163
+    S:2164=twilightforest.TwilightForestMod|Leaves|2164
+    S:2165=twilightforest.TwilightForestMod|Mazestone|2165
+    S:2166=twilightforest.TwilightForestMod|Hedge|2166
+    S:2167=twilightforest.TwilightForestMod|BossSpawner|2167
+    S:2168=twilightforest.TwilightForestMod|FireflyJar|2168
+    S:2169=twilightforest.TwilightForestMod|Plant|2169
+    S:2170=twilightforest.TwilightForestMod|Roots|2170
+    S:2171=twilightforest.TwilightForestMod|Cicada|2171
+    S:2172=twilightforest.TwilightForestMod|UncraftingTable|2172
+    S:2173=twilightforest.TwilightForestMod|FireJet|2173
+    S:2174=twilightforest.TwilightForestMod|Nagastone|2174
+    S:2175=twilightforest.TwilightForestMod|Sapling|2175
+    S:2176=twilightforest.TwilightForestMod|MagicLog|2176
+    S:2177=twilightforest.TwilightForestMod|MagicLeaves|2177
+    S:2178=twilightforest.TwilightForestMod|Moonworm|2178
+    S:2179=twilightforest.TwilightForestMod|MagicLogSpecial|2179
+    S:2180=twilightforest.TwilightForestMod|TowerWood|2180
+    S:2181=twilightforest.TwilightForestMod|TowerDevice|2181
+    S:2182=twilightforest.TwilightForestMod|Shield|2182
+    S:2183=twilightforest.TwilightForestMod|TowerTranslucent|2183
+    S:2184=twilightforest.TwilightForestMod|Trophy|2184
+    S:2185=twilightforest.TwilightForestMod|TrophyPedestal|2185
+    S:2186=twilightforest.TwilightForestMod|AuroraBrick|2186
+    S:2187=twilightforest.TwilightForestMod|UnderBrick|2187
     S:2300=extrabiomes.Extrabiomes|quicksand.id|2300
     S:2310=extrabiomes.Extrabiomes|flower.id|2310
     S:2311=extrabiomes.Extrabiomes|cattail.id|2311
@@ -668,6 +695,15 @@ blocks {
     S:4093=extracells.Extracells|HardMEDrive_ID|503
     S:4094=extracells.Extracells|MEBattery_ID|502
     S:4095=extrautils.ExtraUtils|decorative_2Id|2527
+}
+
+
+####################
+# enchantments
+####################
+
+enchantments {
+    S:136=twilightforest.TwilightForestMod|136
 }
 
 
@@ -1929,6 +1965,91 @@ items {
     S:27007=com.pahimar.ee3.EquivalentExchange3|diviningRod|27007
     S:27008=com.pahimar.ee3.EquivalentExchange3|alchemicalFuel|27008
     S:27009=com.pahimar.ee3.EquivalentExchange3|alchemicalUpgrade|27009
+    S:27701=twilightforest.TwilightForestMod|NagaScale|27701
+    S:27702=twilightforest.TwilightForestMod|PlateNaga|27702
+    S:27703=twilightforest.TwilightForestMod|LegsNaga|27703
+    S:27704=twilightforest.TwilightForestMod|ScepterTwilight|27704
+    S:27705=twilightforest.TwilightForestMod|ScepterLifeDrain|27705
+    S:27706=twilightforest.TwilightForestMod|ScepterZombie|27706
+    S:27707=twilightforest.TwilightForestMod|WandPacification|27707
+    S:27708=twilightforest.TwilightForestMod|OreMeter|27708
+    S:27709=twilightforest.TwilightForestMod|MagicMap|27709
+    S:27710=twilightforest.TwilightForestMod|MazeMap|27710
+    S:27711=twilightforest.TwilightForestMod|OreMap|27711
+    S:27712=twilightforest.TwilightForestMod|Feather|27712
+    S:27713=twilightforest.TwilightForestMod|MagicMapFocus|27713
+    S:27714=twilightforest.TwilightForestMod|MazeMapFocus|27714
+    S:27716=twilightforest.TwilightForestMod|LiveRoot|27716
+    S:27717=twilightforest.TwilightForestMod|IronwoodRaw|27717
+    S:27718=twilightforest.TwilightForestMod|IronwoodIngot|27718
+    S:27719=twilightforest.TwilightForestMod|IronwoodHelm|27719
+    S:27720=twilightforest.TwilightForestMod|IronwoodPlate|27720
+    S:27721=twilightforest.TwilightForestMod|IronwoodLegs|27721
+    S:27722=twilightforest.TwilightForestMod|IronwoodBoots|27722
+    S:27723=twilightforest.TwilightForestMod|IronwoodSword|27723
+    S:27724=twilightforest.TwilightForestMod|IronwoodShovel|27724
+    S:27725=twilightforest.TwilightForestMod|IronwoodPick|27725
+    S:27726=twilightforest.TwilightForestMod|IronwoodAxe|27726
+    S:27727=twilightforest.TwilightForestMod|IronwoodHoe|27727
+    S:27728=twilightforest.TwilightForestMod|Torchberries|27728
+    S:27729=twilightforest.TwilightForestMod|SpawnEgg|27729
+    S:27730=twilightforest.TwilightForestMod|VenisonRaw|27730
+    S:27731=twilightforest.TwilightForestMod|VenisonCooked|27731
+    S:27732=twilightforest.TwilightForestMod|HydraChops|27732
+    S:27733=twilightforest.TwilightForestMod|FieryBlood|27733
+    S:27734=twilightforest.TwilightForestMod|HydraTrophy|27734
+    S:27735=twilightforest.TwilightForestMod|FieryIngot|27735
+    S:27736=twilightforest.TwilightForestMod|FieryHelm|27736
+    S:27737=twilightforest.TwilightForestMod|FieryPlate|27737
+    S:27738=twilightforest.TwilightForestMod|FieryLegs|27738
+    S:27739=twilightforest.TwilightForestMod|FieryBoots|27739
+    S:27740=twilightforest.TwilightForestMod|FierySword|27740
+    S:27741=twilightforest.TwilightForestMod|FieryPick|27741
+    S:27742=twilightforest.TwilightForestMod|SteeleafIngot|27742
+    S:27743=twilightforest.TwilightForestMod|SteeleafHelm|27743
+    S:27744=twilightforest.TwilightForestMod|SteeleafPlate|27744
+    S:27745=twilightforest.TwilightForestMod|SteeleafLegs|27745
+    S:27746=twilightforest.TwilightForestMod|SteeleafBoots|27746
+    S:27747=twilightforest.TwilightForestMod|SteeleafSword|27747
+    S:27748=twilightforest.TwilightForestMod|SteeleafShovel|27748
+    S:27749=twilightforest.TwilightForestMod|SteeleafPick|27749
+    S:27750=twilightforest.TwilightForestMod|SteeleafAxe|27750
+    S:27751=twilightforest.TwilightForestMod|SteeleafHoe|27751
+    S:27752=twilightforest.TwilightForestMod|MinotaurAxe|27752
+    S:27753=twilightforest.TwilightForestMod|MazebreakerPick|27753
+    S:27754=twilightforest.TwilightForestMod|TransformPowder|27754
+    S:27755=twilightforest.TwilightForestMod|MeefRaw|27755
+    S:27756=twilightforest.TwilightForestMod|MeefSteak|27756
+    S:27757=twilightforest.TwilightForestMod|MeefStroganoff|27757
+    S:27758=twilightforest.TwilightForestMod|MazeWafer|27758
+    S:27759=twilightforest.TwilightForestMod|EmptyMagicMap|27759
+    S:27760=twilightforest.TwilightForestMod|EmptyMazeMap|27760
+    S:27761=twilightforest.TwilightForestMod|EmptyOreMap|27761
+    S:27762=twilightforest.TwilightForestMod|OreMagnet|27762
+    S:27763=twilightforest.TwilightForestMod|CrumbleHorn|27763
+    S:27764=twilightforest.TwilightForestMod|PeacockFan|27764
+    S:27765=twilightforest.TwilightForestMod|MoonwormQueen|27765
+    S:27766=twilightforest.TwilightForestMod|CharmOfLife1|27766
+    S:27767=twilightforest.TwilightForestMod|CharmOfLife2|27767
+    S:27768=twilightforest.TwilightForestMod|CharmOfKeeping2|27768
+    S:27769=twilightforest.TwilightForestMod|CharmOfKeeping3|27769
+    S:27770=twilightforest.TwilightForestMod|CharmOfKeeping1|27770
+    S:27771=twilightforest.TwilightForestMod|TowerKey|27771
+    S:27772=twilightforest.TwilightForestMod|BorerEssence|27772
+    S:27773=twilightforest.TwilightForestMod|Carminite|27773
+    S:27774=twilightforest.TwilightForestMod|Experiment115|27774
+    S:27775=twilightforest.TwilightForestMod|ArmorShards|27775
+    S:27776=twilightforest.TwilightForestMod|KnightMetal|27776
+    S:27777=twilightforest.TwilightForestMod|ShardCluster|27777
+    S:27778=twilightforest.TwilightForestMod|KnightlyHelm|27778
+    S:27779=twilightforest.TwilightForestMod|KnightlyPlate|27779
+    S:27780=twilightforest.TwilightForestMod|KnightlyLegs|27780
+    S:27781=twilightforest.TwilightForestMod|KnightlyBoots|27781
+    S:27782=twilightforest.TwilightForestMod|KnightlySword|27782
+    S:27783=twilightforest.TwilightForestMod|KnightlyPick|27783
+    S:27784=twilightforest.TwilightForestMod|KnightlyAxe|27784
+    S:27785=twilightforest.TwilightForestMod|PhantomHelm|27785
+    S:27786=twilightforest.TwilightForestMod|PhantomPlate|27786
     S:27850=pl.asie.computronics.Computronics|tape|27850
     S:27851=pl.asie.computronics.Computronics|parts|27851
     S:31709=dan200.computercraft.ComputerCraft|pocketComputerItemID|31709

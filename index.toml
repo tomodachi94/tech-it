@@ -1186,7 +1186,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "f0ece55be615d9e8a4d25702475222cead4ce49011f502792f760fdceebeaf62"
+hash = "4ef3b8e8aa8a14a2c8f3669be103bb7f9c4dffb928f3ab227de8afc96e94df11"
 
 [[files]]
 file = "java.security"
@@ -1579,6 +1579,11 @@ metafile = true
 [[files]]
 file = "mods/steve-s-carts-2.pw.toml"
 hash = "6fdfeb38c4c80e820d707332c47c599cf97029da430ed7674e04e4c15b822863"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "baae7fbd33dcdf5647b6648b7a66bdc88d0a55f0a8248d491aa9138e43b7c9ec"
 metafile = true
 
 [[files]]
