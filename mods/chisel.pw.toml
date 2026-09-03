@@ -1,0 +1,8 @@
+name = "Chisel"
+filename = "chisel-1.6.4-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/chisel/1.6.4/chisel-1.6.4-1.5.2.jar"
+hash-format = "sha256"
+hash = "f7c402e4505a701323b371597863d8778acdfa168c355fc4328150f50daf83f0"

@@ -498,7 +498,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "ea885dfca54bd0b9c3e2bac23b4e67a88c03890d53763e4b2b95392ce810dc79"
+hash = "aa7a13ec4f7c7a1a33d446454af617c9ec4c4d53f4d33355485214413e64951f"
 
 [[files]]
 file = "java.security"
@@ -565,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/chickenchunks.pw.toml"
 hash = "d4a727680c7018ebba249a2ed5746c078190a08b39adfa76fda6e836759576fc"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "cc21b30ab3e4e83be63c31e0ac1c0bca300ec405d3a5717a462f83c4583efa5b"
 metafile = true
 
 [[files]]
