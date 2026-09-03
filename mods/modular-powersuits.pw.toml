@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/modular%20powersuits/1.6.4/ModularPowersuits-1.6.4-0.10.0-91.jar"
-hash-format = "sha256"
-hash = "63cce472bee5e3835c43852e2aecb3a7f38fd188297eda9c413d3a5303241087"
+hash-format = "sha512"
+hash = "aa6bcd51e9ffbf4ddb7e14356fac49da7790dcb989d66af52c36fd93c7a2c1a4cb3de45689c99df25537b1a5f6ae9f18321017dbb7adf820ce58cfacda2fab64"

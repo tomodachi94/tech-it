@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/E/extra%20utilities/1.6.4/extrautils-1.0.3c.zip"
-hash-format = "sha256"
-hash = "2ca6f21ec974e76ada1cccfb0efbf293de6bae42e0e08da3b20b939af0ab1c9d"
+hash-format = "sha512"
+hash = "68f4d5de4258319818de436d595ef3466761e30d59dd7628f076b0a0871c5f818f80ba897eaa0751ec922ee349eead2b13435fd3214d4be81e790d44f23efef5"

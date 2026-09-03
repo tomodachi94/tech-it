@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/calclavia%20core/Calclavia%20Core-1.2.0.299-main.jar"
-hash-format = "sha256"
-hash = "2ad44b95fba991a42b967241ea3f1a95cedfa6ceedd69b325e7cb650497f5245"
+hash-format = "sha512"
+hash = "7c088f9fdcfc48b077a59c4efb6607aa6b7cd6a7a80d8c0c7d03e00ad6e8bc382a19a0af9f93470dbe4bdbc8d10260a0bb68097e0c904c7952cb81b7a06121cb"

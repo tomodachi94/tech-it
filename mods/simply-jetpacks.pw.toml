@@ -3,8 +3,8 @@ filename = "SimplyJetpacks-0.3.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e062cd6e55e30462799d4c4d3853034604138c8c"
+hash-format = "sha512"
+hash = "63e041b3266daf200538a7cb0f481451557d09aa0804bb4e9d9e8c186dee6988ebf6f334e6adb016aabfe82f7a9a99119cfeb1c0ffe25ec9f38efec4fe12a20e"
 mode = "metadata:curseforge"
 
 [update]

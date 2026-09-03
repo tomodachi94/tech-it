@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/carpenters%20blocks/1.6.x/Carpenter's%20Blocks%20v2.0.8%20-%20MC%201.6%2B.zip"
-hash-format = "sha256"
-hash = "295941d7967aeb3fa4d4b690b0aaa7c3340f55bf7f15cb5184697e40dea8e58e"
+hash-format = "sha512"
+hash = "d29ad6aa69e4bc58720c54ffb43ca05e41197e8d4b5ca6ab83215a6ebbb4d0c5ce3e0f6287c0132ff59bd67a0f061e9af5687478d2094889c7ddb23a45251750"

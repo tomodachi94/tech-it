@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/Q/qcraft/1.6.4/qCraft1.1.jar"
-hash-format = "sha256"
-hash = "4ed1a53f3c35ff31c4f454e4e1d03c27d008dce658c67ce05bfeb49182c7ae0d"
+hash-format = "sha512"
+hash = "4fb9baded57b08fe7b4b3c34af7ac873c4ee7fc74fd560f4b0c62b23f94f66d6a7a72bf75d29b120d631c6e7f5e1ae631025d263ca97fe16ba1056c2bb9c87e3"

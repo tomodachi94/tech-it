@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://www.immibis.com/minecraft/series1/i-understand-the-license-has-probably-changed/files/dimensional-anchor-57.1.95.jar"
-hash-format = "sha256"
-hash = "e8bd6488be17810e13415ccf3c0aeacd70e1e3823a2c53f3a869457cc95ef3ce"
+hash-format = "sha512"
+hash = "9bca53b38b42116dbb4a1b47477ffcf8934f835979b40f2f57abd483229c61aca39353a10b310c3eaa35ddfc05f020c8ef9b6e39b20d225dd2a885315c7e3308"

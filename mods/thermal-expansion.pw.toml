@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/thermal%20expansion/1.6.x/ThermalExpansion-3.0.0.6.jar"
-hash-format = "sha256"
-hash = "50d1bcc1c84a375e1f586108247718873b95af6003364d09f93864c33d4deffe"
+hash-format = "sha512"
+hash = "0cdde977c6f0853077992909a25b96b5c8ef6b378c6e3935b6a264c9943747848bb297a00aedb54e2b2e14216cb28f7c3590bf0a2f2d87f0fc97a4b3ea1b09bc"

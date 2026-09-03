@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/R/redstone%20in%20motion/1.6.x/RedstoneInMotion_2.3.0.0_mc1.6.zip"
-hash-format = "sha256"
-hash = "1ab4c2759d931483d88f2b51301fb3757a1c9556a2700068a98fa1961b5b972d"
+hash-format = "sha512"
+hash = "18258b0e180fde37d2e3901a1f71e33ac8f364d2504afa683e0d5c519a0de7e087993e4fd9e7e4497979058a302f27fe7306cd22ea80e22b6d0cc3c2587caf76"

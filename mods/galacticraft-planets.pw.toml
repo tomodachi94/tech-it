@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/G/galacticraft%20planets/1.6.4/Galacticraft-Planets-1.6.4-2.0.12.1026.jar"
-hash-format = "sha256"
-hash = "9a23b0dbe9a3b58cb796c462171302ba7668310643e6c27b6052568259eaf218"
+hash-format = "sha512"
+hash = "52a84620baccd7943c25844c00ecf682ebd8033803b406b661e008936c9904838c52e7e5fa210aa423b6d3e3502b0492caab1e4634d5fab9e52724bf4d60757e"

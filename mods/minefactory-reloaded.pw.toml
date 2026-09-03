@@ -3,8 +3,8 @@ filename = "MineFactoryReloaded-2.7.9-final.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5e96ddc45026cb2e0bf8239c572c0afc3f9fcea7"
+hash-format = "sha512"
+hash = "b841ddbd675f38a9caa3cb69e7db3fb15870893ecfc64632cd4112804c3e24f5d56ecbfd6285fe0f338c815da34a9d1309da8336dfce7b7228a02b4c3d1356f7"
 mode = "metadata:curseforge"
 
 [update]

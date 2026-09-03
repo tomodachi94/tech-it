@@ -3,8 +3,8 @@ filename = "Waila_1.5.2a.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1bba30697afe3f428f72d08ad990ee21492c0ac8"
+hash-format = "sha512"
+hash = "5227cc027835a5340f7a0744ae3ea8de898289afe5573fb874383cc9d2a6ebd389ed944bd4dd05b512f4687d76e844adbc6eed43d1359fa4d3dd9df63a26d307"
 mode = "metadata:curseforge"
 
 [update]

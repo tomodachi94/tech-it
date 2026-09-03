@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/T/tree%20capitator/1.6.4/%5B1.6.4%5DTreeCapitator.Forge.1.6.4.r09.Universal.zip"
-hash-format = "sha256"
-hash = "2a0c68050069985586670d1da5597f9c7ba5d688db7242bc72041e8c171ff164"
+hash-format = "sha512"
+hash = "21ae6648b2a52d1b0f98814e3c5bb5db536ca14773aaa9e6851f1c5ce14e12bd085a7d56f94623618395d6434ec088f6806d0772a04d981515c286783668dc13"

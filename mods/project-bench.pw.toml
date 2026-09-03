@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20bench/1.6.2/ProjectBench-1.6.2-v1.8.0.jar"
-hash-format = "sha256"
-hash = "9c3bf112c7a6006d004ac046b464c63d38fb1f2400e301c626c107a868cadd95"
+hash-format = "sha512"
+hash = "d96336fcbb5d8c9ca706f1c0e91e046135b8e70c18be8c0af7ef966d3e185eeed85e79510f9fb063aa6bc4b51460923f35dcb17e6a7a2a65d4dddc5fcaf5fdf9"

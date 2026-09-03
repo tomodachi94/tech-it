@@ -3,8 +3,8 @@ filename = "WR-CBE-1.6.4-1.4.0.7-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4323355b5afb1f1d41e35197b001dde09ea2c58f"
+hash-format = "sha512"
+hash = "4ad325805d0ecc2d2a6c6895f7d0ded9a37afd0e3a761e7f523104c0e624d23332f8a0fa626cc19016c2e1101f98355bca54417b4854f9b52478e9f0ff27db0a"
 mode = "metadata:curseforge"
 
 [update]

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedLighting-1.6.4-4.3.7.32.jar"
-hash-format = "sha256"
-hash = "98358474c0be818b925d28d282b81a3f2307f372f1dd71eab968c0c35fdee335"
+hash-format = "sha512"
+hash = "1554781075f11f94a5e804caa22ed4806a785ce6535c8bec335d18fadde47e60ae575364ae112b1546fb1e7d2df798c84bf7f7d73d2c0bb840a33969f29d2531"

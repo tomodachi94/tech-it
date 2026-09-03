@@ -3,8 +3,8 @@ filename = "PowerCrystalsCore-1.1.8-9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f478ff6221b2b63225f6d34214f5537c52e0924"
+hash-format = "sha512"
+hash = "a3edbe14a552b36bc91245950bbcd334adf26dcc96863adf718a0f2cd2ae142ccd06c4d32b095bceda46a18a0fdd0e1865c6f4d4c5919cfa2bdaffdc83d42a66"
 mode = "metadata:curseforge"
 
 [update]

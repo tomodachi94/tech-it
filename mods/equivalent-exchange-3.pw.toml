@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://b2.mcarchive.net/file/mcarchive/2402943ad4ae44435c204e58434f95df39e972f5cedca7afa0a17a33e8aed41e/EquivalentExchange3-1.6.4-0.1.142.jar"
-hash-format = "sha256"
-hash = "2402943ad4ae44435c204e58434f95df39e972f5cedca7afa0a17a33e8aed41e"
+hash-format = "sha512"
+hash = "8e4ed59937a769ff8f51713c51e60a45cc702dab9b41e474087b3923ffd935403747fcfb0b53cc1f60a42c309db3954e1ad6a03eab511bc749a3a605ef2f4af6"

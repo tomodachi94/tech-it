@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/iron%20chests/1.6.4/ironchest-universal-1.6.4-5.4.1.697.zip"
-hash-format = "sha256"
-hash = "58d7759ac51f8d59731b490d5fa62a51806771543cf7c71c8ca7f3e9b1d8c34b"
+hash-format = "sha512"
+hash = "5fb83221e11a7f775aa75c83ac2a7b6992cebc9ccf9b866c61c99e2f7f9f9ddf6918d283fbf221386fd748d2c08ade683c7742cf80fe3aa58ebd570ce0e05b2c"

@@ -3,8 +3,8 @@ filename = "OpenPeripheralCore-0.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "989a6ed68f2e37ca57c1b73349b51de5a6d9f2eb"
+hash-format = "sha512"
+hash = "4b1c37b29cdee4909d03e75e5481fcb859007d8642d407126b3d7e04a8711d404acc99024dc19f2bb8c2c5ba33f95cba02301182b6cc69684488474351cdffff"
 mode = "metadata:curseforge"
 
 [update]

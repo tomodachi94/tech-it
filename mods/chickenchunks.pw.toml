@@ -3,8 +3,8 @@ filename = "ChickenChunks-1.6.4-1.3.3.4-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3800eae0663b50a658d51e57d3fb79dbe974ec81"
+hash-format = "sha512"
+hash = "d3bec06999b439eb3d93d0b7d05b79c3ad0bd694c8f75c6288409298a0a33b207510ca6fd23e8cd9029178a8f6bf73412283a89c54276c9cd5a901158af6e2a6"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "WeaponMod-v1.13.6.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e3ed10525907c1b71c401af7572506bacf7ed0b9"
+hash-format = "sha512"
+hash = "dc03ba38477540bd039c5292a67f94ae22e3fe2fa2372f7e5c807eb49374b824bd4ab9cf716b29407cd1dade14742d538e93dce0e46d50aacfb1fa0b88482b23"
 mode = "metadata:curseforge"
 
 [update]

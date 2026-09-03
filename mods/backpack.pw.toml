@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/B/backpack/1.6.x/backpack-1.28.37-1.6.x.jar"
-hash-format = "sha256"
-hash = "1bede0ef50178d119102857a059b7492daf8e0675b663e32fa7eb128b69b5875"
+hash-format = "sha512"
+hash = "88236cc11496b69e1e4a2b9a5653c68cf576ade299f7d879c106fcb617116b52580fd71b1736bf346e44cbbbe99c1a7cfc5131466728e3c44c8da28991f668a1"

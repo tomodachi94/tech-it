@@ -3,8 +3,8 @@ filename = "RedstoneArsenal-1.0.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7ed1a592c11f9d7d8c4ce49f08ac3688bf0fb32a"
+hash-format = "sha512"
+hash = "9273af66e14e53e72a4171d6a2af789f559398ff057fd36db72271c8bca55c74dbfc25a9d22759b43a216208d6cc8cb1121e990dd113aacab7bcbd9ad957281a"
 mode = "metadata:curseforge"
 
 [update]

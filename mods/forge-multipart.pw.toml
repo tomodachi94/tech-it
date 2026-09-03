@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/F/forge%20multipart/1.6.4/ForgeMultipart-universal-1.6.4-1.0.0.219.jar"
-hash-format = "sha256"
-hash = "ca3f0a47b6fb727c842016117f9489dd5b036735c6b35a10e1428dc8019841d4"
+hash-format = "sha512"
+hash = "4fe03f007599ad35b9e435cfe006235043bac71cf4694a380376fd8a3cdf570dd95fe03668089bfbb2e6d8967c6cb0b9a4914b34392e0c228934b61dd01bc039"

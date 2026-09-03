@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/G/galacticraft/1.6.4/Galacticraft-1.6.4-2.0.12.1026.jar"
-hash-format = "sha256"
-hash = "1d2808da663b451fd46d2183b45c3323a06cea545da877877e92487fe6910c36"
+hash-format = "sha512"
+hash = "77e5e057a2784ea4f6ce14d3cb08f89173509c4d6d0be3e3cf2a0011aeb1cbb6e6d2832938c0c26bfdbf41a22fe5f499dc2bc646911ca825d9a79f6f1b383a3e"

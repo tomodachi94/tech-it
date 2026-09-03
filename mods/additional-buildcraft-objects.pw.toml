@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://www.siedler25.org/uploads/minecraft/AdditionalBuildcraftObjects/4.2.2/buildcraft-Z-additional-buildcraft-objects-1.6.4-4.2.2-1.0.7.561.jar"
-hash-format = "sha256"
-hash = "ab4070ef7ee9461f891fef6e7cfe89795ee8de7479348f43c5e23ad4414de64b"
+hash-format = "sha512"
+hash = "b73d2a168e56ee7cd868c2a692d123e80ffce760c0a3a668f8ed5da53efea4d8cccbd13b4c0117d9b91d795be937202b0bfded020d6da629b075985d784b46eb"

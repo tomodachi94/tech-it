@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/micdoodle%20core/1.6.4/MicdoodleCore-1.6.4-2.0.12.1026.jar"
-hash-format = "sha256"
-hash = "1695af5780036dba9edec08912cf3d6681a97f1f3d92aca1f84493965ce4ee4c"
+hash-format = "sha512"
+hash = "b75eafaf543ce4b9a1eddd0dffde3231354c942bc3b30cc24d9bde8cf8f95d9bf9f521fdd46c7c4bf9de6f7b71dd18ab9e45e0e3a0e4d74a175909dd8ad4daaf"

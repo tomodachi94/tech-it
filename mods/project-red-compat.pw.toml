@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/project%20red/1.6.4/ProjectRedCompat-1.6.4-4.3.7.32.jar"
-hash-format = "sha256"
-hash = "9c9b82a8ae590d5ce21b570f4016ce21962937f4600cff39a9515caedfb71c45"
+hash-format = "sha512"
+hash = "6d2e4f1789d15577d2355a06bb2f286f933ed54281d63afd6bcfb311cbdfddb7ae0d3010cc2780078166b31314c5a0f3479fa81f3f429a122471c2a406df5c04"

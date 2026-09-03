@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/code%20chicken%20lib/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
-hash-format = "sha256"
-hash = "380e27705033d47d7e00c0297e74fd94b5f59ecbc66f589e3c48ca53b9e4433f"
+hash-format = "sha512"
+hash = "ee5053dc44a017b0a8020a52d45c5d3496965bd37e578da24edf92f4a827bf0de3cce2d5e14c01673aed21fd70414cfc0cc2e5bdc04ed2b73f2af294666c1787"

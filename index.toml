@@ -502,7 +502,7 @@ hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
 [[files]]
 file = "mods/additional-buildcraft-objects.pw.toml"
-hash = "722aeb885106cda23291a502c1c887cbe260729de2657f85191c3d2ec9d0a6c7"
+hash = "9cb7a5f4f6de54144b59aa964bcbfd0f5fdba5f65db8a1931ec12131f26ddf5f"
 metafile = true
 
 [[files]]
@@ -516,31 +516,27 @@ hash = "6033719888eb6af8a34e4768b907ad2bd2443beb0aba692ea6fce96f1954d3cb"
 
 [[files]]
 file = "mods/autoutils.pw.toml"
-hash = "2784cde5c208c7277a1c0b10a2e51b29c1d5efbcb5ba1e22098ee4ada499c679"
+hash = "a127d2886611edc97d0ba6d41ffa1c311de5f66b3030bc328e7471c5222e5a7b"
 metafile = true
 
 [[files]]
 file = "mods/backpack.pw.toml"
-hash = "3f48548090a32b8f89022fd343c6cea4d5eb569f66c8a7516edc7109c93a6c12"
+hash = "3789a73cebb3ce3a8268cbb08d0bfb4655e7b4da7b778d25ff360cb473f9d97a"
 metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod.pw.toml"
-hash = "56d9d8e60182aff53202c4722ae71eae837defe8bb3a8842c86c3ddb839ca9a5"
+hash = "99b637565126d2571fdb26bae9f9a6c3b9b5bec40e17df2471c539a60f89dc0f"
 metafile = true
 
 [[files]]
 file = "mods/big-reactors.pw.toml"
-hash = "42dee221d3d2de8f19c806e61f19985ddd29f788738a8cfb615c17404db98746"
+hash = "3dad7cf9d94a3457eb0af33de11f7449b63391ea974227206625616fb36b7a10"
 metafile = true
 
 [[files]]
-file = "mods/bigreactors-0.3.0A.jar"
-hash = "6f2ac2331a015463ffe4f70e54a72a0502df43e328b8ca71c7c53d01989ee0ff"
-
-[[files]]
 file = "mods/bspkrscore.pw.toml"
-hash = "cedbefaccdaf1efbceaf7d0a9f1905e31e11891ae726c03e595baaeabddd23af"
+hash = "e2bea3e477947b0b1d4be64a066f6ccb34daa4a2167a697bf4739a6a9642aa08"
 metafile = true
 
 [[files]]
@@ -550,32 +546,32 @@ metafile = true
 
 [[files]]
 file = "mods/calclavia-core.pw.toml"
-hash = "cc6a02568d10501aec26860e5cc10768a4035cb6236f1df7fa98841c186c4144"
+hash = "a94421270199f11a9794c75bb14ce7e1001b9deee09b54d8bc9cab4dcdac4bcc"
 metafile = true
 
 [[files]]
 file = "mods/carpenter-s-blocks.pw.toml"
-hash = "cf49d5887fe989a5e9161e878a92319ba48f1d0c7f0ea55203df12dc2ceb408f"
+hash = "73bc58ed91c38906cca6a0e6acb83b3bd82f63f9a3725b0de539dd5262b976c8"
 metafile = true
 
 [[files]]
 file = "mods/chickenchunks.pw.toml"
-hash = "4bad6e82715df62ffb9c3a12c1c66bdd122bc4198be2fe0f217d84b914134598"
+hash = "d4a727680c7018ebba249a2ed5746c078190a08b39adfa76fda6e836759576fc"
 metafile = true
 
 [[files]]
 file = "mods/codechickencore.pw.toml"
-hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
+hash = "1b5de3993fcb2c8c2efdeb8f6765757225ab918635e90d59292695fc22a0170c"
 metafile = true
 
 [[files]]
 file = "mods/codechickenlib.pw.toml"
-hash = "11fef77ab579f749d456b6f8534bbbd2b130ab10b89fb8fbce31492bf0ffbc08"
+hash = "a73b3450adfc41f41d7e8627ca43cfca98506b33e8a724492c1678b4147255dd"
 metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "35560ec16bd3ad0ddf9a35ee6d126fb312c3abefcbf55b2d6ebaf7045af977f4"
+hash = "7f7daf63e02467d63a0b70c82465e57538032d6269ca96a8b606aacd91ca0f30"
 metafile = true
 
 [[files]]
@@ -585,12 +581,12 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-anchors.pw.toml"
-hash = "a898a0370788f328d26447279c9a5ad8ca1c8b295cae7ed97eb8328c42787ea2"
+hash = "fda460c42977b8298cbc9716c1ff03a03babc45797b769332242187819d36dda"
 metafile = true
 
 [[files]]
 file = "mods/dimensional-doors-legacy.pw.toml"
-hash = "e10c6a0b2a9b5ba523d8d9e890292e8dc65e923bc48e6ea89982c68432bbe862"
+hash = "b4f526840c6459bcccdc2d1c61d6e0af67652ab6f06c7d89f4a19f04d71d150d"
 metafile = true
 
 [[files]]
@@ -600,12 +596,12 @@ metafile = true
 
 [[files]]
 file = "mods/equivalent-exchange-3.pw.toml"
-hash = "138e87c152e53a24ce813c5683a6c5fa9cd205b622df27739787f77d48c852c9"
+hash = "2f20cb620f5eaba2a5a1bdb00404ec1fe066ef16da8265de296a3719117f8158"
 metafile = true
 
 [[files]]
 file = "mods/extra-utilities.pw.toml"
-hash = "dd2ff46a6a6d83d303a1ac4f4df0437c93257efc8e23bb6d29c70c12f37e6c0c"
+hash = "bfa6e7fc2b045d73e5d1a87e7824056b227aa6fe34893c431e5b141b0ab541d2"
 metafile = true
 
 [[files]]
@@ -614,22 +610,22 @@ hash = "c5400d5a24bdda3d13524f249e6f872dba5ee95a8ac947b7ba974c3943694e24"
 
 [[files]]
 file = "mods/forge-multipart.pw.toml"
-hash = "40a925248c36db49673b4db3dbe40d047255494cf9d88f4673fda7a5aee1f5b9"
+hash = "15be34ca4432b0f1d3e9ff1f74c3e17f6066f03b74d9ed703a237cd33f258b03"
 metafile = true
 
 [[files]]
 file = "mods/galacticraft-planets.pw.toml"
-hash = "fd0504e92ba74e764b2bb30beee73cae52ec5921492aa8b95418b0ac39be820d"
+hash = "50953644745945859bc12f38effc89f9da6a3e8f06f0fb76d21fdcd434a681ad"
 metafile = true
 
 [[files]]
 file = "mods/galacticraft.pw.toml"
-hash = "35e28f243a8a0d20565a94fdcf10723e41762b33764e64f1a0612c4af8a23552"
+hash = "8b19a62769ddd6b46409ca17552e59aa0eb69db837972b5c022b8e2102d54f25"
 metafile = true
 
 [[files]]
 file = "mods/greg-s-lighting.pw.toml"
-hash = "8ed6cf0d0514ddff9d936b5eb1fbbc6ff7d36bddaac67c19b094224fd86a0f36"
+hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
@@ -644,17 +640,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
-hash = "b79e355a748d74b833181302e98116514c5115496fe0c9e60accd4d89877daab"
+hash = "cd9aa178308f653a46c43961a68269950d2a07255be5799098b52c55e20bd094"
 metafile = true
 
 [[files]]
 file = "mods/iron-chests.pw.toml"
-hash = "0a5f5abf09d998e6f0c31001f902929b4a692942d7196b828d188ace97358e4a"
+hash = "0de74250a2a446a181bde2266d4944990bccddbaf72d9973f1eab961aa3feea6"
 metafile = true
 
 [[files]]
 file = "mods/legacy-java-fixer.pw.toml"
-hash = "f40c957a3e46031c080df8720a021b717398e41479262400d0d93de62656e9d4"
+hash = "caaa38149b453db4e194c99ba64b309c5ee37fea35f5528e632ef289ba1f8ff9"
 metafile = true
 
 [[files]]
@@ -663,72 +659,72 @@ hash = "a798e3fc878a0f7ae4c80f96c97634d080fac19c1fc79d6471faa8df3908625b"
 
 [[files]]
 file = "mods/lumy-skin-patch.pw.toml"
-hash = "cae456bcee6de42f573895096ada1aa74ebb33930ee67b545b79a128be2cc538"
+hash = "69be2ef1041e6da5139062a3f838d977d6cb270659711cdcf83fa68269c880ff"
 metafile = true
 
 [[files]]
 file = "mods/micdoodlecore.pw.toml"
-hash = "595b7543f9db7b829c7ef591328659e585d64c516b2d24ac0b720af31b86cfc9"
+hash = "390678a262b62fa62440f68ab191d6ba674980248e8239b42cd8bbd9193f7c9e"
 metafile = true
 
 [[files]]
 file = "mods/minefactory-reloaded.pw.toml"
-hash = "e41afbcf542ef664216cc50c4db41b7775757138fea5ff033a7558237a3e1982"
+hash = "1cadb7df50608b5ab72554d9eaaa01cc3c897f24bc5575244c2eb395b3b8a3fe"
 metafile = true
 
 [[files]]
 file = "mods/modular-force-field-system.pw.toml"
-hash = "9ac97bffca4877515ee3b020d930760612fb8f0d6604a8a8e3ad2b53ba146a9d"
+hash = "8e6cb1008d6d0f657e0155212291315111770b963ae025bc52a3e57a2d213e99"
 metafile = true
 
 [[files]]
 file = "mods/modular-powersuits.pw.toml"
-hash = "4bbfa1d4f3b13b59f55b0637302c27d944feaf98d4f3e2b7751847b8b2995cb5"
+hash = "9347aa191a4bbb974fa5adfe14d2d3a74a584e5aeb3fad4d27ecee407dadf82c"
 metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "42c25850c047c60c0a80f1443b9d143b3af66bc9e21390419f81b910e1be565b"
+hash = "ae48412ca4b1acf23dfa588589519f360b698e8d1c316056f0463f57853aed3b"
 metafile = true
 
 [[files]]
 file = "mods/nei-addons.pw.toml"
-hash = "5314b8c43d08a765c5ab34d59528cab3f0319ecf1f15a4e1afc7db6b57110840"
+hash = "73800fc344492b216ccfad07591ea58a8c2d83baa95211191929845ee9f68bac"
 metafile = true
 
 [[files]]
 file = "mods/netherores.pw.toml"
-hash = "6f4dee8b812742014dcb1be9f931c47fdf6a3571978258b2f1e3e6d549c19ac4"
+hash = "b814f25ec20bebcbecc88b06cbc0114135987ea011e59da852263b99a60c2a5f"
 metafile = true
 
 [[files]]
 file = "mods/notenoughitems.pw.toml"
-hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
+hash = "361826f3103ed55253431a10dc04d3f0a695dac79d635d0684a6e1733f4ee449"
 metafile = true
 
 [[files]]
 file = "mods/numina.pw.toml"
-hash = "780702bd43d8c19d4035309cbd1c4586c1dfb273dfe001fe7aaeeb140e33e77f"
+hash = "041c442b76ab89686993785ad7b1a791bd0a9069a8fc6d62dc3dfb681689ca66"
 metafile = true
 
 [[files]]
 file = "mods/openmodslib.pw.toml"
-hash = "5fa5aae870bb6a970c25ff9b7b746e9c22db3768de27136ac81c18171adfb51f"
+hash = "cea1de898daac2f4019c089c9aadaa8cc41afd2fa0c7b71f998f93aaebc6afb2"
 metafile = true
 
 [[files]]
 file = "mods/openperipheraladdons.pw.toml"
-hash = "45aed6e6a31130511b5b29dbcc2b55b71b3a0f7ef615b0ed4577471abe6c9103"
+hash = "280c7556aaffd983d4e1902460c3921a8058473a4714ebdc2daebcb633dae0f7"
 metafile = true
 
 [[files]]
 file = "mods/openperipheralcore.pw.toml"
-hash = "267b3b517fad7d3e2db08e498a7716342294c221d2c2378d89e645e272bd0e94"
+hash = "601aecb418e379dd6db185b422164e5adf8c75a1bcec9e3a89a5070f7aff0263"
 metafile = true
 
 [[files]]
 file = "mods/powercrystalscore.pw.toml"
-hash = "48fa9813089dca304766c1a63c7091241590e4221608686ffa90c41805ca1d46"
+hash = "26f9aefc3cea664b618ac9a312868c15e5fb65dfb64a1249150d3282a5386505"
 metafile = true
 
 [[files]]
@@ -737,52 +733,52 @@ hash = "bf73fe41bf0356fc985b3157ba6f9a73f057d9ea904ef042748b18dd0e1dc476"
 
 [[files]]
 file = "mods/project-bench.pw.toml"
-hash = "fc376b89096fc70020e21a5e8ab52e1377b777afaa4392d1cd9e9c38d8d6728f"
+hash = "a63d65bae61d1ef3ddb4a447d613682112f468fec2175f2dbeded536450cefc6"
 metafile = true
 
 [[files]]
 file = "mods/project-red-base.pw.toml"
-hash = "c8ebb10127567a7464fa0c4ac7ccb20cb7a062856aab4411889fb92d181c4601"
+hash = "329a521f1d87b930e28acf2bb8a6f7c30c234df80e5873d2308a22b141b1058e"
 metafile = true
 
 [[files]]
 file = "mods/project-red-compat.pw.toml"
-hash = "4351861a23b63b2f6c8a640d2469ac9e99ab68575cd0dac508275a9f1abe03da"
+hash = "2a877b57cb42fdeb2adcf48b2e6b332c22bc900c3b5ec214baf687eb26fd49ed"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "bfc033d52094c34a298a8ea19803abb146fb1df7f638a563222f8b1d31a6ea9a"
+hash = "6073456d00d17588e782d5e1bce60774e033d01e607e7d36e7606be7bf7223ef"
 metafile = true
 
 [[files]]
 file = "mods/project-red-lighting.pw.toml"
-hash = "2a474b0d1939240a8f5cece60b467e2d82348a8ddc74339f127039015036d142"
+hash = "7dfbc2fb7b1c5019f1490ade26788c9bf8b2e9e259c09f7d2eedef068e7d48f9"
 metafile = true
 
 [[files]]
 file = "mods/project-red-mechanical.pw.toml"
-hash = "95881388d37441a6bbc6c3f4562294bf68a6f661174f7f28e02ade89a8ef76de"
+hash = "fb8cd2255870e5fdec3cd52072aff7bd2d1797a071874de843c511cc54e78a03"
 metafile = true
 
 [[files]]
 file = "mods/project-red-world.pw.toml"
-hash = "1dc0871eb844b9176d180cd281bbbcc7b36e356389e1e90b9b3330d056aec0dc"
+hash = "2826e08024389c397496e962b2092b936854e907f19af165fa0a4ec9c0c54075"
 metafile = true
 
 [[files]]
 file = "mods/qcraft.pw.toml"
-hash = "96b0aed6ce255fd3247d0e37aa8ef85fc13355aa3278ee012fff4630de9afe27"
+hash = "c8c34446eb77cfe9a6eb0c27a9888fd052139db8b64f2337191e98460c542f2b"
 metafile = true
 
 [[files]]
 file = "mods/redstone-arsenal.pw.toml"
-hash = "e443533a5eccbfc3b427097ef77c06fbcd680ef27e50ecbbb11c66603e3bac79"
+hash = "38a198d39a3a295bbd7a5695da63821cfde2a31701c354b96f85041abb586241"
 metafile = true
 
 [[files]]
 file = "mods/redstone-in-motion.pw.toml"
-hash = "413b3a7ff13d99d49f8cbfb566ae84fe0d2dccb15e949820677c8971cb4b6330"
+hash = "df7d7c7f95333a5fae6d41288ec99fede1cd879263c7b5673fe893f488b4a94c"
 metafile = true
 
 [[files]]
@@ -797,17 +793,17 @@ metafile = true
 
 [[files]]
 file = "mods/simply-jetpacks.pw.toml"
-hash = "9f99cd6c80eefa24c11699f276d9c268bccdfbe4546d828b5d581195f2af294d"
+hash = "dac1a1c8eb54df41c1051d4745da43b360285eef2c04406b7c18e266cc8f4b9f"
 metafile = true
 
 [[files]]
 file = "mods/steve-s-carts-2.pw.toml"
-hash = "409e2a603aca9d0368403ed58f7e03de517b4a0b200746278938704b122837e4"
+hash = "6fdfeb38c4c80e820d707332c47c599cf97029da430ed7674e04e4c15b822863"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "d2fa38663c5cf330c9c14a90965628add8bcd929ee7120c4982bc2a9965a964d"
+hash = "08e77742fd321cde2e1744a82fbf5067cfba036d3683fbcae579e2fb7fcdbddd"
 metafile = true
 
 [[files]]
@@ -816,7 +812,7 @@ hash = "d5dae3ae0c7fd25856922a870555ffe46b333ce422b538f8294fdbd897821fd5"
 
 [[files]]
 file = "mods/treecapitator.pw.toml"
-hash = "8ae9df1a0ff5a0069e05f50419ad1c10b827053ff46d26ddb3a39f8a39333d26"
+hash = "4ed066151e275b0825efec718935c1f20a1f9c0774a1aed28b28bcdfb0988a68"
 metafile = true
 
 [[files]]
@@ -825,17 +821,17 @@ hash = "a0b171d11b4f088236f1345b01a89ce6b4b6b02183a5d9cc4a923bcdd4a6159b"
 
 [[files]]
 file = "mods/vending-block.pw.toml"
-hash = "eee0845b15b86e78e9aead5e557f6a723f4099752af802481a69d2305ae5ea74"
+hash = "c7e9da2ba71449a4f5cb0f755a72e9f99229f4e4dbd68c387e3b1a389af99dce"
 metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
+hash = "a945dc9731bb36e0b552bd99a77a6be0857bf86ab64c8e2541cf82e81fb8178b"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-universal.pw.toml"
-hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
+hash = "9bc8a7f8a27442d41d0c23c198b5f9da8be4d7cf70eb03406168ffe4e3e3f0f3"
 metafile = true
 
 [[files]]

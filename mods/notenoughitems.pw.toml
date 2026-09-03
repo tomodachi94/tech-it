@@ -3,8 +3,8 @@ filename = "NotEnoughItems-1.6.4-1.6.1.9-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "548dcc9ad0de2c496f31f716c293d8596e55c8a5"
+hash-format = "sha512"
+hash = "82aa247cc73d737a02b758de1cc05589729225d9931c2cbf5ad28d7dfc171c3cf13454b9446a684c84b3b3c86e5a8d53fd61980b14a025ef60e988baa7ef5e25"
 mode = "metadata:curseforge"
 
 [update]

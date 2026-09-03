@@ -3,8 +3,8 @@ filename = "NetherOres-2.2.2-55.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "31841f25244709fd76fabc270d9e785349186746"
+hash-format = "sha512"
+hash = "51f27146e7b91c976b83505fc507f9dab78955c46676ac6fc3aeaf6508ecb922a0ee9dfc3486634065efe78de58ad0df90d3e7d68e62ecbccf995618239ba682"
 mode = "metadata:curseforge"
 
 [update]

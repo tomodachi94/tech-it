@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/A/auto%20utils/1.6.4/autoutils-1.6.4-1.0.1.jar"
-hash-format = "sha256"
-hash = "059e23df8d0c50c6a59802120f6f18272b8e1116e5deab6c02bae7e23bb75fec"
+hash-format = "sha512"
+hash = "20c095618ad5217b52ec9c70c31312677cba7e0803fc248e5fdf0f144c9bd26abbcc2ed2cbdf3d48d6ba7f62c3ac425afb6aa87e239b72be9a490ffb8914428e"

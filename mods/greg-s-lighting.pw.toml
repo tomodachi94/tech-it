@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/download/GregsLighting-1.9.1-mc1.6.4.jar"
-hash-format = "sha256"
-hash = "e59720ab2b2b839cf134f2749f5f39e1a4ba9e2ca4a558dd5adf7b704a2989bb"
+hash-format = "sha512"
+hash = "1fdb5b0306e3120d7bb38f29d7c705214cffddaa6f7ec0bea91e787f1dc4cdc120234f6d0c267fa9f27d05dc628d951bc0bbec30a1a644c0280327477fd77b12"

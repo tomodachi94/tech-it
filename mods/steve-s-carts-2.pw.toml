@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/S/steve's%20carts%202/1.6.4/StevesCarts2.0.0.b10.zip"
-hash-format = "sha256"
-hash = "d482e6003c392677d44f8603d733352eb9dff4ed1082ad80b4b34a7c64c41d91"
+hash-format = "sha512"
+hash = "1362366867d348463c255a661ee117222503b81dd499436ac6ba1f0191e78cbf4ed63c875b9095b59863e30a7004169ac09047afa041eed34fca03791f6e2927"
