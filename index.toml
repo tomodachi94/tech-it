@@ -629,6 +629,11 @@ hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
+file = "mods/idfix-minus.pw.toml"
+hash = "366b5cb604f14cfab6dbc5db9d95b73e0a3226aae031900ab61aeaba6babe47b"
+metafile = true
+
+[[files]]
 file = "mods/immibis-core.pw.toml"
 hash = "5c6838e5c982e09fc75b2199f88dad63a1799d171393747089713772ae717e66"
 metafile = true
