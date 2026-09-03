@@ -376,6 +376,11 @@ blocks {
     S:2528=extrautils.ExtraUtils|transferNodeRemoteId|2528
     S:2529=extrautils.ExtraUtils|generatorId|2529
     S:2530=extrautils.ExtraUtils|enderQuarryId|2530
+    S:2710=pl.asie.computronics.Computronics|ironNote|2710
+    S:2711=pl.asie.computronics.Computronics|tapeReader|2711
+    S:2712=pl.asie.computronics.Computronics|camera|2712
+    S:2713=pl.asie.computronics.Computronics|chatBox|2713
+    S:2714=pl.asie.computronics.Computronics|cipherBlock|2714
     S:2753=assets.pamharvestcraft.PamHarvestCraft|pambambooshootwildID|2753
     S:2761=info.jbcs.minecraft.chisel.Chisel|blockMarble|2761
     S:2762=info.jbcs.minecraft.chisel.Chisel|blockLimestone|2762
@@ -1793,6 +1798,7 @@ items {
     S:17083=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodLightSigil|17083
     S:17084=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseAlchemyComponents|17084
     S:17085=WayofTime.alchemicalWizardry.AlchemicalWizardry|ItemSigilOfSupression|17085
+    S:17500=pl.asie.lib.AsieLibMod|hakase|17500
     S:17750=erogenousbeef.bigreactors.common.BRLoader|IngotYellorium|17750
     S:17751=erogenousbeef.bigreactors.common.BRLoader|BucketYellorium|17751
     S:17752=erogenousbeef.bigreactors.common.BRLoader|BucketCyanite|17752
@@ -1922,6 +1928,8 @@ items {
     S:27007=com.pahimar.ee3.EquivalentExchange3|diviningRod|27007
     S:27008=com.pahimar.ee3.EquivalentExchange3|alchemicalFuel|27008
     S:27009=com.pahimar.ee3.EquivalentExchange3|alchemicalUpgrade|27009
+    S:27850=pl.asie.computronics.Computronics|tape|27850
+    S:27851=pl.asie.computronics.Computronics|parts|27851
     S:31709=dan200.computercraft.ComputerCraft|pocketComputerItemID|31709
     S:31732=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseComponents|17083
     S:31733=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodFrame|17082

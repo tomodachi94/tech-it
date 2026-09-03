@@ -82,7 +82,7 @@ hash = "4fa16d4873444866f9232fa0c2a09eb329e97fbb741151d52c0285b4d7051679"
 
 [[files]]
 file = "config/Galacticraft/core.conf"
-hash = "5312242590cc2e91ac371fff7a41a1b6961683d00c6dd34d14b109e692b5be8b"
+hash = "8da6c82fbdf233c2688967cc9bb9957c4936033bacdffb2b24637b401556661e"
 
 [[files]]
 file = "config/Galacticraft/mars.conf"
@@ -502,7 +502,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "2dab8759916d9a8361928523ca014c50fa26c44bee0878d9d19d733f9dcbad08"
+hash = "e87bc9e590d5c7b5ab92fed24941db61e9535d1f5abe3f3bd0188e5b23830803"
 
 [[files]]
 file = "java.security"
@@ -520,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/ae1.pw.toml"
 hash = "0eea786bb56c0e7c3b4db0e330c9b640919d1e0800498cec34a454d97ac64342"
+metafile = true
+
+[[files]]
+file = "mods/asielib.pw.toml"
+hash = "ba9612763755180181bcd8d38a4fc802391712d6f6572c75b121ac6da5b5a7e2"
 metafile = true
 
 [[files]]
@@ -599,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/computercraft.pw.toml"
 hash = "95f28b11282c09950d4ad814eb2875b1e3d830c2764becfc11b13c0ed2bc8f72"
+metafile = true
+
+[[files]]
+file = "mods/computronics.pw.toml"
+hash = "4b132ee6fbca4a7f84c1cdb85e175dde937ac67920e8ec04858a5c44601fafc7"
 metafile = true
 
 [[files]]

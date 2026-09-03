@@ -1,0 +1,8 @@
+name = "AsieLib"
+filename = "AsieLib-1.6.4-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/A/asie%20lib/1.6.4/AsieLib-1.6.4-0.2.4.jar"
+hash-format = "sha256"
+hash = "b8b6aaf6d8b3e4e9fb01a638a50559f934f9a512ff678a4209a701b9be66d251"

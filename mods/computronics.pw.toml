@@ -1,0 +1,8 @@
+name = "Computronics"
+filename = "Computronics-1.6.4-0.4.2-OC13.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/C/computronics/1.6.4/Computronics-1.6.4-0.4.2-OC13.jar"
+hash-format = "sha256"
+hash = "95b7a112805114a633d86c9b838c4453d8ffb84a36a55c646109920a9f02796c"
