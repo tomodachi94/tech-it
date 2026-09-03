@@ -721,6 +721,11 @@ hash = "9347aa191a4bbb974fa5adfe14d2d3a74a584e5aeb3fad4d27ecee407dadf82c"
 metafile = true
 
 [[files]]
+file = "mods/morph.pw.toml"
+hash = "40b6a358f75e10b86ea25557c03ad13ccb8389d4ff72c6e1b2b5cbbb33bc6d20"
+metafile = true
+
+[[files]]
 file = "mods/mystcraft.pw.toml"
 hash = "ae48412ca4b1acf23dfa588589519f360b698e8d1c316056f0463f57853aed3b"
 metafile = true

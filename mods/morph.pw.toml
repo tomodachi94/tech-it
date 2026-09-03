@@ -1,0 +1,13 @@
+name = "Morph"
+filename = "Morph-Beta-0.7.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec385696907e086610dddccb6252713b13c36ac1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232196
+project-id = 229080
