@@ -647,6 +647,16 @@ hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
+file = "mods/hats.pw.toml"
+hash = "bd73746cf886473d3c0336e59592ce4925ed63e62e6189e1c1e3201be5a68157"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "0806c6029a6fac15b0843e0490e752d76c6b02cbb3a4d26c51a82d4132119dd3"
+metafile = true
+
+[[files]]
 file = "mods/idfix-minus.pw.toml"
 hash = "366b5cb604f14cfab6dbc5db9d95b73e0a3226aae031900ab61aeaba6babe47b"
 metafile = true
