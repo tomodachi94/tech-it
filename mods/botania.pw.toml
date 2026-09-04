@@ -1,0 +1,8 @@
+name = "Botania"
+filename = "Botania beta-16.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/B/botania/1.6.4/Botania%20beta-16.jar"
+hash-format = "sha256"
+hash = "2e292e04e709e4495e402c770812a0f5b51669e13219d6f192d640219ab19daa"

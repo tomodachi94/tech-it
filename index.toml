@@ -1186,7 +1186,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "491cff28fbc677d19a742a7b83230e06cd8dc5318e4ca6a88755703f23a4d02d"
+hash = "c9022cca44dcfe879160fa34b3de15fdfc2c624275ec8f0c4ba2ac390eb463dd"
 
 [[files]]
 file = "java.security"
@@ -1252,6 +1252,11 @@ metafile = true
 [[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "59dddd58909c0cc49bf8c30b5e5cf3595b3fa105f4db3edee1b9cf8dd7dce81d"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "4a00c368d39a5ebf1043f0d2a1c333c0aac4692686c31a01ba126a92ddda16ec"
 metafile = true
 
 [[files]]
