@@ -1190,7 +1190,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "5bdfd86a62441870d76f67757b81a44b82e712f7a92f8713303efa0b37a33240"
+hash = "6ee13f77224c5fab1d33d6bbc4924a055e60096ccae9a956fb02ea2bb25a89eb"
 
 [[files]]
 file = "java.security"
@@ -1246,6 +1246,16 @@ metafile = true
 [[files]]
 file = "mods/balkons-weaponmod.pw.toml"
 hash = "99b637565126d2571fdb26bae9f9a6c3b9b5bec40e17df2471c539a60f89dc0f"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft-bibliowoods-extrabiomesxl-edition.pw.toml"
+hash = "3404ea55c46237504003c5a1dceab5020436ecaa2f5855ea0e6867025b626c6c"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "79804cc59dd13f3a6a3f99c66d3113d577d944940a0c4736f432226945fbec3f"
 metafile = true
 
 [[files]]

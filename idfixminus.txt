@@ -356,6 +356,22 @@ blocks {
     S:2185=twilightforest.TwilightForestMod|TrophyPedestal|2185
     S:2186=twilightforest.TwilightForestMod|AuroraBrick|2186
     S:2187=twilightforest.TwilightForestMod|UnderBrick|2187
+    S:2242=jds.bibliocraft.BiblioCraft|MoreStuffs|2242
+    S:2243=jds.bibliocraft.BiblioCraft|Lantern|2243
+    S:2244=jds.bibliocraft.BiblioCraft|Lamp|2244
+    S:2245=jds.bibliocraft.BiblioCraft|Table|2245
+    S:2246=jds.bibliocraft.BiblioCraft|TypeMachine|2246
+    S:2247=jds.bibliocraft.BiblioCraft|PrintingPress|2247
+    S:2248=jds.bibliocraft.BiblioCraft|WritingDesk|2248
+    S:2249=jds.bibliocraft.BiblioCraft|ArmorStand|2249
+    S:2250=jds.bibliocraft.BiblioCraft|Bookcase|2250
+    S:2251=jds.bibliocraft.BiblioCraft|WoodenLabel|2251
+    S:2252=jds.bibliocraft.BiblioCraft|PotionShelf|2252
+    S:2253=jds.bibliocraft.BiblioCraft|WeaponRack|2253
+    S:2254=jds.bibliocraft.BiblioCraft|GenericShelf|2254
+    S:2255=jds.bibliocraft.BiblioCraft|WeaponCase|2255
+    S:2290=jds.bibliocraft.BiblioCraft|MapFrame|2290
+    S:2291=jds.bibliocraft.BiblioCraft|Seat|2291
     S:2300=extrabiomes.Extrabiomes|quicksand.id|2300
     S:2310=extrabiomes.Extrabiomes|flower.id|2310
     S:2311=extrabiomes.Extrabiomes|cattail.id|2311
@@ -382,7 +398,12 @@ blocks {
     S:2351=extrabiomes.Extrabiomes|firquarterlog.id|2351
     S:2352=extrabiomes.Extrabiomes|redwoodquarterlog.id|2352
     S:2353=extrabiomes.Extrabiomes|oakquarterlog.id|2353
+    S:2354=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|DisplayCaseSet1|2354
+    S:2355=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|DisplayCaseSet2|2355
+    S:2356=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|PotionShelf|2356
     S:2357=extrabiomes.Extrabiomes|minilog.id|2357
+    S:2358=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Table|2358
+    S:2359=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|ToolRack|2359
     S:2360=extrabiomes.Extrabiomes|planks.id|2360
     S:2363=extrabiomes.Extrabiomes|woodslab.id|2363
     S:2364=extrabiomes.Extrabiomes|doublewoodslab.id|2364
@@ -579,6 +600,13 @@ blocks {
     S:3785=atomicscience.AtomicScience|quantumAssembler|3785
     S:3787=atomicscience.AtomicScience|reactorDrain|3787
     S:3814=assets.pamharvestcraft.PamHarvestCraft|pamcactusfruitwildID|3814
+    S:3884=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|MapFrame|2366
+    S:3885=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Seat|2365
+    S:3886=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Label|2360
+    S:3887=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Shelf|2357
+    S:3888=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|DisplayCaseSet0|2353
+    S:3889=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Desk|2352
+    S:3890=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|Bookcase|2351
     S:3891=growthcraft.rice.GrowthCraftRice|Rice (Block)|513
     S:3892=growthcraft.hops.GrowthCraftHops|Hop Vine ID|512
     S:3893=growthcraft.grapes.GrowthCraftGrapes|Grape (Block) ID|511
@@ -793,6 +821,7 @@ blocks {
 
 enchantments {
     S:136=twilightforest.TwilightForestMod|136
+    S:188=jds.bibliocraft.BiblioCraft|188
 }
 
 
@@ -2060,6 +2089,29 @@ items {
     S:20505=redstonearsenal.RedstoneArsenal|Tool.Flux.Pickaxe|20505
     S:20506=redstonearsenal.RedstoneArsenal|Tool.Flux.Axe|20506
     S:20507=redstonearsenal.RedstoneArsenal|Tool.Flux.Sickle|20507
+    S:22222=jds.bibliocraft.BiblioCraft|TapeMeasure|22222
+    S:22223=jds.bibliocraft.BiblioCraft|TapeReel|22223
+    S:22224=jds.bibliocraft.BiblioCraft|Chase|22224
+    S:22225=jds.bibliocraft.BiblioCraft|Plate|22225
+    S:22226=jds.bibliocraft.BiblioCraft|RedstoneBook|22226
+    S:22227=jds.bibliocraft.BiblioCraft|ReadingGlasses|22227
+    S:22228=jds.bibliocraft.BiblioCraft|EnchantedPlate|22228
+    S:22230=jds.bibliocraft.BiblioCraft|ScrewGun|22230
+    S:22231=jds.bibliocraft.BiblioCraft|CreativeModeLock|22231
+    S:22232=jds.bibliocraft.BiblioCraft|ClipBoard|22232
+    S:22233=jds.bibliocraft.BiblioCraft|Atlas|22233
+    S:22234=jds.bibliocraft.BiblioCraft|MapTool|22234
+    S:22235=jds.bibliocraft.BiblioCraft|WaypointCompass|22235
+    S:22236=jds.bibliocraft.BiblioCraft|SeatBack|22236
+    S:22237=jds.bibliocraft.BiblioCraft|SeatBack2|22237
+    S:22238=jds.bibliocraft.BiblioCraft|SeatBack3|22238
+    S:22239=jds.bibliocraft.BiblioCraft|SeatBack4|22239
+    S:22240=jds.bibliocraft.BiblioCraft|SeatBack5|22240
+    S:22309=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|SeatBack|22309
+    S:22310=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|SeatBack2|22310
+    S:22311=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|SeatBack3|22311
+    S:22312=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|SeatBack4|22312
+    S:22313=jds.bibliocraft.ebxlwood.BiblioWoodsEBXL|SeatBack5|22313
     S:23000=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|ItemBedsideCabinet|23000
     S:23001=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|ItemTableWood|23001
     S:23002=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|ItemChairWood|23002
