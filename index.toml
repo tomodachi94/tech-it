@@ -717,6 +717,10 @@ file = "config/BigReactors/BigReactors.cfg"
 hash = "d419f0eb32f14356a29216432aeda9e41f93a2f6c07ba458649aaa023ad96a49"
 
 [[files]]
+file = "config/Botania.cfg"
+hash = "0e5eb5764d2ecaa939d37edd16102e9eb562f7c10951be50a0ac2b23436f8733"
+
+[[files]]
 file = "config/CCTurtle.cfg"
 hash = "b8358bb31de2a573a3e5a14662ab92f1d51eb3c0dbbd453d393b90de92264a67"
 
