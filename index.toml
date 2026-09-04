@@ -550,11 +550,11 @@ hash = "f8c2f88e85691eae8ad265a63ee088f1010c4b7fa2a3f8f70a42812db935b31d"
 
 [[files]]
 file = "Chocolate/DungeonConfig/castles.prop"
-hash = "1b36c53e1c284ef97650563d6674f129345efcb5feae192fd686672a138997a2"
+hash = "cd6c4cc84564388a74ebab86b42e8bf89aee8c9a329832493719a10f0b82242e"
 
 [[files]]
 file = "Chocolate/DungeonConfig/iceCave.prop"
-hash = "efe169f3f81b3bf1b05c1750ee23fa9304f9b5a042568bca737c29d095031391"
+hash = "09392c32c807a5bc3471ed2d5edf4e9ab32b6a96b1d415f031d87b3b4f7edc8a"
 
 [[files]]
 file = "Chocolate/DungeonConfig/jungleCave.prop"
@@ -566,7 +566,7 @@ hash = "fff02e5944c227bc25d01114b2341720075a8dcdf9de028faba09f4e6ebb5535"
 
 [[files]]
 file = "Chocolate/DungeonConfig/premadeCastleSnow.prop"
-hash = "84aab298e77578ac82ffe077d95900185f4df472ab0cd9c1b6e6d0782d4042d1"
+hash = "a3d78c0a844970b4a43ef6f71b3b15727357ec2d275fba968b5bc8d94f8397b2"
 
 [[files]]
 file = "Chocolate/DungeonConfig/premadeCastles.prop"
@@ -582,15 +582,15 @@ hash = "77a955b6870b8aaa8e4a8e11b8b4a50e8e644a7ad72adab75168936449dd3f4c"
 
 [[files]]
 file = "Chocolate/DungeonConfig/stronghold.prop"
-hash = "91cf6cf07c8824dc80fcf951d7940b41d9ccd21869bc712ad7c9b2b49635d925"
+hash = "e7099b222dbedcabd0b9e4ee28d992f36b054358870949b40c296c230ac7584a"
 
 [[files]]
 file = "Chocolate/DungeonConfig/strongholdDesert.prop"
-hash = "74850de316c0259326cd25ac5ef7281ff111ce74458390336b80e5f777a25070"
+hash = "2cefdb23a6dde1e9e284554b5524366b02fa33edfb7e080c100afd47d941de69"
 
 [[files]]
 file = "Chocolate/DungeonConfig/swampTurtleCave.prop"
-hash = "f312caf0e0e6d32316c50c61e2c632d3856da5f998a8e49ba11e849a08b06e63"
+hash = "2776da6e291b606d8bd12d8c0c903dd95ae46361e244295d76ec1b90217a8441"
 
 [[files]]
 file = "Chocolate/DungeonConfig/undergroundDungeon.prop"
