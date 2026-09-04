@@ -1190,7 +1190,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "c9022cca44dcfe879160fa34b3de15fdfc2c624275ec8f0c4ba2ac390eb463dd"
+hash = "5bdfd86a62441870d76f67757b81a44b82e712f7a92f8713303efa0b37a33240"
 
 [[files]]
 file = "java.security"
@@ -1376,6 +1376,42 @@ metafile = true
 file = "mods/greg-s-lighting.pw.toml"
 hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
+
+[[files]]
+file = "mods/growthcraft-apples-1.6.4-2.0.1.zip"
+hash = "cf5577f8cf480ec5b39d015eeef1b1eafbbf91326e9c764723910dbb4aa6071c"
+
+[[files]]
+file = "mods/growthcraft-bamboo-1.6.4-2.0.1.zip"
+hash = "09d60535c8624f4e7f868a78625d04adc3b55bf3426cd4a7a3d331bf5c239717"
+
+[[files]]
+file = "mods/growthcraft-bees-1.6.4-2.0.1.zip"
+hash = "5b8a7bb4b281fc8b827c40c2a600712f2851060bcefd0a57cb80604b39042c23"
+
+[[files]]
+file = "mods/growthcraft-cellar-1.6.4-2.0.1.zip"
+hash = "a3c1d8e1a23bb8507f64178ee4d2fd9cf8d6743ac51a076a7731a77d51535c7b"
+
+[[files]]
+file = "mods/growthcraft-core-1.6.4-2.0.1.zip"
+hash = "ad9ddb50044bdf70ec7508fc0227103de09155c80cb85d706b7812db882f93a4"
+
+[[files]]
+file = "mods/growthcraft-fishtrap-1.6.4-2.0.1.zip"
+hash = "d2943749b9c64fa9bab05519bdf44b3d4792f370f9f5f645bf19d4ad7f885952"
+
+[[files]]
+file = "mods/growthcraft-grapes-1.6.4-2.0.1.zip"
+hash = "863e67438d2a51d88f00d4ddfe4774a172a2e4225881bdd3374214a3dca6c07a"
+
+[[files]]
+file = "mods/growthcraft-hops-1.6.4-2.0.1.zip"
+hash = "e94502d473c45a06d0188803efc3c47837b0c2e3b269f99805dab01844d06ed1"
+
+[[files]]
+file = "mods/growthcraft-rice-1.6.4-2.0.1.zip"
+hash = "07a703ca3a83e6ec428f181d3860ef86adfcfe31c74f00592fadbad76a2546c8"
 
 [[files]]
 file = "mods/hats.pw.toml"
