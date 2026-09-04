@@ -865,6 +865,10 @@ file = "config/QuantumCraft.cfg"
 hash = "13f4e580eb6648ce7f240d50b069777dbc5b603b591597a8bec224c365bbacdb"
 
 [[files]]
+file = "config/SpiceOfLife.cfg"
+hash = "38531cc61706207283f625789ecf5ba379729df229f4aa531b0b18e3174d1741"
+
+[[files]]
 file = "config/StevesCarts.cfg"
 hash = "6dbf5b586cbaeafbc36fbf836a15119d304eb02d3124d01c000aaeb1d00e6df8"
 
@@ -1190,7 +1194,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "6ee13f77224c5fab1d33d6bbc4924a055e60096ccae9a956fb02ea2bb25a89eb"
+hash = "c5ce8d4fbc4ee0197c51abb14242fbf2ffcb06ba820d74270127e65ef79636a8"
 
 [[files]]
 file = "java.security"
