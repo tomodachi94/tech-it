@@ -1394,6 +1394,11 @@ hash = "7fd63c2a4ac59b569d34c1cbc0f4b065bd50b425f9357619df65a931cb8c40f2"
 metafile = true
 
 [[files]]
+file = "mods/immibis-peripherals.pw.toml"
+hash = "86a765a38abf3b82bd0964f0aefd04cf639ad912e6c7fedacdfd2b297041b176"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "cd9aa178308f653a46c43961a68269950d2a07255be5799098b52c55e20bd094"
 metafile = true

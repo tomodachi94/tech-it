@@ -1,0 +1,13 @@
+name = "Immibis's Peripherals"
+filename = "immibis-peripherals-57.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SStzOzCK/versions/fVZO1YL9/immibis-peripherals-57.1.0.jar"
+hash-format = "sha512"
+hash = "5cebc2d9d03ed62fb88205f93cf1a89a333d39ea8fa00bcea20e2ce6753122ad385876d9a91b26d5503f90ceb6e23e2b1c5f69461df54fc901610c611160cf07"
+
+[update]
+[update.modrinth]
+mod-id = "SStzOzCK"
+version = "fVZO1YL9"

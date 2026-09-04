@@ -10,6 +10,7 @@ blocks {
     S:0214=StevenDimDoors.mod_pocketDim.mod_pocketDim|Perma Fabric Block ID|220
     S:0254=extrabiomes.Extrabiomes|redrock.id|254
     S:0255=extrabiomes.Extrabiomes|crackedsand.id|255
+    S:0464=mods.immibis.core.ICNonCoreMod|peripherals.lan-wire.id|464
     S:0500=extracells.Extracells|SolderingStation_ID|500
     S:0501=buildcraft.BuildCraftBuilders|architect.id|1508
     S:0502=buildcraft.BuildCraftSilicon|assemblyTable.id|1517
@@ -548,6 +549,7 @@ blocks {
     S:3401=assets.pamharvestcraft.PamHarvestCraft|pamorangeID|3971
     S:3402=assets.pamharvestcraft.PamHarvestCraft|pamorangesaplingID|3972
     S:3403=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|BlockCouchBlack|518
+    S:3414=mods.immibis.core.ICNonCoreMod|peripherals.block.id|3414
     S:3751=pzyber.extraperipherals.ExtraPeriepherals|BundledConnector|3751
     S:3753=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitID|3753
     S:3754=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitsaplingID|3754
@@ -1162,6 +1164,7 @@ items {
     S:10017=extrautils.ExtraUtils|pipeJacketId|10017
     S:10018=extrautils.ExtraUtils|precisionShearsId|10018
     S:10100=abo.ABO|itemGateSettingsDuplicator.id|10100
+    S:10153=mods.immibis.ccperiphs.ImmibisPeripherals|peripherals.magstripe|10153
     S:10200=abo.ABO|pipeFluidsValve.id|10200
     S:10201=abo.ABO|pipeFluidsGoldenIron.id|10201
     S:10203=abo.ABO|pipeFluidsBalance.id|10203
@@ -1830,6 +1833,7 @@ items {
     S:16078=assets.pamharvestcraft.PamHarvestCraft|soymilkID|16078
     S:16079=assets.pamharvestcraft.PamHarvestCraft|firmtofuID|16079
     S:16080=assets.pamharvestcraft.PamHarvestCraft|silkentofuID|16080
+    S:16230=mods.immibis.ccperiphs.ImmibisPeripherals|peripherals.rfid|16230
     S:17000=WayofTime.alchemicalWizardry.AlchemicalWizardry|WeakBloodOrb|17000
     S:17001=WayofTime.alchemicalWizardry.AlchemicalWizardry|EnergyBlaster|17001
     S:17002=WayofTime.alchemicalWizardry.AlchemicalWizardry|EnergySword|17002
@@ -2130,7 +2134,11 @@ items {
     S:27786=twilightforest.TwilightForestMod|PhantomPlate|27786
     S:27850=pl.asie.computronics.Computronics|tape|27850
     S:27851=pl.asie.computronics.Computronics|parts|27851
+    S:28230=mods.immibis.ccperiphs.ImmibisPeripherals|peripherals.component|28230
     S:31709=dan200.computercraft.ComputerCraft|pocketComputerItemID|31709
+    S:31728=mods.immibis.core.ICNonCoreMod|peripherals.component|28230
+    S:31729=mods.immibis.core.ICNonCoreMod|peripherals.magstripe|10153
+    S:31730=mods.immibis.core.ICNonCoreMod|peripherals.rfid|16230
     S:31731=mods.immibis.core.ICNonCoreMod|tubestuff.uselessItem|11307
     S:31732=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseComponents|17083
     S:31733=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodFrame|17082
