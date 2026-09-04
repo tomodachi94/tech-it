@@ -1662,6 +1662,11 @@ hash = "6fdfeb38c4c80e820d707332c47c599cf97029da430ed7674e04e4c15b822863"
 metafile = true
 
 [[files]]
+file = "mods/the-spice-of-life.pw.toml"
+hash = "8ac79cb2ed19f478eca18e170f73c23351a83ed7545a5fce951cfcb317f229fc"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "baae7fbd33dcdf5647b6648b7a66bdc88d0a55f0a8248d491aa9138e43b7c9ec"
 metafile = true

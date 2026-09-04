@@ -1050,6 +1050,9 @@ items {
     S:05806=com.xcompwiz.mystcraft.Mystcraft|item.vial.id|8706
     S:05807=com.xcompwiz.mystcraft.Mystcraft|item.writingdesk.id|8703
     S:05808=com.xcompwiz.mystcraft.Mystcraft|item.unlinkedbook.id|8707
+    S:06850=squeek.spiceoflife.ModSpiceOfLife|bookfoodjournal|6850
+    S:06851=squeek.spiceoflife.ModSpiceOfLife|lunchbox|6851
+    S:06852=squeek.spiceoflife.ModSpiceOfLife|lunchbag|6852
     S:07811=info.jbcs.minecraft.chisel.Chisel|chisel|7811
     S:07812=info.jbcs.minecraft.chisel.Chisel|iceshard|7812
     S:07813=info.jbcs.minecraft.chisel.Chisel|cloudInABottle|7813

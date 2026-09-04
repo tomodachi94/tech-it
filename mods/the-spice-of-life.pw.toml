@@ -1,0 +1,13 @@
+name = "The Spice of Life"
+filename = "SpiceOfLife-mc1.6.4-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e5de954c0edad8e7ba37a3333c8c08cab5dde60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2216322
+project-id = 220811
