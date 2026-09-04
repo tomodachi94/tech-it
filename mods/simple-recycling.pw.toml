@@ -1,0 +1,13 @@
+name = "Simple Recycling"
+filename = "simple-recycling-57.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FFHn7zTw/versions/b4rexYMi/simple-recycling-57.2.0.jar"
+hash-format = "sha512"
+hash = "0746236a0b094a266b84eee50c5da04b6afe0d64b4e20e9a9dc92e5c19df1ed26561a40cf8cbe72a5102492394db7d35411daa2b7d39803afc2c944414c61c52"
+
+[update]
+[update.modrinth]
+mod-id = "FFHn7zTw"
+version = "b4rexYMi"

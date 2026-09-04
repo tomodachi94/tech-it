@@ -1592,6 +1592,11 @@ hash = "afc7ba933b4aaabbd20ec52456ce31e3b5bd21cded53f7e056409ce818c67978"
 metafile = true
 
 [[files]]
+file = "mods/simple-recycling.pw.toml"
+hash = "c6d3dfcf3f37e14937219733cf1665da942e3fa284ec86dceedb4b49ce8aafdd"
+metafile = true
+
+[[files]]
 file = "mods/simply-jetpacks.pw.toml"
 hash = "dac1a1c8eb54df41c1051d4745da43b360285eef2c04406b7c18e266cc8f4b9f"
 metafile = true
