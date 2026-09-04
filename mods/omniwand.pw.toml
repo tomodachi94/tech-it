@@ -1,0 +1,13 @@
+name = "Omniwand"
+filename = "omniwand-1.6.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4CuKFhRy/versions/OHk9Yw0f/omniwand-1.6.4-1.0.0.jar"
+hash-format = "sha512"
+hash = "0a97145ca809b9ca404a641ef445c3e0517bc07dd149629c6fbccadbe578c71f32b69498c1356be7e497a91d399c772769e47f3df4aec9baf31dba7551379cef"
+
+[update]
+[update.modrinth]
+mod-id = "4CuKFhRy"
+version = "OHk9Yw0f"

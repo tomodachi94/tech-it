@@ -1186,7 +1186,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "6ead74d766640c9007ccae058373695c7d0c9e185f76a9af10d1c36ee5ead09a"
+hash = "491cff28fbc677d19a742a7b83230e06cd8dc5318e4ca6a88755703f23a4d02d"
 
 [[files]]
 file = "java.security"
@@ -1490,6 +1490,11 @@ metafile = true
 [[files]]
 file = "mods/numina.pw.toml"
 hash = "041c442b76ab89686993785ad7b1a791bd0a9069a8fc6d62dc3dfb681689ca66"
+metafile = true
+
+[[files]]
+file = "mods/omniwand.pw.toml"
+hash = "2b78e818fd9b9e353e4d0a33082be0009b3675b273749828eaad7eaf182a08dc"
 metafile = true
 
 [[files]]
