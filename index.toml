@@ -1630,6 +1630,11 @@ hash = "a945dc9731bb36e0b552bd99a77a6be0857bf86ab64c8e2541cf82e81fb8178b"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "3c12cc3a89805cd1a517ac9449aade9ebdcac72546933043f51aa022fd36c778"
+metafile = true
+
+[[files]]
 file = "mods/wr-cbe-universal.pw.toml"
 hash = "9bc8a7f8a27442d41d0c23c198b5f9da8be4d7cf70eb03406168ffe4e3e3f0f3"
 metafile = true
