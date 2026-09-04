@@ -264,6 +264,7 @@ blocks {
     S:1440=powercrystals.netherores.NetherOresCore|BaseID|1440
     S:1524=buildcraft.BuildCraftFactory|floodGate.id|1524
     S:1531=buildcraft.BuildCraftEnergy|fuel.id|1531
+    S:1661=mods.immibis.core.ICNonCoreMod|tubestuff.storage.id|1661
     S:1690=calclavia.components.CalclaviaLoader|multiPart|3972
     S:1750=erogenousbeef.bigreactors.common.BRLoader|YelloriteOre|1750
     S:1751=erogenousbeef.bigreactors.common.BRLoader|YelloriumFuelRod|1751
@@ -278,6 +279,7 @@ blocks {
     S:1761=erogenousbeef.bigreactors.common.BRLoader|TurbineRotorPart|1761
     S:1762=erogenousbeef.bigreactors.common.BRLoader|MultiblockCreativePart|1762
     S:1763=erogenousbeef.bigreactors.common.BRLoader|MetalBlock|1763
+    S:1808=mods.immibis.core.ICNonCoreMod|tubestuff.id|1808
     S:1980=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Door Block ID|1980
     S:1981=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Dim Door Block ID|1981
     S:1982=StevenDimDoors.mod_pocketDim.mod_pocketDim|Quartz Door Block ID|1982
@@ -1179,6 +1181,7 @@ items {
     S:11170=mffs.ModularForceFieldSystem|moduleArray|11169
     S:11235=JAKJ.RedstoneInMotion.Mod|Tools|11235
     S:11236=JAKJ.RedstoneInMotion.Mod|Simple Items|11236
+    S:11307=mods.immibis.tubestuff.TubeStuff|tubestuff.uselessItem|11307
     S:11520=weaponmod.BalkonsWeaponMod|spear.wood|11520
     S:11521=weaponmod.BalkonsWeaponMod|spear.stone|11521
     S:11522=weaponmod.BalkonsWeaponMod|spear.iron|11522
@@ -2128,6 +2131,7 @@ items {
     S:27850=pl.asie.computronics.Computronics|tape|27850
     S:27851=pl.asie.computronics.Computronics|parts|27851
     S:31709=dan200.computercraft.ComputerCraft|pocketComputerItemID|31709
+    S:31731=mods.immibis.core.ICNonCoreMod|tubestuff.uselessItem|11307
     S:31732=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseComponents|17083
     S:31733=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodFrame|17082
     S:31734=WayofTime.alchemicalWizardry.AlchemicalWizardry|ComplexSpellCrystal|17081

@@ -1186,7 +1186,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "7352fafd4a8f552ad252d5d85aed35e8033b19839c845435ff24e3061bb44289"
+hash = "6ead74d766640c9007ccae058373695c7d0c9e185f76a9af10d1c36ee5ead09a"
 
 [[files]]
 file = "java.security"
@@ -1611,6 +1611,11 @@ hash = "4ed066151e275b0825efec718935c1f20a1f9c0774a1aed28b28bcdfb0988a68"
 metafile = true
 
 [[files]]
+file = "mods/tubestuff.pw.toml"
+hash = "fd68eda2be467868d40dc50da2747868eb0f9cefc4ed9c45f775f72a12f22394"
+metafile = true
+
+[[files]]
 file = "mods/universal-electricity-3.1.0.66-core.jar"
 hash = "a0b171d11b4f088236f1345b01a89ce6b4b6b02183a5d9cc4a923bcdd4a6159b"
 
@@ -1631,7 +1636,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "3c12cc3a89805cd1a517ac9449aade9ebdcac72546933043f51aa022fd36c778"
+hash = "0f602b6d0af237599db58bbc6ba276d074960f378787050268d4a8031945d362"
 metafile = true
 
 [[files]]
