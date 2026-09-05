@@ -1701,3 +1701,7 @@ metafile = true
 [[files]]
 file = "scripts/betterdungeons.zs"
 hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
+
+[[files]]
+file = "scripts/mystcraft.zs"
+hash = "1ea6c55c0af20d7019e596bc8a284c4b287b33632aced5a7c4e4dd519c4f4005"
