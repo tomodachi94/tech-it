@@ -3,6 +3,6 @@ filename = "ExtraPeripherals-1.6.4-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://upload.pzyber.net/minecraft/ExtraPeripherals-1.6.4-0.3.0.jar"
+url = "https://web.archive.org/web/20151101080418id_/http://upload.pzyber.net/minecraft/ExtraPeripherals-1.6.4-0.3.0.jar"
 hash-format = "sha512"
 hash = "2cbd3385e3e1527ea4ce60be5f3d3b193c8e7a5731b232d711dc1cf543f44dea50bf33d9a894acf14ee5a4eb00967c1135fcc13a850400778cf2cdf78b2a08e6"
