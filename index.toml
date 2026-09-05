@@ -1169,6 +1169,10 @@ file = "config/powercrystals/netherores/sv_SE.lang"
 hash = "834161f5e4c681e0ca046ad226e40fcdc60fb42db0f872c3f9ddfe0bfcf27c34"
 
 [[files]]
+file = "config/relauncher/config.cfg"
+hash = "a116038a73c1e56136d70e46ea453f69d6dc49be3299401076aed3c50733fbec"
+
+[[files]]
 file = "config/sct/simplepowerstorage/lang/en_US.lang"
 hash = "6f2052287c587af9c19a209f72ee1c2433e663876fe896f74b3b7b2592deb97e"
 
@@ -1603,6 +1607,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-in-motion.pw.toml"
 hash = "df7d7c7f95333a5fae6d41288ec99fede1cd879263c7b5673fe893f488b4a94c"
+metafile = true
+
+[[files]]
+file = "mods/relauncher.pw.toml"
+hash = "9aec03dbe5b6d55982ff5924ac93851c52a6950041f3e3ecc787294f5a34628e"
 metafile = true
 
 [[files]]

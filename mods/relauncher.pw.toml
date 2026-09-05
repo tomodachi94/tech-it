@@ -1,0 +1,13 @@
+name = "relauncher"
+filename = "relauncher-universal-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCFNaupz/versions/lewrXGXD/relauncher-universal-1.1.0.jar"
+hash-format = "sha512"
+hash = "689d0babca1a0276951f3422530b504fee69e16bc2e54053227d5e7748430251759b72ea378630e5bc689022bba18a212a69e85fb7a2879f89654ef945e6acc7"
+
+[update]
+[update.modrinth]
+mod-id = "zCFNaupz"
+version = "lewrXGXD"
