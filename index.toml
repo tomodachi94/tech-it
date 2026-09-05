@@ -749,14 +749,6 @@ file = "config/ComputerCraft.cfg"
 hash = "6882e9e8f2994f6f76a1bd29ce77487b22013bc4c7071ce58b0e28f451a31c3c"
 
 [[files]]
-file = "config/DimDoors.cfg"
-hash = "9b1cd949cb1d6969007ce36b78ec7d8169ab3528157100854561ebeb60573698"
-
-[[files]]
-file = "config/DimDoors_Custom_schematics/How_to_add_dungeons.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/EnderStorage.cfg"
 hash = "608a04c593776ce0b1049edc818a9ac86029c1eb157a6bb33b6e38243bcefae3"
 
@@ -1198,7 +1190,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "8d58f698264c68b6005e76abed0842f812d6ec1708c9d9b6b2ca03f8121e0e8a"
+hash = "904fce327aa105ce4bd27ade8d795341874f770acd1ed2255ba41455295dfd89"
 
 [[files]]
 file = "java.security"
@@ -1344,11 +1336,6 @@ metafile = true
 [[files]]
 file = "mods/dimensional-anchors.pw.toml"
 hash = "fda460c42977b8298cbc9716c1ff03a03babc45797b769332242187819d36dda"
-metafile = true
-
-[[files]]
-file = "mods/dimensional-doors-legacy.pw.toml"
-hash = "b4f526840c6459bcccdc2d1c61d6e0af67652ab6f06c7d89f4a19f04d71d150d"
 metafile = true
 
 [[files]]

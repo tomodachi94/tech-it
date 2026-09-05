@@ -6,8 +6,6 @@
 
 blocks {
     S:0000=extrabiomes.Extrabiomes|spanish_moss.id|0
-    S:0213=StevenDimDoors.mod_pocketDim.mod_pocketDim|Limbo Block ID|217
-    S:0214=StevenDimDoors.mod_pocketDim.mod_pocketDim|Perma Fabric Block ID|220
     S:0254=extrabiomes.Extrabiomes|redrock.id|254
     S:0255=extrabiomes.Extrabiomes|crackedsand.id|255
     S:0464=mods.immibis.core.ICNonCoreMod|peripherals.lan-wire.id|464
@@ -167,13 +165,6 @@ blocks {
     S:0777=mattparks.mods.space.core.SpaceCore|idBlockVenusFossilizedPlantOre|777
     S:0778=mattparks.mods.space.core.SpaceCore|idBlockVurnBerryBush|778
     S:0779=mattparks.mods.space.core.SpaceCore|idBlockVenusSulfurTorch|779
-    S:0786=StevenDimDoors.mod_pocketDim.mod_pocketDim|Unstable Door Block ID|1978
-    S:0787=StevenDimDoors.mod_pocketDim.mod_pocketDim|Dimensional Door Block ID|1970
-    S:0789=StevenDimDoors.mod_pocketDim.mod_pocketDim|Fabric Of Reality Block ID|1973
-    S:0790=StevenDimDoors.mod_pocketDim.mod_pocketDim|Rift Block ID|1977
-    S:0791=StevenDimDoors.mod_pocketDim.mod_pocketDim|Transdimensional Trapdoor Block ID|1971
-    S:0792=StevenDimDoors.mod_pocketDim.mod_pocketDim|Warp Door Block ID|1975
-    S:0794=StevenDimDoors.mod_pocketDim.mod_pocketDim|Transient Door Block ID|1979
     S:0806=gcewing.lighting.GregsLighting|floodlightBeam|4095
     S:0807=gcewing.lighting.GregsLighting|floodlight|4095
     S:0808=gcewing.lighting.GregsLighting|carbideFloodlight|4095
@@ -312,10 +303,6 @@ blocks {
     S:1969=vazkii.botania.common.Botania|botania:manaDetector|1969
     S:1970=vazkii.botania.common.Botania|botania:enchanter|1970
     S:1971=vazkii.botania.common.Botania|botania:turntable|1971
-    S:1980=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Door Block ID|1980
-    S:1981=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Dim Door Block ID|1981
-    S:1982=StevenDimDoors.mod_pocketDim.mod_pocketDim|Quartz Door Block ID|1982
-    S:1983=StevenDimDoors.mod_pocketDim.mod_pocketDim|Personal Dim Door ID|1983
     S:2000=thermalexpansion.ThermalExpansion|Device|2000
     S:2001=thermalexpansion.ThermalExpansion|Dynamo|2001
     S:2002=thermalexpansion.ThermalExpansion|Strongbox|2002
@@ -1025,18 +1012,6 @@ items {
     S:05626=dan200.computercraft.ComputerCraft|diskExpandedItemID|31707
     S:05627=dan200.computercraft.ComputerCraft|diskItemID|31708
     S:05628=dan200.computercraft.ComputerCraft|printoutItemID|31706
-    S:05651=StevenDimDoors.mod_pocketDim.mod_pocketDim|Unstable Door Item ID|5673
-    S:05652=StevenDimDoors.mod_pocketDim.mod_pocketDim|Dimensional Door Item ID|5674
-    S:05653=StevenDimDoors.mod_pocketDim.mod_pocketDim|Rift Blade Item ID|5676
-    S:05654=StevenDimDoors.mod_pocketDim.mod_pocketDim|Rift Remover Item ID|5671
-    S:05655=StevenDimDoors.mod_pocketDim.mod_pocketDim|Rift Signature Item ID|5675
-    S:05656=StevenDimDoors.mod_pocketDim.mod_pocketDim|Stabilized Rift Signature Item ID|5677
-    S:05657=StevenDimDoors.mod_pocketDim.mod_pocketDim|Stable Fabric Item ID|5672
-    S:05658=StevenDimDoors.mod_pocketDim.mod_pocketDim|Warp Door Item ID|5670
-    S:05678=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Door Item ID|5678
-    S:05679=StevenDimDoors.mod_pocketDim.mod_pocketDim|Gold Dim Door Item ID|5679
-    S:05680=StevenDimDoors.mod_pocketDim.mod_pocketDim|World Thread Item ID|5680
-    S:05681=StevenDimDoors.mod_pocketDim.mod_pocketDim|Rift Key Item ID|5681
     S:05701=gcewing.lighting.GregsLighting|glowingIngot|31743
     S:05702=gcewing.lighting.GregsLighting|bonemealAndCharcoal|31743
     S:05703=gcewing.lighting.GregsLighting|calciumCarbide|31743
@@ -2294,8 +2269,6 @@ items {
     S:31732=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseComponents|17083
     S:31733=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodFrame|17082
     S:31734=WayofTime.alchemicalWizardry.AlchemicalWizardry|ComplexSpellCrystal|17081
-    S:31735=StevenDimDoors.mod_pocketDim.mod_pocketDim|Personal Dim Door ID|5681
-    S:31736=StevenDimDoors.mod_pocketDim.mod_pocketDim|Quartz Door Item ID|5681
     S:31737=carpentersblocks.CarpentersBlocks|Bed|5404
     S:31738=carpentersblocks.CarpentersBlocks|Door|5403
     S:31739=carpentersblocks.CarpentersBlocks|Chisel|5402
