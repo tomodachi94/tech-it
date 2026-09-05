@@ -268,6 +268,17 @@ blocks {
     S:1440=powercrystals.netherores.NetherOresCore|BaseID|1440
     S:1524=buildcraft.BuildCraftFactory|floodGate.id|1524
     S:1531=buildcraft.BuildCraftEnergy|fuel.id|1531
+    S:1551=gravestone.ModGraveStone|GraveStone|1551
+    S:1552=gravestone.ModGraveStone|Spawner|1552
+    S:1553=gravestone.ModGraveStone|TimeTrap|1553
+    S:1554=gravestone.ModGraveStone|Memorial|1554
+    S:1555=gravestone.ModGraveStone|BonesBlock|1555
+    S:1556=gravestone.ModGraveStone|BonesSlab|1556
+    S:1557=gravestone.ModGraveStone|BonesStairs|1557
+    S:1558=gravestone.ModGraveStone|HauntedChest|1558
+    S:1559=gravestone.ModGraveStone|SkullCandle|1559
+    S:1560=gravestone.ModGraveStone|Altar|1560
+    S:1561=gravestone.ModGraveStone|Candle|1561
     S:1661=mods.immibis.core.ICNonCoreMod|tubestuff.storage.id|1661
     S:1690=calclavia.components.CalclaviaLoader|multiPart|3972
     S:1750=erogenousbeef.bigreactors.common.BRLoader|YelloriteOre|1750
@@ -1109,6 +1120,8 @@ items {
     S:08636=thermalexpansion.ThermalExpansion|Armor.Invar.Legs|8636
     S:08637=thermalexpansion.ThermalExpansion|Armor.Invar.Helmet|8637
     S:08638=thermalexpansion.ThermalExpansion|Armor.Invar.Boots|8638
+    S:08745=gravestone.ModGraveStone|Chisel|8745
+    S:08746=gravestone.ModGraveStone|Corpse|8746
     S:08751=bau5.mods.projectbench.common.ProjectBench|Upgrade Item|13070
     S:08776=thermalexpansion.ThermalExpansion|LogisticsBrokenItem.id|6863
     S:08777=thermalexpansion.ThermalExpansion|logisticDestination.id|6895

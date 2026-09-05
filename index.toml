@@ -822,7 +822,7 @@ hash = "a25132311d4e252a9c20dc2b9f27230d3ce7350c354a7b0b3204f2f19aa565cb"
 
 [[files]]
 file = "config/Morph.cfg"
-hash = "49b5fe16f1a1290c17038e20ef8f9c9074bb8508abd834eae7b5199cf89ec554"
+hash = "ae25ecece33f05706cd70ec9bd559d9a08eb1614247e9fc2585a171e814f9409"
 
 [[files]]
 file = "config/NEI.cfg"
@@ -1198,7 +1198,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "c5ce8d4fbc4ee0197c51abb14242fbf2ffcb06ba820d74270127e65ef79636a8"
+hash = "8d58f698264c68b6005e76abed0842f812d6ec1708c9d9b6b2ca03f8121e0e8a"
 
 [[files]]
 file = "java.security"
@@ -1393,6 +1393,11 @@ metafile = true
 [[files]]
 file = "mods/galacticraft.pw.toml"
 hash = "8b19a62769ddd6b46409ca17552e59aa0eb69db837972b5c022b8e2102d54f25"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod-graves.pw.toml"
+hash = "229d1ffe1c863625e85a3a16d4e6ac8bd3aa9ee887edaed1f3f834be89dd130a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Gravestone mod - Graves"
+filename = "GraveStone_2.8.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8e8c68bc37b60cd5881853d9b269b4c75bde8c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2201677
+project-id = 62929
