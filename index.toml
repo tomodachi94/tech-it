@@ -1437,6 +1437,11 @@ hash = "0de74250a2a446a181bde2266d4944990bccddbaf72d9973f1eab961aa3feea6"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "8e16bbeaa3b6d63ba24e7bf11fa6b7ff2db60f76e5aeccac538162e23f30fc57"
+metafile = true
+
+[[files]]
 file = "mods/legacy-java-fixer.pw.toml"
 hash = "caaa38149b453db4e194c99ba64b309c5ee37fea35f5528e632ef289ba1f8ff9"
 metafile = true

@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "JourneyMap4.0.3_Unlimited_MC1.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97d263427c902de1a59417815da2a017103a5025"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2209902
+project-id = 32274
