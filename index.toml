@@ -1190,7 +1190,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "904fce327aa105ce4bd27ade8d795341874f770acd1ed2255ba41455295dfd89"
+hash = "375638d77c2173811e8ce97eb07bf866e3fa6bb9f2e05122768fe538405bcf74"
 
 [[files]]
 file = "java.security"
@@ -1648,6 +1648,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "08e77742fd321cde2e1744a82fbf5067cfba036d3683fbcae579e2fb7fcdbddd"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "6537584310a4fcc5d6c425a30c740a2fbfc5e3c1078049450c577ae4bb603e6e"
 metafile = true
 
 [[files]]
