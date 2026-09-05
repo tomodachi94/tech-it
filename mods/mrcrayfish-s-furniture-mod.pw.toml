@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mr%20crayfish's%20furniture%20mod/1.6.4/MrCrayfishFurnitureModv3.3.4(1.6.4).jar"
-hash-format = "sha256"
-hash = "1defb4004b8b752bf27eae96b3382d404e91d2c47f886e4939280e4d71464893"
+hash-format = "sha512"
+hash = "703c2c56a3d645dcac926b737577f7552083b0f79a51d4bdfa7d6cdf4e23e191c773773954cc84ac4d7b90ee2115e31172f41b68c1faea003dc3f89916aa235f"

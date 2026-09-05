@@ -3,8 +3,8 @@ filename = "BattleTowers_1.6.4.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9941b250d925aa0e1eef4115680947e5c4e79c9b"
+hash-format = "sha512"
+hash = "f76c983a4c2ae7688bb7886545112944af0f7ba25a2feedea46c5a71e7a986e33be93c758b8e36c1b98afba7f3b36406215c1c325eec83968cfc54257caeda04"
 mode = "metadata:curseforge"
 
 [update]

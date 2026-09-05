@@ -3,8 +3,8 @@ filename = "BiblioWoods[ExtraBiomesXL][v1.1].zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d499b72c90b77958aaa32bdbe90749c0b5099f16"
+hash-format = "sha512"
+hash = "a6952516425cca0e9b7b8c356083a91aefe1f1607d2999f84d616a3faf9417e9ebd66ce644c4d9c5daf11aec1e8f94e2cd11300802c98e54533d27ee764e15ef"
 mode = "metadata:curseforge"
 
 [update]

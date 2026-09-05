@@ -3,8 +3,8 @@ filename = "WailaHarvestability-mc1.6.4-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d57ef9f689ce4f64cd6b94ba5f1f3109f6f115b4"
+hash-format = "sha512"
+hash = "45e1cd5c03b6bf53f7aa8173872a94fb828802b554efa241bc59318227299cf353c105764ea79ebb083e9194e77c535e96873e78ed289f9979b561867c68243b"
 mode = "metadata:curseforge"
 
 [update]

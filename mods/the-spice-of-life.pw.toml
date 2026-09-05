@@ -3,8 +3,8 @@ filename = "SpiceOfLife-mc1.6.4-1.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e5de954c0edad8e7ba37a3333c8c08cab5dde60"
+hash-format = "sha512"
+hash = "32ac3755fd9ae14fce57ebd1ed6efe8b672d684e636f85494bd4f4821aff6741629794eaaaed73b36aabc330e3c676bc4160a24c713fd4cd9d551b218209a689"
 mode = "metadata:curseforge"
 
 [update]

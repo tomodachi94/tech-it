@@ -3,8 +3,8 @@ filename = "worldedit-forge-mc1.6.4-6.0-alpha-01.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "cbc9822825430a30ecae0c48105f28cdd0db3fc2"
+hash-format = "sha512"
+hash = "56b684185b82049724b0f9fd236e23acfa6936728587378deaaed81a0afac0b808dd60615ccbd42b5200132bde3df161f29641dd83305c37691be736b812a128"
 mode = "metadata:curseforge"
 
 [update]

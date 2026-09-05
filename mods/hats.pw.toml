@@ -3,8 +3,8 @@ filename = "Hats2.1.8.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5dd9bd22781005cfeeb63696eff5527152252ed9"
+hash-format = "sha512"
+hash = "3d57fe6bff7a697ddcbc5a619ebf3bb820106e873b7dda70c793545eb5458fc2029973cd326f3a840ea26322990094e5bbcc83ea809740ddc0e8a6ca3ed98a2f"
 mode = "metadata:curseforge"
 
 [update]

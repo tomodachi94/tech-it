@@ -3,8 +3,8 @@ filename = "MineTweaker3-1.6.4-3.0.9C.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "96f2a59fb1ece2d6b68d9f8273293e49833bd88b"
+hash-format = "sha512"
+hash = "e8401e826fd79f7605ed5152153093d4c623ecb9837b92756b220d7b09013257e98723dcaa9edd9facaf37f2955ad8d0cb894bb2077f77d85a680d6c8b50fc60"
 mode = "metadata:curseforge"
 
 [update]

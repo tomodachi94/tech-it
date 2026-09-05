@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/P/pam's%20harvest%20craft/1.6.4/Pam's%20HarvestCraft%201.6.4%20v1.1.4.zip"
-hash-format = "sha256"
-hash = "f736307789c8ba35af33120bd0bb198fa60f0eb22260df22b8da47e0c5cc5689"
+hash-format = "sha512"
+hash = "0b6009b0a19c982e97a0f8b6a3e6f74cc49deb5529859f9efce0dd85505746b688da1d5af3526db3891fd54644a01da1b8ba0b25fdacd559dc756305eb53c77c"

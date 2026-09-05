@@ -3,8 +3,8 @@ filename = "BiblioCraft[v1.5.5].zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3bb91bebdfc05d15fc19d4eade9ee62d36b9fabd"
+hash-format = "sha512"
+hash = "e3b4c0aa459dd99c8b6d5c8c69cc87146547bfd8e4e026c3f19f1bc92b2404fd3befb537ea28c4ce7223c77fd866bf2e4b2ef96f64f610809332490470a7804a"
 mode = "metadata:curseforge"
 
 [update]

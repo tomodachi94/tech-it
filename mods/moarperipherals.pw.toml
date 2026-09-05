@@ -3,8 +3,8 @@ filename = "MoarPeripherals-1.6.4-1.63-1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4028fd047ee15d4d91c13abfa1018b65c68796c1"
+hash-format = "sha512"
+hash = "c8b7e96d0e643da6e011b0336aebcd20f7304a2fa0a996947e8e42038a87e6fc0004a10beec7e71233ee976cdc37770247c04aadfb6bbd76c10e3d0b859cccad"
 mode = "metadata:curseforge"
 
 [update]

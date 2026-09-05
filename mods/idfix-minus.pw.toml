@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/idfix%20minus/1.6.4/idfixminus-1.6.4-1.0.0.jar"
-hash-format = "sha256"
-hash = "4fd902fa366933d6330f7fab23c63884cad6a6c2898e1e2ae6ec882738543ac4"
+hash-format = "sha512"
+hash = "7c98c60b2fcb0ed4b2259187b80d282400318800752eb3bc65d42608db356d38cc6a92bb825f45592ba1a20b10027290c750be94bf4b73c69ce5f5fa2c086771"

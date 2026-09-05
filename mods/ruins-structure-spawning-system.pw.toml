@@ -3,8 +3,8 @@ filename = "Ruins_1.6.4.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e8de68e7861ea3df11e04fee814270682ef242b2"
+hash-format = "sha512"
+hash = "bc3d89b32185eccac2d6ce726b93dc01fe790c8f55298e03d6f81b8a18f7a0142efd9082c7876a3395a71f80c2eaace17b999cf7b18ccde086f03db16f75f051"
 mode = "metadata:curseforge"
 
 [update]

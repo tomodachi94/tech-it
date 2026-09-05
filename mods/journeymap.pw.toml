@@ -1,10 +1,10 @@
 name = "JourneyMap"
 filename = "JourneyMap4.0.3_Unlimited_MC1.6.4.jar"
-side = "client"
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97d263427c902de1a59417815da2a017103a5025"
+hash-format = "sha512"
+hash = "8720de4c445414792af077cec212a2706d02d6c84923d7b2b261cb036d50191ca8370bea255013727347c88abe3cd117da70509a3d3cf39c65e21c943ef05c15"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ExtrabiomesXL-1.6.4-3.15.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36d3465bc6a98c81c26d1285936bda898940ea60"
+hash-format = "sha512"
+hash = "8c06bd29ce6a7ec2ac4474f9ff61b89322fcf4de1efed7f3272a486053f18e8d713232f828df9fd1dd66deea55e66ef16c913bcb55dc03ee5bbc7ab960e9214a"
 mode = "metadata:curseforge"
 
 [update]

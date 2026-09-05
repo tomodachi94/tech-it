@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/A/asie%20lib/1.6.4/AsieLib-1.6.4-0.2.4.jar"
-hash-format = "sha256"
-hash = "b8b6aaf6d8b3e4e9fb01a638a50559f934f9a512ff678a4209a701b9be66d251"
+hash-format = "sha512"
+hash = "56ed2d87ed1f2626f8d8b0174cb2125ea654f12f1d7a2f49e8c12542507d598ad250cb62bc5da3e4981ae65cd9436d819a6ed06bc005ab8d98a4e34d2136b004"

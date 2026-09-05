@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/B/botania/1.6.4/Botania%20beta-16.jar"
-hash-format = "sha256"
-hash = "2e292e04e709e4495e402c770812a0f5b51669e13219d6f192d640219ab19daa"
+hash-format = "sha512"
+hash = "fae7197aace8f2e5aa1f2cf133f24bb182801ec949fd852d964ccfc7bb8df147834a56b03fab1e348ad5fe857f2474feeb32652143e48a3aec92b8a5432e9a01"

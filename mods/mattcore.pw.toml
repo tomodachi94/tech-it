@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mattparks%20core/1.6.4/mattparkscore-1.6.4-2.1.0.zip"
-hash-format = "sha256"
-hash = "ef4051251dc4281c00f13ee65adf04cac262adb04343f19bacba87e3c0721a7f"
+hash-format = "sha512"
+hash = "98892bda602bbb842470fc5db953e853b2f7f502f4a21174e07983064273583a47930d9fd2214ce0efbf934b900471e97cb3e65fabab88f1e75fa0dd13d9378f"

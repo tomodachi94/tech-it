@@ -3,8 +3,8 @@ filename = "Morph-Beta-0.7.2.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ec385696907e086610dddccb6252713b13c36ac1"
+hash-format = "sha512"
+hash = "32c91959f4d1dfb5596cbc92308379d2674af599ce6855f999441cec892e41fdfc90738d4414bdc06f1a8a289cecc35a2c6f8180ee625e4754e33128ad587401"
 mode = "metadata:curseforge"
 
 [update]
