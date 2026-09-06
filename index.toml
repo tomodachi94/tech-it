@@ -801,10 +801,6 @@ file = "config/Galacticraft/power.conf"
 hash = "9d52770620b280c3c415975ae6f94dccc3de061db2d99f56583dcfd9a3309987"
 
 [[files]]
-file = "config/GraveStoneMod/GraveStone.cfg"
-hash = "5fa271234b901c05f977dd278db4437b6af974705dbd887936fffeb9c7e862d0"
-
-[[files]]
 file = "config/GregsLighting.cfg"
 hash = "a8cb5a7cefda8feb71241c0c5f8ccb8db0f512931ea45c88b6c5558e68291314"
 
@@ -1480,11 +1476,6 @@ metafile = true
 [[files]]
 file = "mods/galacticraft.pw.toml"
 hash = "8b19a62769ddd6b46409ca17552e59aa0eb69db837972b5c022b8e2102d54f25"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod-graves.pw.toml"
-hash = "229d1ffe1c863625e85a3a16d4e6ac8bd3aa9ee887edaed1f3f834be89dd130a"
 metafile = true
 
 [[files]]
