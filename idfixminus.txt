@@ -2432,6 +2432,7 @@ items {
     S:31732=WayofTime.alchemicalWizardry.AlchemicalWizardry|BaseComponents|17083
     S:31733=WayofTime.alchemicalWizardry.AlchemicalWizardry|BloodFrame|17082
     S:31734=WayofTime.alchemicalWizardry.AlchemicalWizardry|ComplexSpellCrystal|17081
+    S:31735=mods.immibis.core.ICNonCoreMod|peripherals.rfid|16230
     S:31736=tconstruct.TConstruct|Hoe|14054
     S:31737=carpentersblocks.CarpentersBlocks|Bed|5404
     S:31738=carpentersblocks.CarpentersBlocks|Door|5403
