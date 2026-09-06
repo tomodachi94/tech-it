@@ -854,7 +854,7 @@ hash = "ae25ecece33f05706cd70ec9bd559d9a08eb1614247e9fc2585a171e814f9409"
 
 [[files]]
 file = "config/NEI.cfg"
-hash = "dff14aec4f23efefdd5e9178c77830bcc1a7023f9c48f81f153d5b92f4453595"
+hash = "a7af6c3711c01f6a8f0310848e12bd411b69d622c8bd3a618190488b29d2ac74"
 
 [[files]]
 file = "config/NEIAddons.cfg"
