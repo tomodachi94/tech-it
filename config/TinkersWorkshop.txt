@@ -35,6 +35,7 @@ block {
     I:"Crafting Slab"=3243
     I:"Crafting Station"=3233
     I:"Drying Rack"=3227
+    I:Enderporter=1480
     I:"Furnace Slab"=3192
     I:"Glass Pane"=3228
     I:"Glue Block"=3219
@@ -126,9 +127,11 @@ block {
     B:"Enable mod slime tools"=true
     B:"Enable mod stone tools"=true
     B:"Enable mod wooden tools"=true
+    B:"Harvesting Stone requires Iron or better"=false
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
     B:"Modifiers increase Mining Level"=true
+    B:"Remove Vanilla Tool Effectiveness"=false
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
 }
@@ -155,10 +158,32 @@ dimblacklist {
 
 
 ####################
+# drawbridge
+####################
+
+drawbridge {
+    # Add block or item IDs that should not be placed from the drawbridge
+    I:"Drawbridge Blacklist" <
+     >
+}
+
+
+####################
+# environment checks
+####################
+
+"environment checks" {
+    # Change env check warnings to reflect that this is a modpack.
+    B:IsModpack=false
+}
+
+
+####################
 # equipables
 ####################
 
 equipables {
+    B:Exo-Armor-Craftable=false
     I:Exo-Boots=14119
     I:Exo-Chestpiece=14117
     I:Exo-Goggles=14116
@@ -166,6 +191,16 @@ equipables {
     I:Gloves=14111
     I:"Heart Canister"=14105
     I:Knapsack=14112
+    I:"Leather Boots"=14230
+    I:"Leather Hat"=14227
+    I:"Leather Pants"=14229
+    I:"Leather Vest"=14228
+    I:"Travellers Belt"=14226
+    I:"Travellers Boots"=14224
+    I:"Travellers Gloves"=14225
+    I:"Travellers Goggles"=14221
+    I:"Travellers Vest"=14222
+    I:"Travellers Wings"=14223
     I:"Wooden Boots"=14110
     I:"Wooden Chestplate"=14108
     I:"Wooden Helmet"=14106
@@ -215,6 +250,19 @@ looks {
 
 
 ####################
+# mobs
+####################
+
+mobs {
+    # Set to 0 to disable
+    I:"Blue Slime spawn chance"=2
+
+    # Set to 0 to disable
+    I:"Metal Slime spawn chance"=1
+}
+
+
+####################
 # patterns and misc
 ####################
 
@@ -222,6 +270,7 @@ looks {
     I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Creative Modifier Item"=14120
     I:"Golden Head"=14113
     I:Jerky=14115
     I:"Jeweled Apple"=14107
@@ -268,6 +317,7 @@ looks {
 
 superfun {
     B:"All the world is Superfun"=false
+    B:Enable-TCon-Capes=true
 }
 
 
@@ -321,7 +371,7 @@ tools {
     I:Excavator=14069
     I:"Frying Pan"=14058
     I:Hammer=14070
-    I:Hoe=31739
+    I:Hoe=31736
     I:Longbow=14062
     I:Longsword=14056
     I:"Lumber Axe"=14061
@@ -380,6 +430,7 @@ worldgen {
     I:"Copper Underground Density"=2
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
+    I:"Essence Bush Density"=10
     I:"Essence Bush Rarity"=6
     I:"Gold Bush Density"=1
     I:"Gold Bush Rarity"=8
