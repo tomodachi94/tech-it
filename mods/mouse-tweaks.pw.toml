@@ -1,0 +1,13 @@
+name = "Mouse Tweaks"
+filename = "_1.6.4__Mouse_Tweaks_2.3.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27a069afee5b24691981115aba8f4bb0ac6dba6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 741576
+project-id = 60089
