@@ -1648,7 +1648,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e6e3a090f0731097522ae0f065739507b621fa831b1a1c0182daca913c092361"
+hash = "54a7f1038bb89c578266f1c7ca502ff20b7462666e83d7dd118a40caee1b18e3"
 metafile = true
 
 [[files]]

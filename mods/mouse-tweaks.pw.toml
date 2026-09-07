@@ -1,6 +1,6 @@
 name = "Mouse Tweaks"
 filename = "_1.6.4__Mouse_Tweaks_2.3.4.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
