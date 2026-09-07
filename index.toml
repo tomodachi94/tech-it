@@ -1073,6 +1073,38 @@ file = "config/forgeChunkLoading.cfg"
 hash = "cb6b871e4f6feda7ed64ba8354206ae7928f040d6c1b70cabb4e0d4b2ba53219"
 
 [[files]]
+file = "config/growthcraft/apples.conf"
+hash = "53d95ff6da06c7ff6deb5442efeca8ebc108e310274a0b9cee4905edb62892dc"
+
+[[files]]
+file = "config/growthcraft/bees.conf"
+hash = "d2817af21b8584560d222dc0f6a071ee8b820acbf67692956b42ec1b0a45cb8e"
+
+[[files]]
+file = "config/growthcraft/cellar.conf"
+hash = "8ee070be4f3daa0bfa0884f49b9e1c70a44b6fb5d27d37754223e3ccc5ff8d39"
+
+[[files]]
+file = "config/growthcraft/core.conf"
+hash = "8b069fcc8d873d7547df4b0d29f75dc62f5551f1a894929022a189e64d4b5c13"
+
+[[files]]
+file = "config/growthcraft/fishtrap.conf"
+hash = "f44c9fe539d8b2894e820822c3f3906f49b603168f2502c37d0928e4a8d10132"
+
+[[files]]
+file = "config/growthcraft/grapes.conf"
+hash = "1c8e78a72d602fa8c86862a5da68e6c7dfc10d0fa85532465b61f0ac103718d2"
+
+[[files]]
+file = "config/growthcraft/hops.conf"
+hash = "b21bad6b6651eb15cce811f801d5fffb171ea22f02a78be4487d769a6ce41b8f"
+
+[[files]]
+file = "config/growthcraft/rice.conf"
+hash = "263f71295abd5621115209bc3c3691ef4cd1e53bfdbb4e9fffadc9c6a3e295be"
+
+[[files]]
 file = "config/immibis-microblocks.cfg"
 hash = "f1d89215565ec6b52dd03bef30da3fb1ad24e1e808a166bcf74c60e24bb10a3a"
 
@@ -1286,7 +1318,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "ff06a27898236ab67f9d79e2f60f458af53d3cebf364f0279d6116c087a5ac58"
+hash = "9342b40c0e2991f92825ee04bdc38075bc39d9a11a2ecc5a69cdeb917fb03bcc"
 
 [[files]]
 file = "java.security"
@@ -1482,6 +1514,38 @@ metafile = true
 file = "mods/greg-s-lighting.pw.toml"
 hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
+
+[[files]]
+file = "mods/growthcraft-apples-1.6.4-2.0.1.zip"
+hash = "cf5577f8cf480ec5b39d015eeef1b1eafbbf91326e9c764723910dbb4aa6071c"
+
+[[files]]
+file = "mods/growthcraft-bees-1.6.4-2.0.1.zip"
+hash = "5b8a7bb4b281fc8b827c40c2a600712f2851060bcefd0a57cb80604b39042c23"
+
+[[files]]
+file = "mods/growthcraft-cellar-1.6.4-2.0.1.zip"
+hash = "a3c1d8e1a23bb8507f64178ee4d2fd9cf8d6743ac51a076a7731a77d51535c7b"
+
+[[files]]
+file = "mods/growthcraft-core-1.6.4-2.0.1.zip"
+hash = "ad9ddb50044bdf70ec7508fc0227103de09155c80cb85d706b7812db882f93a4"
+
+[[files]]
+file = "mods/growthcraft-fishtrap-1.6.4-2.0.1.zip"
+hash = "d2943749b9c64fa9bab05519bdf44b3d4792f370f9f5f645bf19d4ad7f885952"
+
+[[files]]
+file = "mods/growthcraft-grapes-1.6.4-2.0.1.zip"
+hash = "863e67438d2a51d88f00d4ddfe4774a172a2e4225881bdd3374214a3dca6c07a"
+
+[[files]]
+file = "mods/growthcraft-hops-1.6.4-2.0.1.zip"
+hash = "e94502d473c45a06d0188803efc3c47837b0c2e3b269f99805dab01844d06ed1"
+
+[[files]]
+file = "mods/growthcraft-rice-1.6.4-2.0.1.zip"
+hash = "07a703ca3a83e6ec428f181d3860ef86adfcfe31c74f00592fadbad76a2546c8"
 
 [[files]]
 file = "mods/hats.pw.toml"
