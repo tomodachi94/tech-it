@@ -825,6 +825,10 @@ file = "config/IronChest.cfg"
 hash = "0eec622310834959d0e061d0975889e513139e22a95424ac3fef96ae43d91c6e"
 
 [[files]]
+file = "config/JABBA.cfg"
+hash = "d7bba7a9b521ff4ffda4f77e11cecb0aaa1ff0794f1c07ec5a5724aa85285c2f"
+
+[[files]]
 file = "config/JAKJ_RedstoneInMotion.cfg"
 hash = "6966d022842db43753b3db315297d674d5293e54b27e63dbba222536ddb960c4"
 
@@ -1286,7 +1290,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "ff06a27898236ab67f9d79e2f60f458af53d3cebf364f0279d6116c087a5ac58"
+hash = "9342b40c0e2991f92825ee04bdc38075bc39d9a11a2ecc5a69cdeb917fb03bcc"
 
 [[files]]
 file = "java.security"
@@ -1521,6 +1525,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "0de74250a2a446a181bde2266d4944990bccddbaf72d9973f1eab961aa3feea6"
+metafile = true
+
+[[files]]
+file = "mods/jabba.pw.toml"
+hash = "8388ee2d5752d727e1ebf567d7cff3d5436dba9ceb423e41feba33e8a87d79d6"
 metafile = true
 
 [[files]]

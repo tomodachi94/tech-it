@@ -669,6 +669,9 @@ blocks {
     S:3402=assets.pamharvestcraft.PamHarvestCraft|pamorangesaplingID|3972
     S:3403=com.mrcrayfish.furniture.MrCrayfishFurnitureMod|BlockCouchBlack|518
     S:3414=mods.immibis.core.ICNonCoreMod|peripherals.block.id|3414
+    S:3500=mcp.mobius.betterbarrels.BetterBarrels|BetterBarrel|3500
+    S:3501=mcp.mobius.betterbarrels.BetterBarrels|MiniBarrel|3501
+    S:3502=mcp.mobius.betterbarrels.BetterBarrels|BarrelShelf|3502
     S:3751=pzyber.extraperipherals.ExtraPeriepherals|BundledConnector|3751
     S:3753=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitID|3753
     S:3754=assets.pamharvestcraft.PamHarvestCraft|pamdragonfruitsaplingID|3754
@@ -908,6 +911,14 @@ enchantments {
 ####################
 
 items {
+    S:03501=mcp.mobius.betterbarrels.BetterBarrels|UpgradeCapacity|3501
+    S:03502=mcp.mobius.betterbarrels.BetterBarrels|Sticker|3502
+    S:03503=mcp.mobius.betterbarrels.BetterBarrels|Mover|3503
+    S:03504=mcp.mobius.betterbarrels.BetterBarrels|TuningFork|3504
+    S:03506=mcp.mobius.betterbarrels.BetterBarrels|LockingPlanks|3506
+    S:03507=mcp.mobius.betterbarrels.BetterBarrels|UpgradeCore|3507
+    S:03508=mcp.mobius.betterbarrels.BetterBarrels|Hammer|3508
+    S:03509=mcp.mobius.betterbarrels.BetterBarrels|DiamondMover|3509
     S:03970=calclavia.components.CalclaviaLoader|oreCopper|3970
     S:03971=calclavia.components.CalclaviaLoader|oreTin|3971
     S:04003=dan200.computercraft.ComputerCraft|treasureDiskItemID|31705
@@ -2442,6 +2453,5 @@ items {
     S:31742=atomicscience.AtomicScience|antimatter|20158
     S:31743=atomicscience.AtomicScience|darkMatter|13776
 }
-
 
 
