@@ -902,7 +902,7 @@ hash = "44a85d5a415b723022a78f6aae75a533612b17499ad3c93a8f6e24fdcaaafe3d"
 
 [[files]]
 file = "config/SpiceOfLife.cfg"
-hash = "38531cc61706207283f625789ecf5ba379729df229f4aa531b0b18e3174d1741"
+hash = "38a526ba1248cbf6705d9b52b24c1485c74394478a82b1bde5f2b63998ab80e2"
 
 [[files]]
 file = "config/SpiceOfLife/example-food-group.json"
@@ -1822,6 +1822,10 @@ metafile = true
 [[files]]
 file = "scripts/betterdungeons.zs"
 hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
+
+[[files]]
+file = "scripts/marble.zs"
+hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
 [[files]]
 file = "scripts/mystcraft.zs"
