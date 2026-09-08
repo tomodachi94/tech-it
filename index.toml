@@ -1816,3 +1816,7 @@ hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
 [[files]]
 file = "scripts/mystcraft.zs"
 hash = "1ea6c55c0af20d7019e596bc8a284c4b287b33632aced5a7c4e4dd519c4f4005"
+
+[[files]]
+file = "scripts/wooden_slab_fix.zs"
+hash = "6b8eaaf652c90cdf9e1beb343d1baff4f872a517d75c6e7e980b735b80286c4f"
