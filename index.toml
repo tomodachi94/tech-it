@@ -1583,6 +1583,11 @@ hash = "9347aa191a4bbb974fa5adfe14d2d3a74a584e5aeb3fad4d27ecee407dadf82c"
 metafile = true
 
 [[files]]
+file = "mods/more-gui-scales.pw.toml"
+hash = "f4f665dfdea035b8d253012c379b37c184c1d1d5ec836555088e6d966375cc9c"
+metafile = true
+
+[[files]]
 file = "mods/morph.pw.toml"
 hash = "d647f19e23d12fa26f18b2fe657969782531f6d322671555ef6ecab663c0c30a"
 metafile = true
