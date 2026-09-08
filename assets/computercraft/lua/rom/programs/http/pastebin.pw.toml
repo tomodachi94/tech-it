@@ -1,0 +1,8 @@
+name = "pastebin"
+filename = "pastebin"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/tomodachi94/computercraft-pastebin-patch/c79a7fdefea6796efcc6dbf67cfe4236a57e3a50/assets/computercraft/lua/rom/programs/http/pastebin"
+hash-format = "sha256"
+hash = "da7eeb51a7b8da69cf9c75ad80a7033e98f86f9b9a878aa0b875e6e2d40bd551"

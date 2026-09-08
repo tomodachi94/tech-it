@@ -685,6 +685,11 @@ file = "Chocolate/sounds/wind.ogg"
 hash = "54453bf4e210dd1cc7ce110cafd2d7cfcd70aaf27b8861c5bba3e71a7b4f67bd"
 
 [[files]]
+file = "assets/computercraft/lua/rom/programs/http/pastebin.pw.toml"
+hash = "319bc90fa9e92b1c0bd9afd15d46368cdfa5ebf08690ef5155baa3ab12ca0539"
+metafile = true
+
+[[files]]
 file = "config/APUnofficial.cfg"
 hash = "137c2d77a2878399d8c377631826bef46b4807a08137befb171b2c517421ea7b"
 
