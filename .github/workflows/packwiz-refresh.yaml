@@ -1,0 +1,29 @@
+name: Refresh Packwiz
+
+on:
+  push:
+  pull_request_target:
+  workflow_dispatch:
+
+jobs:
+  packwiz_refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+      
+      - uses: cachix/install-nix-action@v31
+
+      - name: Sanity check to make sure there are no changes before refreshing
+        run: git diff --exit-code
+
+      - name: Refresh index
+        run: nix develop .# --command packwiz refresh
+
+      - name: Commit updated index
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Refresh Packwiz index
