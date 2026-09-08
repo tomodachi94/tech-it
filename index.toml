@@ -1800,6 +1800,11 @@ hash = "9bc8a7f8a27442d41d0c23c198b5f9da8be4d7cf70eb03406168ffe4e3e3f0f3"
 metafile = true
 
 [[files]]
+file = "nilmods/redirectionor-retro.pw.toml"
+hash = "4a49f48af3a12ccf9984368353fc6a93e7e421ff928be21172d2fd6272cc2912"
+metafile = true
+
+[[files]]
 file = "resourcepacks/computercraft-pastebin-patch.pw.toml"
 hash = "e91b79418907907c697a0c556acb165df13214755f626e443491bada302a1c00"
 metafile = true
