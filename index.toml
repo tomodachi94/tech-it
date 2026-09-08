@@ -1435,6 +1435,11 @@ hash = "fda460c42977b8298cbc9716c1ff03a03babc45797b769332242187819d36dda"
 metafile = true
 
 [[files]]
+file = "mods/dpi-fix.pw.toml"
+hash = "4bc4cfc86b8086ed903cdde62b66aee0252042e43d111286e23eed8f13b6160e"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "0f4a5c5ee3ac6560847fcdbcf1db940536e0492e762f24203515811d5d8210bb"
 metafile = true

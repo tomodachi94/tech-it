@@ -1,0 +1,13 @@
+name = "DPI-Fix"
+filename = "DPI-Fix-1.6.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "51697fcf2f6a18229fa3487dba98f9d8e972c65e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6891787
+project-id = 1029293
