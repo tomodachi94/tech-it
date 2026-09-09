@@ -1829,6 +1829,10 @@ file = "scripts/betterdungeons.zs"
 hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
 
 [[files]]
+file = "scripts/creative_builder_wand.zs"
+hash = "70f1ef31f6f6a590519ae12f2e6cb145933b8df61c5cc263735bdda99abd664a"
+
+[[files]]
 file = "scripts/marble.zs"
 hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
