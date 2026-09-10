@@ -1,0 +1,31 @@
+name: Report a problem
+description: "Something isn't working as expected!"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug!
+        Please submit this form once per issue, unless they are closely related.
+  - type: textarea
+    id: short-desc
+    attributes:
+      label: Succinctly describe what went wrong in a few sentences.
+      placeholder: "X doesn't work, Y crashes the game"
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Provide a step-by-step explanation of how to reproduce the issue.
+      placeholder: |
+        1. Obtain X
+        2. Open Y
+        3. Game crashes
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Attach logs and screenshots here, if applicable.
+      placeholder: https://mclo.gs/, ...
