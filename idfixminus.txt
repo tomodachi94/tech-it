@@ -1077,6 +1077,7 @@ items {
     S:06850=squeek.spiceoflife.ModSpiceOfLife|bookfoodjournal|6850
     S:06851=squeek.spiceoflife.ModSpiceOfLife|lunchbox|6851
     S:06852=squeek.spiceoflife.ModSpiceOfLife|lunchbag|6852
+    S:06862=thermalexpansion.ThermalExpansion|LogisticsPipeControllerItem.id|6862
     S:07811=info.jbcs.minecraft.chisel.Chisel|chisel|7811
     S:07812=info.jbcs.minecraft.chisel.Chisel|iceshard|7812
     S:07813=info.jbcs.minecraft.chisel.Chisel|cloudInABottle|7813

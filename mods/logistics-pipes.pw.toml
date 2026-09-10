@@ -1,0 +1,8 @@
+name = "Logistics Pipes"
+filename = "LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/L/logistics%20pipes/1.6.4/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar"
+hash-format = "sha256"
+hash = "0aaed0768b9574ca76a0b349e1f209318032c5ae37fce02c2cc4862832c9b70e"
