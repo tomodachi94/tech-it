@@ -843,7 +843,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/LogisticsPipes.cfg"
-hash = "f33878e65b324448a3daa3e18852873d893423d8ab2b0b886b656ab9c3529133"
+hash = "341a10144ff99acc185d32aa1885a556ad3bfa557f36894edcc00f13698359e5"
 
 [[files]]
 file = "config/MattparksCore.conf"
@@ -1295,7 +1295,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "7af46daf642db46769454edb3e4f4a6a31f4a53639b09242faad5a2fc62903a3"
+hash = "f35891138587509d4bef6a0a1640d986cba7d7325cc06737a6cce70c8b514bd1"
 
 [[files]]
 file = "java.security"
@@ -1553,8 +1553,9 @@ hash = "caaa38149b453db4e194c99ba64b309c5ee37fea35f5528e632ef289ba1f8ff9"
 metafile = true
 
 [[files]]
-file = "mods/logisticspipes-mc1.6.4-0.7.4.dev.205.jar"
-hash = "a798e3fc878a0f7ae4c80f96c97634d080fac19c1fc79d6471faa8df3908625b"
+file = "mods/logistics-pipes.pw.toml"
+hash = "9ef1a4ff2e3fb8d614623dbcc092c3b889337ccd51181c82510581527e404e8d"
+metafile = true
 
 [[files]]
 file = "mods/lumy-skin-patch.pw.toml"
