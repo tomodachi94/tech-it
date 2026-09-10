@@ -698,10 +698,6 @@ file = "config/AWWayofTime.cfg"
 hash = "74b67790b9b62d36ea018ab068ebe9667b64992e372d3f9029d2f285d8ae5d27"
 
 [[files]]
-file = "config/AnObsidianPlate.cfg"
-hash = "6d15b07741e2e3f3aa26f17acdc24a742bb08db9f623cc7e9b7a51854ba5a7bc"
-
-[[files]]
 file = "config/AppliedEnergistics.cfg"
 hash = "cdf1ad36ddbd79549a45e316b99dd8beed30fd3db14b9a77b286e89b09e008f0"
 
