@@ -1,6 +1,6 @@
 name: New suggestion
-description: Suggest new additions to the modpack!
-labels: ["enhancement"]
+description: Suggest mod additions here!
+labels: ["enhancement", "mod suggestion"]
 body:
   - type: markdown
     attributes:
