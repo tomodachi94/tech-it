@@ -1031,7 +1031,7 @@ hash = "59927fd0a20b3a88888fd5d23515662d7ad49538da74044b802d1559025d59c0"
 
 [[files]]
 file = "config/cofh/ThermalExpansion.cfg"
-hash = "78d717220216c684eaa98be73f3ea43837c359db6edffb9da6ef28dc7ae6f323"
+hash = "f154fd215b8ceefc29d41a3c052cad3bcfc059a4748e0bf3c06f8b16e375b746"
 
 [[files]]
 file = "config/cofh/WorldCustomGen.txt"
@@ -1769,7 +1769,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "08e77742fd321cde2e1744a82fbf5067cfba036d3683fbcae579e2fb7fcdbddd"
+hash = "1ab85344c915f9c51b7904f688f49c7f17115bbb0972f10dc8c855a109aef266"
 metafile = true
 
 [[files]]
