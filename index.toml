@@ -1843,6 +1843,10 @@ file = "scripts/marble.zs"
 hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
 [[files]]
+file = "scripts/melt_down_junk.zs"
+hash = "8a9bbaf7f8633a6a8c2e1426ec1222b0ac75e0897d80cd1991ccd98603afeabf"
+
+[[files]]
 file = "scripts/mystcraft.zs"
 hash = "1ea6c55c0af20d7019e596bc8a284c4b287b33632aced5a7c4e4dd519c4f4005"
 
