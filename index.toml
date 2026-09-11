@@ -1312,6 +1312,10 @@ file = "mods/BetterDungeons2091.zip"
 hash = "268bedf30fc73d6cffb808f416117e373425be4099fa85952fb67e85f881a76c"
 
 [[files]]
+file = "mods/ComputerCraft1.63+tomo1.jar"
+hash = "8493390ea9ac4af21d1e834b43b655a05c1b084cd6547eb9576b304fd10a10c6"
+
+[[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
 hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
@@ -1422,11 +1426,6 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "7f7daf63e02467d63a0b70c82465e57538032d6269ca96a8b606aacd91ca0f30"
-metafile = true
-
-[[files]]
-file = "mods/computercraft.pw.toml"
-hash = "95f28b11282c09950d4ad814eb2875b1e3d830c2764becfc11b13c0ed2bc8f72"
 metafile = true
 
 [[files]]
