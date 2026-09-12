@@ -1,0 +1,13 @@
+name = "Entity Culling backport"
+filename = "EntityCulling.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F4YMP1hU/versions/A1zhoet8/EntityCulling.jar"
+hash-format = "sha512"
+hash = "aa657e4042cd5a6398403244949bfae4a54cf6f182addaf10dcd14b340d23c120b3d85886767813c4ae4cac819d0db9ba5a7d56e6c08e63160492a0dbea3f722"
+
+[update]
+[update.modrinth]
+mod-id = "F4YMP1hU"
+version = "A1zhoet8"

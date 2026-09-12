@@ -1449,6 +1449,11 @@ hash = "0f4a5c5ee3ac6560847fcdbcf1db940536e0492e762f24203515811d5d8210bb"
 metafile = true
 
 [[files]]
+file = "mods/entity-culling-backport.pw.toml"
+hash = "83f9a067fbed01bda5efc95571a00b34293a88e796bcf8674399861cb4fd7363"
+metafile = true
+
+[[files]]
 file = "mods/equivalent-exchange-3.pw.toml"
 hash = "2f20cb620f5eaba2a5a1bdb00404ec1fe066ef16da8265de296a3719117f8158"
 metafile = true
