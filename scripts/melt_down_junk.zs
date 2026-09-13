@@ -1,6 +1,6 @@
 val ironDagger = <8293>;
 val ironSpear = <8295>;
-val ironSpear = <8297>;
+val ironBigsword = <8297>;
 val goldenFeather = <8261>;
 
 furnace.addRecipe(<item.ingotIron>, ironDagger);
