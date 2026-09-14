@@ -2,6 +2,11 @@ name = "Mouse Tweaks"
 filename = "_1.6.4__Mouse_Tweaks_2.3.4.zip"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Adds various quality-of-life tweaks to the mouse; allows you to drag items across many inventory cells, among other things."
+
 [download]
 hash-format = "sha1"
 hash = "27a069afee5b24691981115aba8f4bb0ac6dba6b"

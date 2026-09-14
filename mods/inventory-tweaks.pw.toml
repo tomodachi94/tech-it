@@ -2,6 +2,11 @@ name = "Inventory Tweaks"
 filename = "InventoryTweaks-MC1.6.2-1.56-b77.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Adds various keybinds to improve inventory management"
+
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/inventory%20tweaks/1.6.2/InventoryTweaks-MC1.6.2-1.56-b77.jar"
 hash-format = "sha512"

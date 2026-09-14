@@ -2,6 +2,11 @@ name = "Idfix Minus"
 filename = "idfixminus-1.6.4-1.0.0.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Handles ID conflicts mostly-automatically; keep this enabled unless you know what you're doing!"
+
 [download]
 url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/I/idfix%20minus/1.6.4/idfixminus-1.6.4-1.0.0.jar"
 hash-format = "sha512"

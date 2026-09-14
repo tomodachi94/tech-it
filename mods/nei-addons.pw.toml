@@ -2,6 +2,11 @@ name = "NEI Addons"
 filename = "neiaddons-mc164-1.10.5.70.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Tweaks a couple of mods to be compatible with Not Enough Items"
+
 [download]
 hash-format = "sha512"
 hash = "e6dfc737bc2227e49e846d5cdce4b79633160dc984db76212783bdde812467b51514413239383e6a46cd340dd969a76ab1315daeb89959cf7843821b11dd2dcc"

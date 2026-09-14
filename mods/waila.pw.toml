@@ -2,6 +2,11 @@ name = "Waila"
 filename = "Waila_1.5.2a.zip"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Allows you to know the name and mod of items you are currently looking at. If you're disabling this, make sure to also turn off Waila Harvestability."
+
 [download]
 hash-format = "sha512"
 hash = "5227cc027835a5340f7a0744ae3ea8de898289afe5573fb874383cc9d2a6ebd389ed944bd4dd05b512f4687d76e844adbc6eed43d1359fa4d3dd9df63a26d307"
