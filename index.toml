@@ -855,7 +855,7 @@ hash = "a25132311d4e252a9c20dc2b9f27230d3ce7350c354a7b0b3204f2f19aa565cb"
 
 [[files]]
 file = "config/Morph.cfg"
-hash = "ae25ecece33f05706cd70ec9bd559d9a08eb1614247e9fc2585a171e814f9409"
+hash = "8ad4fce576508733a58adc1ec00bb9cf0662d011db7cacda4e849f2d8b12c3e6"
 
 [[files]]
 file = "config/NEI.cfg"
@@ -1842,6 +1842,10 @@ metafile = true
 [[files]]
 file = "scripts/betterdungeons.zs"
 hash = "22280f91bac86623973491bbd1bb026b0fe192db19d2722a604f0ae8647a4994"
+
+[[files]]
+file = "scripts/crayfish_oredict.zs"
+hash = "c4dab1679253f2d93bb0b985aec091a05a31bdaa916582f7016fa068a0aa4635"
 
 [[files]]
 file = "scripts/creative_builder_wand.zs"
