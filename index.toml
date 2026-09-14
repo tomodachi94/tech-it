@@ -1663,6 +1663,11 @@ hash = "601aecb418e379dd6db185b422164e5adf8c75a1bcec9e3a89a5070f7aff0263"
 metafile = true
 
 [[files]]
+file = "mods/optifine.pw.toml"
+hash = "1228a357079afcc408faba72f1d1af259673ac0aa8a9ca1fb8f2a32f5d469d1e"
+metafile = true
+
+[[files]]
 file = "mods/pam-s-harvestcraft.pw.toml"
 hash = "7e6ff43c068317c59d3e810a55dd2a4c32c051fe0137b92621cd132557a88778"
 metafile = true

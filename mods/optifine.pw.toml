@@ -1,0 +1,13 @@
+name = "OptiFine"
+filename = "downloadx"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Optimization mod. May cause issues with mods; if you're seeing visual glitches, try disabling it."
+
+[download]
+url = "https://optifine.net/downloadx?f=OptiFine_1.6.4_L_C9.jar&x=5e1ef32201466303f4bd7bbe2b9abc4a"
+hash-format = "sha256"
+hash = "fb751d843931e3cd71c428e6999710b2b7cfa510395aa2099c3922d8b2e8d7ad"
