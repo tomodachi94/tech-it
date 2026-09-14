@@ -1742,6 +1742,11 @@ hash = "c1ad1299583656ed53300d691b8203948518997ba31e92b15a4b70e2b6e84cc8"
 metafile = true
 
 [[files]]
+file = "mods/schematica.pw.toml"
+hash = "dbc35f875ba7db96354ea0474e39f9d8750f6d40a6681e5523e345f666e9c965"
+metafile = true
+
+[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "fe61b805260ecc028ab3f68934a216b243b8d7107eacfb0f6b867ff6733f9c34"
 metafile = true

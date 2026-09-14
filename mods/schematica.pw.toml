@@ -1,0 +1,13 @@
+name = "Schematica"
+filename = "Schematica-1.6.4-1.5.3.64-client.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "Allows you to view and create schematics for builds and contraptions."
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/S/schematica/1.6.4/Schematica-1.6.4-1.5.3.64-client.jar"
+hash-format = "sha256"
+hash = "777e8f7c58b1ac2bd409baa1d0e3453c33d238b03d4225508756334c81cb7dff"
