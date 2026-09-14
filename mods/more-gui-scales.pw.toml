@@ -2,6 +2,11 @@ name = "More GUI Scales"
 filename = "MoreGuiScales-1.6.4-1.1.0-srg.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Adds more GUI scaling options"
+
 [download]
 hash-format = "sha1"
 hash = "1bb2488683f084fc8a42afe2ead8ef2a0b48c4b3"
