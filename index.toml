@@ -1440,7 +1440,7 @@ metafile = true
 
 [[files]]
 file = "mods/dpi-fix.pw.toml"
-hash = "4bc4cfc86b8086ed903cdde62b66aee0252042e43d111286e23eed8f13b6160e"
+hash = "5243bb796349b39d64eb8881eb83e0709f73da35b03734ccc0cd666320959556"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-gui-scales.pw.toml"
-hash = "f4f665dfdea035b8d253012c379b37c184c1d1d5ec836555088e6d966375cc9c"
+hash = "e39a70a48e6328ce8442be18d70ed5f1864665dc3ff2031ad9a05bfc71b43bc5"
 metafile = true
 
 [[files]]
