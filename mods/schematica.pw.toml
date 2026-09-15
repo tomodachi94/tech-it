@@ -1,6 +1,6 @@
 name = "Schematica"
 filename = "Schematica-1.6.4-1.5.3.64-client.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true
