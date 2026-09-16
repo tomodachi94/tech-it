@@ -1864,5 +1864,9 @@ file = "scripts/mystcraft.zs"
 hash = "1ea6c55c0af20d7019e596bc8a284c4b287b33632aced5a7c4e4dd519c4f4005"
 
 [[files]]
+file = "scripts/openperipherals_oredict.zs"
+hash = "83661a4657d75c6d6957b3e783c732d92be6ab3b6cdccbd1d8a984152fcc2e59"
+
+[[files]]
 file = "scripts/wooden_slab_fix.zs"
 hash = "6b8eaaf652c90cdf9e1beb343d1baff4f872a517d75c6e7e980b735b80286c4f"
