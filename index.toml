@@ -711,7 +711,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/Backpack.cfg"
-hash = "d5358259e5e5c713fc0a737b61a239ad85c9fffd581d7f89c74e8c8aae97371a"
+hash = "f8a9740cc3e1ff675b6a6db5f8a5f8a9772584fd59eab574990ea4f8896d95ec"
 
 [[files]]
 file = "config/BasicComponents.cfg"
