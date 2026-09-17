@@ -13,12 +13,13 @@ recipes.addShaped(inkmixer, [
 
 val netherStar = <item.netherStar>;
 val unstableIngot = <ore:ingotUnstable>;
-val enhancedGalgBlock = <893:2>;
+val mBlock = <ore:blockManyullyn>;
+val enderCore = <ore:endercore>;
 
 recipes.remove(bookbinder);
 recipes.addShaped(bookbinder, [
   [diamondBlock, unstableIngot, diamondBlock],
-  [enhancedGalgBlock, netherStar, enhancedGalgBlock],
-  [enhancedGalgBlock, null, enhancedGalgBlock]
+  [mBlock, netherStar, mBlock],
+  [enderCore, null, enderCore]
 ]);
 

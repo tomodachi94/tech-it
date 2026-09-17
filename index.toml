@@ -1861,7 +1861,7 @@ hash = "bbedb4fd36d2d73fb60dfabf30d548948f506c9b4ed89fd3287950c6dfcfdf9c"
 
 [[files]]
 file = "scripts/mystcraft.zs"
-hash = "1ea6c55c0af20d7019e596bc8a284c4b287b33632aced5a7c4e4dd519c4f4005"
+hash = "cc87a96ba698aa73d1f0d40dbca090c12c624753b9da7fa2230e833507bfb493"
 
 [[files]]
 file = "scripts/openperipherals_oredict.zs"
