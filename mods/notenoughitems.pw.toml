@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
-description = "Makes recipes discoverable; make sure to also turn off NEI Addons if disabling!"
+description = "Makes recipes discoverable; make sure to also turn off the various NEI extensions if disabling!"
 
 [download]
 hash-format = "sha512"

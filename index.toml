@@ -871,7 +871,7 @@ hash = "50f04650c2532493a78bc7e8938653b7ed3225b80c33a428978c870f77a3ebcd"
 
 [[files]]
 file = "config/NEI.cfg"
-hash = "a7af6c3711c01f6a8f0310848e12bd411b69d622c8bd3a618190488b29d2ac74"
+hash = "84e012a6729e2cddce42d91752cea84544b39153a1ff369395fca82c6236f9f4"
 
 [[files]]
 file = "config/NEIAddons.cfg"
@@ -1640,13 +1640,18 @@ hash = "1d8a2799e62807ca7e9d67db9084257a57b0ee3fbec1c57fde581c61337e0317"
 metafile = true
 
 [[files]]
+file = "mods/nei-plugins.pw.toml"
+hash = "391c2ecc8f2d608de59223909f69db5a62862fff034257e019ce21c3ce4675a6"
+metafile = true
+
+[[files]]
 file = "mods/netherores.pw.toml"
 hash = "b814f25ec20bebcbecc88b06cbc0114135987ea011e59da852263b99a60c2a5f"
 metafile = true
 
 [[files]]
 file = "mods/notenoughitems.pw.toml"
-hash = "29747da19336bbd49d1746cfad3216e114d8e4e191fc4527856f414f77076366"
+hash = "d6b090848f51f19e35a24f3c2ec6c23fcf6b9af5a20b5b305d9f04ec241cdf2a"
 metafile = true
 
 [[files]]
