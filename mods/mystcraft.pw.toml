@@ -1,8 +1,13 @@
 name = "Mystcraft"
-filename = "mystcraft-uni-1.6.4-0.10.12.01.zip"
+filename = "mystcraft-uni-1.6.4-0.10.13.01.zip"
 side = "both"
 
 [download]
-url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mystcraft/1.6.4/mystcraft-uni-1.6.4-0.10.12.01.zip"
-hash-format = "sha512"
-hash = "d54ea2fa577c476b9169385cb556b4d3c023cba8ca963c7164dbd24f758925417b72569050f7c2bedaf148d5690a4f9dff14fa72a2f9ef74eab2902316b5d88b"
+hash-format = "sha1"
+hash = "980eabf47487be924a2b9f0942e5e6ecb4f57e9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2216722
+project-id = 224599
