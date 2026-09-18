@@ -1,0 +1,13 @@
+name = "SpACore"
+filename = "HeldCore-1.6.4-01.03.06.00.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b1f3d2fed64fa69e34373f742005329309c18ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2231523
+project-id = 228922

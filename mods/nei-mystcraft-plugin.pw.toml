@@ -1,0 +1,18 @@
+name = "NEI Mystcraft Plugin"
+filename = "MystNEI-Plugin-1.6.4-01.05.01.00.jar"
+side = "both"
+
+[option]
+optional = true
+default = true
+description = "Adds some Mystcraft recipes to NEI"
+
+[download]
+hash-format = "sha1"
+hash = "2902e5a98a2ea96073e7d79baaa48492adf33458"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2231555
+project-id = 228923

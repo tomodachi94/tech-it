@@ -810,6 +810,14 @@ file = "config/Hats.cfg"
 hash = "503b3584f0cbcaeb6ab06cae4c9821a4c4345ff3fcc2f075f18066114072baef"
 
 [[files]]
+file = "config/HeldCore.cfg"
+hash = "b91b018befcc2ff21ffe2c3f55f77376efde5d654eff4f36b48e868446182736"
+
+[[files]]
+file = "config/HeldCore/NEI-Mystcraft-Plugin.version"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/InvTweaks.cfg"
 hash = "4a8cfb45de159e549c77ea087970c5ae8521a6e1928a9b66e09b9dc9ca21ef81"
 
@@ -856,6 +864,10 @@ hash = "a25132311d4e252a9c20dc2b9f27230d3ce7350c354a7b0b3204f2f19aa565cb"
 [[files]]
 file = "config/Morph.cfg"
 hash = "8ad4fce576508733a58adc1ec00bb9cf0662d011db7cacda4e849f2d8b12c3e6"
+
+[[files]]
+file = "config/NEI-Mystcraft-Plugin.cfg"
+hash = "50f04650c2532493a78bc7e8938653b7ed3225b80c33a428978c870f77a3ebcd"
 
 [[files]]
 file = "config/NEI.cfg"
@@ -1623,6 +1635,11 @@ hash = "d38cbcf8d089f4507335c74b196e1bce818f49b3c3702e37f0ee508ddf970287"
 metafile = true
 
 [[files]]
+file = "mods/nei-mystcraft-plugin.pw.toml"
+hash = "1d8a2799e62807ca7e9d67db9084257a57b0ee3fbec1c57fde581c61337e0317"
+metafile = true
+
+[[files]]
 file = "mods/netherores.pw.toml"
 hash = "b814f25ec20bebcbecc88b06cbc0114135987ea011e59da852263b99a60c2a5f"
 metafile = true
@@ -1759,6 +1776,11 @@ metafile = true
 [[files]]
 file = "mods/simply-jetpacks.pw.toml"
 hash = "dac1a1c8eb54df41c1051d4745da43b360285eef2c04406b7c18e266cc8f4b9f"
+metafile = true
+
+[[files]]
+file = "mods/spacore.pw.toml"
+hash = "5f92e1696097b0f042f55636e884496ecb2d128a561b7bb4fcf3d4d99b168a42"
 metafile = true
 
 [[files]]
