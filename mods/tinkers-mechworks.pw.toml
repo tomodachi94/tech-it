@@ -1,0 +1,13 @@
+name = "Tinkers' Mechworks"
+filename = "TMechworks_mc1.6.4_0.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a94ad282a2b05d6b3f6eeaa8348723b322027efe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 784610
+project-id = 78057

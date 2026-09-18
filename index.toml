@@ -934,6 +934,10 @@ file = "config/TConPreloader.cfg"
 hash = "08f3831a4ad133c50a7774f04e791a60e1c56e49aa0a6c25208d03c22a708e22"
 
 [[files]]
+file = "config/TMechworks.cfg"
+hash = "9c2ef432058772265fa7e1f8370a42ccad81c49a89d9ba9331c726c9272120e5"
+
+[[files]]
 file = "config/TinkersWorkshop.txt"
 hash = "3a83620c4d2c506546db59e86b8a515b816959e494f6cd4e060b87673a94dfc3"
 
@@ -1143,7 +1147,7 @@ hash = "45dcb168688a6f32fb1d5508303fa717c8a2d8207d80185b97ca273d05b64578"
 
 [[files]]
 file = "config/mystcraft/core.cfg"
-hash = "92879f2ddf7aa2e9bf44c0a525a1e6000834c32988cbc8c939a33512e75b6caf"
+hash = "2557859e07fc662d752a5efc5728db6a3233f3fe5ffc9d90ec3271145f4c2988"
 
 [[files]]
 file = "config/mystcraft/instabilities.cfg"
@@ -1151,7 +1155,7 @@ hash = "d171edac43a40d679719203a2bdf12cb75697e223d0c644d488f6b282e851a66"
 
 [[files]]
 file = "config/mystcraft/symbols.cfg"
-hash = "d316bae54d7b872f9a5d8b18d0c48ce8360c66357b4d4e5b7eb82015166f77bc"
+hash = "bed3e88d0c36aa8d9b202ef5772779366b1854086700f6bddb14bfd6c9006220"
 
 [[files]]
 file = "config/omniwand.json"
@@ -1303,7 +1307,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "f35891138587509d4bef6a0a1640d986cba7d7325cc06737a6cce70c8b514bd1"
+hash = "243005cd084051419915cdfe1127415da0d9fe10576c647be41297d18a4c2040"
 
 [[files]]
 file = "java.security"
@@ -1811,6 +1815,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "6537584310a4fcc5d6c425a30c740a2fbfc5e3c1078049450c577ae4bb603e6e"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-mechworks.pw.toml"
+hash = "ac904ef99d5ea477767a2299ab0ca43ce55b7cf045d03829df4bc7d72b093231"
 metafile = true
 
 [[files]]

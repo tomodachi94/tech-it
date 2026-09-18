@@ -626,6 +626,7 @@ blocks {
     S:3223=tconstruct.TConstruct|Clear Glass|3223
     S:3224=tconstruct.TConstruct|Stained Glass|3224
     S:3225=tconstruct.TConstruct|Clear Stained Glass|3225
+    S:3226=tmechworks.TMechworks|Redstone|3226
     S:3227=tconstruct.TConstruct|Drying Rack|3227
     S:3228=tconstruct.TConstruct|Glass Pane|3228
     S:3229=tconstruct.TConstruct|Clear Stained Glass Pane|3229
@@ -710,11 +711,15 @@ blocks {
     S:3930=assets.pamharvestcraft.PamHarvestCraft|pamraspberrywildID|3930
     S:3933=assets.pamharvestcraft.PamHarvestCraft|pamcranberrywildID|3933
     S:3936=assets.pamharvestcraft.PamHarvestCraft|pamkiwiwildID|3936
+    S:3938=tmechworks.TMechworks|SignalTerminal|3001
     S:3939=assets.pamharvestcraft.PamHarvestCraft|pamsunflowerwildID|3939
+    S:3940=tmechworks.TMechworks|SignalBus|3000
+    S:3941=tmechworks.TMechworks|FilterMesh|3003
     S:3942=assets.pamharvestcraft.PamHarvestCraft|pamspiceleafwildID|3942
     S:3943=assets.pamharvestcraft.PamHarvestCraft|sinkID|3943
     S:3944=assets.pamharvestcraft.PamHarvestCraft|pamwalnutID|3944
     S:3945=assets.pamharvestcraft.PamHarvestCraft|pamwalnutsaplingID|3945
+    S:3946=tmechworks.TMechworks|Dynamo|3002
     S:3947=assets.pamharvestcraft.PamHarvestCraft|pampearID|3947
     S:3948=assets.pamharvestcraft.PamHarvestCraft|pampearsaplingID|3948
     S:3949=mattparks.mods.space.core.SpaceCore|idBlockVenusRedGemBlock|765
@@ -1378,6 +1383,8 @@ items {
     S:11582=weaponmod.BalkonsWeaponMod|katana.gold|11582
     S:11583=weaponmod.BalkonsWeaponMod|flintlock|11583
     S:11987=powercrystals.minefactoryreloaded.MineFactoryReloadedCore|BaseID|11987
+    S:12000=tmechworks.TMechworks|LengthWire|12000
+    S:12001=tmechworks.TMechworks|SpoolWire|12001
     S:12036=powercrystals.minefactoryreloaded.MineFactoryReloadedCore|ID.NeedleGun|12036
     S:12037=powercrystals.minefactoryreloaded.MineFactoryReloadedCore|ID.NeedleGun.Ammo.Empty|12037
     S:12038=powercrystals.minefactoryreloaded.MineFactoryReloadedCore|ID.NeedleGun.Ammo.Standard|12038
