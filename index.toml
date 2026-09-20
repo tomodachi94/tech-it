@@ -1123,7 +1123,7 @@ hash = "65f428b05d205f52b4fb7ea337f509ccd16643324ec69cc9c1c0198999b6fed2"
 
 [[files]]
 file = "config/microblocks.cfg"
-hash = "f21e610e57c0881d3abd1804d43ae5ee9aea5005d1c8c74c3300476e4ca28aa1"
+hash = "26a25fb305e3962e8be82e3125686bf9ec22d7ce183b2dd72366bb63603f4a00"
 
 [[files]]
 file = "config/minetweaker/main.cfg"
