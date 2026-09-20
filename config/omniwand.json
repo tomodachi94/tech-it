@@ -89,6 +89,7 @@
         "item=item.imprinter",
         "item=item.railcraft.tool.mag.glass",
         "item=item.railcraft.tool.whistle.tuner",
+        "item=item.remoteOrdererItem",
         "item=item.ritualDiviner",
         "name=configurator" ,
         "name=crowbar" ,
