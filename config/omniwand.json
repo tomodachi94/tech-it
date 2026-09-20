@@ -84,6 +84,7 @@
       "Item Whitelist": [
         "item=item.beealyzer",
         "item=item.enderio.itemMJReader",
+        "item=item.extrabiomes.logturner",
         "item=item.infuser",
         "item=item.imprinter",
         "item=item.railcraft.tool.mag.glass",
