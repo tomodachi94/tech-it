@@ -83,6 +83,10 @@
       ] ,
       "Item Whitelist": [
         "item=item.beealyzer",
+		"item=item.hookshoot",
+		"item=item.longshoot",
+		"item=item.manualshoot",
+		"item=item.spiderhook",
         "item=item.enderio.itemMJReader",
         "item=item.extrabiomes.logturner",
         "item=item.infuser",
