@@ -1328,8 +1328,8 @@ file = "mods/BetterDungeons2091.zip"
 hash = "268bedf30fc73d6cffb808f416117e373425be4099fa85952fb67e85f881a76c"
 
 [[files]]
-file = "mods/ComputerCraft1.63+tomo2.jar"
-hash = "42454d9ba261f81fa2eefbc3976abf3b958a895743b75d052059e94e8424889c"
+file = "mods/ComputerCraft1.63+tomo1.jar"
+hash = "8493390ea9ac4af21d1e834b43b655a05c1b084cd6547eb9576b304fd10a10c6"
 
 [[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
