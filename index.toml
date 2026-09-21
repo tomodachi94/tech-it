@@ -1908,9 +1908,5 @@ file = "scripts/silicon.zs"
 hash = "5db712ef8d4d49a69527631fe9376b6be461dcdf561ef1a9f111a7ee5bca0b92"
 
 [[files]]
-file = "scripts/ticon_pattern_recycling.zs"
-hash = "1ffe679d728baa35f540fb0298f42a123c57cf50d8bcf2d54b6d538c2c15b451"
-
-[[files]]
 file = "scripts/wooden_slab_fix.zs"
 hash = "6b8eaaf652c90cdf9e1beb343d1baff4f872a517d75c6e7e980b735b80286c4f"
