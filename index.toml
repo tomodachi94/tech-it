@@ -1102,6 +1102,10 @@ file = "config/immibis.cfg"
 hash = "7fa8069b4b5dce356565000c8caaeaa0b5b54ffa76a57b6ec31c8c48429358c6"
 
 [[files]]
+file = "config/itlt.cfg"
+hash = "5d1747337ecb6334dd1fa326d6d585c15031c5b4930ea4d935c17d7b81442557"
+
+[[files]]
 file = "config/journeymap_ModInfo.cfg"
 hash = "8566ed38b28872a2178043c4e032cff567d3159cd4ecc83c71fd1788326a1eb5"
 
@@ -1551,6 +1555,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "0de74250a2a446a181bde2266d4944990bccddbaf72d9973f1eab961aa3feea6"
+metafile = true
+
+[[files]]
+file = "mods/its-the-little-things.pw.toml"
+hash = "fb15002d963383f41beff9d1f288420b91dd8eb23498458d11805b7c83d13b92"
 metafile = true
 
 [[files]]
