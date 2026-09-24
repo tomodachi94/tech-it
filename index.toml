@@ -1114,6 +1114,11 @@ file = "config/machinemuse/numina.cfg"
 hash = "b29ed1d34914fc9920d99188e970bd646834a69100b3195956d9d86f452e265a"
 
 [[files]]
+file = "config/machinemuse/powersuits-keybinds.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
 file = "config/machinemuse/powersuits.cfg"
 hash = "36125db2d09aa9937e1fdbd74a6ce27b70db6823f7b9cf9e4481ab80b7828c23"
 
