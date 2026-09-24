@@ -1420,7 +1420,7 @@ metafile = true
 
 [[files]]
 file = "mods/calclavia-core.pw.toml"
-hash = "a94421270199f11a9794c75bb14ce7e1001b9deee09b54d8bc9cab4dcdac4bcc"
+hash = "5f56873a55a233411af6affcad5fb872c24b1c3dca10686c07ea69872851b3f7"
 metafile = true
 
 [[files]]
