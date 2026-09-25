@@ -1914,6 +1914,10 @@ file = "scripts/mfr_ores.zs"
 hash = "90650afb3aba3dd7cad21f71e4ad08b394e3cff7d44d3811febf72675005061a"
 
 [[files]]
+file = "scripts/muh.zs"
+hash = "a613136403deaac2355d6cfa7a031ec36829c9c9ecd3fe0cb45a4abac1fe2d75"
+
+[[files]]
 file = "scripts/mystcraft.zs"
 hash = "cc87a96ba698aa73d1f0d40dbca090c12c624753b9da7fa2230e833507bfb493"
 
