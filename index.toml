@@ -1023,7 +1023,7 @@ hash = "fa30ed3ea548871cb1c09b1fb41b7571f765667c5e32752e90063a3f6dc369b5"
 
 [[files]]
 file = "config/cofh/CoFHWorld-Generation.cfg"
-hash = "9fdb47fd4114c7510cd641cd10ed4e2b85bfa32181ebe6c4df4c0f4dbb165b6c"
+hash = "60257fd26e57b848144ac9aaccda3517a63f11dc8070d5b4c0b1761117a385f6"
 
 [[files]]
 file = "config/cofh/CoFHWorld.cfg"
@@ -1051,7 +1051,7 @@ hash = "78d717220216c684eaa98be73f3ea43837c359db6edffb9da6ef28dc7ae6f323"
 
 [[files]]
 file = "config/cofh/WorldCustomGen.txt"
-hash = "13dbece1ebecc84d9bc1751af0a18b79bdc725e28d3885d75984c19ccd046e6b"
+hash = "f2249f41264d62fc4b4bc1362e7054fdf3bf3d048db7795ac0694a25dee3a7bf"
 
 [[files]]
 file = "config/computronics.cfg"

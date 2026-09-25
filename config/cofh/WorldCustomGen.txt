@@ -13,3 +13,4 @@
 #
 
 UNIFORM	QOre	1084	0	5	4	1	24	true
+UNIFORM	Clay	82	0	10	2	35	60	true
