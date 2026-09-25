@@ -1922,6 +1922,10 @@ file = "scripts/openperipherals_oredict.zs"
 hash = "83661a4657d75c6d6957b3e783c732d92be6ab3b6cdccbd1d8a984152fcc2e59"
 
 [[files]]
+file = "scripts/road_lines.zs"
+hash = "c1ed91c89f8c0bec0d442fe516f46a9e3d3dc95ddbd6f016669ec5e69030a714"
+
+[[files]]
 file = "scripts/silicon.zs"
 hash = "5db712ef8d4d49a69527631fe9376b6be461dcdf561ef1a9f111a7ee5bca0b92"
 
