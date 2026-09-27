@@ -1902,6 +1902,10 @@ file = "scripts/creative_builder_wand.zs"
 hash = "de08485432b8768d392e5a83e444d41d12bfb39df18872897d177ce8134e24ff"
 
 [[files]]
+file = "scripts/magical_wood_fixed_output.zs"
+hash = "2277ac130f242525bb59eaf5185ac1988171e953b3e0d572949fa19d43780cdb"
+
+[[files]]
 file = "scripts/marble.zs"
 hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
