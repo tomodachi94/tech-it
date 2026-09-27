@@ -1095,7 +1095,7 @@ hash = "cb6b871e4f6feda7ed64ba8354206ae7928f040d6c1b70cabb4e0d4b2ba53219"
 
 [[files]]
 file = "config/immibis-microblocks.cfg"
-hash = "f1d89215565ec6b52dd03bef30da3fb1ad24e1e808a166bcf74c60e24bb10a3a"
+hash = "15dfbd7ec78ff127911e436affd5a0422476f240c182f1fc59849b28dfc5440b"
 
 [[files]]
 file = "config/immibis.cfg"
@@ -1341,6 +1341,14 @@ file = "mods/ComputerCraft1.63+tomo1.jar"
 hash = "8493390ea9ac4af21d1e834b43b655a05c1b084cd6547eb9576b304fd10a10c6"
 
 [[files]]
+file = "mods/ImmibisMicroblocksNEI-1.0.0.jar"
+hash = "6dfc34e8ed76ffe9f1e7022827c5179c6fcef024b0449e17b4e9c534454bd736"
+
+[[files]]
+file = "mods/LogisticsPipes-MC1.6.4-0.7.4.dev.294.jar"
+hash = "1be630211fefccc2d488b5b94190b99d69437330c65d6114d4cf73a49980289f"
+
+[[files]]
 file = "mods/OpenCCSensors-1.6.4.5.jar"
 hash = "b6ae194571af6d10fd9503198996677fe482d0e99490cf156ef133a24feaa279"
 
@@ -1575,11 +1583,6 @@ metafile = true
 [[files]]
 file = "mods/legacy-java-fixer.pw.toml"
 hash = "caaa38149b453db4e194c99ba64b309c5ee37fea35f5528e632ef289ba1f8ff9"
-metafile = true
-
-[[files]]
-file = "mods/logistics-pipes.pw.toml"
-hash = "9ef1a4ff2e3fb8d614623dbcc092c3b889337ccd51181c82510581527e404e8d"
 metafile = true
 
 [[files]]
