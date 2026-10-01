@@ -1518,6 +1518,11 @@ hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
+file = "mods/harvestcraft-waila-fixes.pw.toml"
+hash = "11e3974f589439c9b76f26b0bc4020474fba570e3afb9bf119e23485a90b28b5"
+metafile = true
+
+[[files]]
 file = "mods/hats.pw.toml"
 hash = "dd296bfad83b27cbeec85bc62a3f0fddab9d1c300508cbe64e2df9773abab909"
 metafile = true
@@ -1866,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "cf23e0c4ca984ca9511bcd526c0e52f1aa02da3d53d0af51b5af549b3bcafe9b"
+hash = "1a31b80f37da9bcabe6cd2448d6e824c8807b84a0cfc2928ab637a6ae2097d7e"
 metafile = true
 
 [[files]]

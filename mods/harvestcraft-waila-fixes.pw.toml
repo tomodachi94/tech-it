@@ -1,0 +1,13 @@
+name = "HarvestCraft Waila Fixes"
+filename = "HarvestCraftWaila-mc1.6.4-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc94b891f8127796f1d04d73715a21486f7ad28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2205013
+project-id = 78547
