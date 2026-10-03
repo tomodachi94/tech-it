@@ -1907,6 +1907,10 @@ file = "scripts/creative_builder_wand.zs"
 hash = "de08485432b8768d392e5a83e444d41d12bfb39df18872897d177ce8134e24ff"
 
 [[files]]
+file = "scripts/liquified_ender.zs"
+hash = "aa98cf783291a5c84a53c5715c108d4aece7d644899ef080ad4c8a3fa24302a4"
+
+[[files]]
 file = "scripts/marble.zs"
 hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
