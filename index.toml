@@ -1518,6 +1518,11 @@ hash = "53be04f020d16b09bf60ffdb800c9c889030a1a5e5e0d43e3c2039c01e487377"
 metafile = true
 
 [[files]]
+file = "mods/harvestcraft-waila-fixes.pw.toml"
+hash = "11e3974f589439c9b76f26b0bc4020474fba570e3afb9bf119e23485a90b28b5"
+metafile = true
+
+[[files]]
 file = "mods/hats.pw.toml"
 hash = "dd296bfad83b27cbeec85bc62a3f0fddab9d1c300508cbe64e2df9773abab909"
 metafile = true
@@ -1828,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "d4f5fe64aa46478c32650ca3ac1a4caa0d84affdeba1f85f5661b22fde60b97f"
+hash = "5ed3568709847ebc3c516035b76103e1d064acfd584c1b41aad95ca19f87a15c"
 metafile = true
 
 [[files]]
@@ -1866,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/waila.pw.toml"
-hash = "cf23e0c4ca984ca9511bcd526c0e52f1aa02da3d53d0af51b5af549b3bcafe9b"
+hash = "1a31b80f37da9bcabe6cd2448d6e824c8807b84a0cfc2928ab637a6ae2097d7e"
 metafile = true
 
 [[files]]
@@ -1900,6 +1905,10 @@ hash = "c4dab1679253f2d93bb0b985aec091a05a31bdaa916582f7016fa068a0aa4635"
 [[files]]
 file = "scripts/creative_builder_wand.zs"
 hash = "de08485432b8768d392e5a83e444d41d12bfb39df18872897d177ce8134e24ff"
+
+[[files]]
+file = "scripts/liquified_ender.zs"
+hash = "aa98cf783291a5c84a53c5715c108d4aece7d644899ef080ad4c8a3fa24302a4"
 
 [[files]]
 file = "scripts/marble.zs"

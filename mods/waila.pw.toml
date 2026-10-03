@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
-description = "Allows you to know the name and mod of items you are currently looking at. If you're disabling this, make sure to also turn off Waila Harvestability."
+description = "Allows you to know the name and mod of items you are currently looking at. If you're disabling this, make sure to also turn off Waila Harvestability and HarvestCraft Waila Fixes."
 
 [download]
 hash-format = "sha512"

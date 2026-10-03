@@ -1,8 +1,8 @@
 name = "Tinkers' Construct"
-filename = "TConstruct-1.6.4-2026.09.28.jar"
+filename = "TConstruct-1.6.4-2026.09.29.jar"
 side = "both"
 
 [download]
-url = "https://github.com/tomodachi94/TinkersConstruct-1.6.4/releases/download/v2026.09.28/TConstruct-1.6.4-2026.09.28.jar"
+url = "https://github.com/tomodachi94/TinkersConstruct-1.6.4/releases/download/v2026.09.29/TConstruct-1.6.4-2026.09.29.jar"
 hash-format = "sha256"
-hash = "2f62a88ff2cf8e58c02740980a3fd115a02a61b800a93e6986025a09925de516"
+hash = "3dfa089edc3101c13dfbbee6ea265d56d420f8ccb981072f03bcda0da420010f"
