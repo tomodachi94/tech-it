@@ -703,7 +703,7 @@ hash = "cdf1ad36ddbd79549a45e316b99dd8beed30fd3db14b9a77b286e89b09e008f0"
 
 [[files]]
 file = "config/AtomicScience.cfg"
-hash = "eb6316ba011406af5ba948e2d73b1936abcac98391cf7eb6616db8b4ed111333"
+hash = "3d8d7f6875ded67c7b6166fc7d82da9ae25c31513dbb4464631bb12ce0a7062d"
 
 [[files]]
 file = "config/Autoutils.cfg"
@@ -727,7 +727,7 @@ hash = "d0b29c1cbbc28ac6ee6d1c187ce95fc959134dc42539fe495d0e4f2e4a32da8f"
 
 [[files]]
 file = "config/BigReactors/BigReactors.cfg"
-hash = "540637ce04e5af4f3fb3453d86cab7278f55552d4238f81677b56afe1a917b8f"
+hash = "9c5af7f6411bd0f6efecf288de0fd6cbd1e762809e0b5a8d2740d4a960770496"
 
 [[files]]
 file = "config/Botania.cfg"
@@ -1300,7 +1300,7 @@ hash = "6fa0615dd230ed96a0b38ee47e1f8701f3875120d99d7ccb32918da29f347630"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "af882b1c8a057c06b688f95ec20ab337892fadeb8e620b72cee7441e4f2b01c5"
+hash = "c680707d92287da80a0862104a7932f970bb3f1ff97f9061aa25edfad679c667"
 
 [[files]]
 file = "config/redirectionor_cfg.json"
@@ -1562,11 +1562,6 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "5461b0c51029e9bcac25f837faa4b9b769b7dcd870766f4661920d33efc5f8c5"
-metafile = true
-
-[[files]]
-file = "mods/idfix-minus.pw.toml"
-hash = "75ffac7082f66f8c25d4ec26622c5d6f80bd9599eb018aef2dc08e26e3e37d35"
 metafile = true
 
 [[files]]
