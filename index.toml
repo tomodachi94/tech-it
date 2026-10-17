@@ -1348,7 +1348,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "dba18b160f428113e50653d831bdf96075084a442d238d193ef67f0581964109"
+hash = "e82dbc77f82bc2780f9f9682ad3eab8d7f7a098d8c6c79dde012b057c73837e1"
 
 [[files]]
 file = "java.security"
@@ -1563,10 +1563,6 @@ metafile = true
 file = "mods/ichunutil.pw.toml"
 hash = "5461b0c51029e9bcac25f837faa4b9b769b7dcd870766f4661920d33efc5f8c5"
 metafile = true
-
-[[files]]
-file = "mods/idfixminus-1.6.4-1.0.0.jar"
-hash = "4fd902fa366933d6330f7fab23c63884cad6a6c2898e1e2ae6ec882738543ac4"
 
 [[files]]
 file = "mods/immibis-core.pw.toml"
