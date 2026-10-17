@@ -1,0 +1,8 @@
+name = "Mekanism Generators"
+filename = "MekanismGenerators-6.0.2.17.jar"
+side = "both"
+
+[download]
+url = "https://eu2.contabostorage.com/f9f5ea7cee6e4089be6fd576f7af4a70:mcmodarchive/Mods/M/mekanism%20generators/1.6.4/MekanismGenerators-6.0.2.17.jar"
+hash-format = "sha256"
+hash = "cc9ad837ebc9edfdd23826bc5a30d8cba93df6721a310f71de259a085a26c67e"

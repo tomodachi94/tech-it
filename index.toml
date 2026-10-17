@@ -1348,7 +1348,7 @@ hash = "49f10262d885dea994ee7372ca36d64d260d7e5bbb1af00db152b9fa79f8f744"
 
 [[files]]
 file = "idfixminus.txt"
-hash = "e82dbc77f82bc2780f9f9682ad3eab8d7f7a098d8c6c79dde012b057c73837e1"
+hash = "dba18b160f428113e50653d831bdf96075084a442d238d193ef67f0581964109"
 
 [[files]]
 file = "java.security"
@@ -1565,6 +1565,10 @@ hash = "5461b0c51029e9bcac25f837faa4b9b769b7dcd870766f4661920d33efc5f8c5"
 metafile = true
 
 [[files]]
+file = "mods/idfixminus-1.6.4-1.0.0.jar"
+hash = "4fd902fa366933d6330f7fab23c63884cad6a6c2898e1e2ae6ec882738543ac4"
+
+[[files]]
 file = "mods/immibis-core.pw.toml"
 hash = "5c6838e5c982e09fc75b2199f88dad63a1799d171393747089713772ae717e66"
 metafile = true
@@ -1622,6 +1626,11 @@ metafile = true
 [[files]]
 file = "mods/mattcore.pw.toml"
 hash = "af4e083f7fb55565aa1818f330e6e81515baa9233c338412b9481a66a697c132"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ffb4d9a64379ba767ba853528684041ddf1abd1c67f91c75c9aace6658a9f60d"
 metafile = true
 
 [[files]]
