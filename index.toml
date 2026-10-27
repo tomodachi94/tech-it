@@ -1957,6 +1957,10 @@ file = "scripts/marble.zs"
 hash = "0b8e4246c7f9383a1903ddff5ca521fec3ad2c8db98af0fac1552e7efb0e79a9"
 
 [[files]]
+file = "scripts/meats.zs"
+hash = "7287f85b4a5cdb4f63d5df9bf3559601a775b521e1304401d560c0572b14c741"
+
+[[files]]
 file = "scripts/melt_down_junk.zs"
 hash = "bbedb4fd36d2d73fb60dfabf30d548948f506c9b4ed89fd3287950c6dfcfdf9c"
 
