@@ -1355,11 +1355,6 @@ file = "java.security"
 hash = "f0e6d236a17caddf266f6c94c721392001c65de7f2e9ba99f1ec7f2e3ccc8935"
 
 [[files]]
-file = "lumy-skin-patch.pw.toml"
-hash = "74d1475cb4a6cf2dbf5e31cdd9ff96489893146d97b35ee91346ffbbea5f401b"
-metafile = true
-
-[[files]]
 file = "mods/4-space.pw.toml"
 hash = "e1de048a2010ca5728723fa74ac5ee21d2d1e97abfcc35e2c29ba0870b4eedb8"
 metafile = true
